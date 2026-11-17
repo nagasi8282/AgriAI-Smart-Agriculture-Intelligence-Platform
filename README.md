@@ -1,4 +1,4 @@
-<img width="584" height="367" alt="image" src="https://github.com/user-attachments/assets/1a2a9796-eb5c-4c56-92d3-b57417f2210e" /># 🌾 AgriAI – Smart Agriculture Intelligence Platform
+# 🌾 AgriAI – Smart Agriculture Intelligence Platform
 
 AgriAI is an end-to-end agriculture intelligence platform designed to transform agricultural data into meaningful insights using Data Engineering, Machine Learning, Deep Learning, and Generative AI.
 
