@@ -43,46 +43,96 @@ def apply_saas_theme(dark_mode: bool = False):
             /* 1. SIDEBAR: Deep Forest Green (#0d3821) SaaS Aesthetic    */
             /* ========================================================= */
             section[data-testid="stSidebar"] {{
+                width: 330px !important;
+                min-width: 320px !important;
                 background: linear-gradient(180deg, #0d3821 0%, #114528 45%, #092c19 100%) !important;
                 border-right: 1px solid rgba(255, 255, 255, 0.08) !important;
-                box-shadow: 4px 0 20px rgba(0, 0, 0, 0.15);
+                box-shadow: 4px 0 24px rgba(0, 0, 0, 0.25) !important;
+            }}
+
+            section[data-testid="stSidebar"] > div:first-child {{
+                width: 330px !important;
             }}
 
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] {{
-                padding-top: 0.5rem;
+                padding-top: 0.2rem !important;
             }}
 
-            /* Sidebar Nav Links */
-            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul li a {{
-                color: #e2e8f0 !important;
-                font-weight: 500 !important;
-                font-size: 0.92rem !important;
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul {{
+                padding-left: 0 !important;
+                list-style: none !important;
+            }}
+
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul li {{
+                margin: 4px 6px !important;
+            }}
+
+            /* Force bright, high-contrast, crystal-clear white text for all sidebar nav items */
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] * {{
+                color: #ffffff !important;
+            }}
+
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a {{
+                color: #ffffff !important;
+                background: rgba(255, 255, 255, 0.06) !important;
+                border: 1px solid rgba(255, 255, 255, 0.1) !important;
+                font-weight: 600 !important;
+                font-size: 0.95rem !important;
                 border-radius: 9px !important;
                 padding: 10px 14px !important;
-                margin: 3px 10px !important;
-                transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
                 display: flex !important;
                 align-items: center !important;
+                transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+                text-decoration: none !important;
             }}
 
-            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul li a:hover {{
-                background: rgba(255, 255, 255, 0.1) !important;
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] span,
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] [data-testid="stSidebarNavLinkText"],
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a span,
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a p {{
                 color: #ffffff !important;
-                transform: translateX(3px);
+                font-weight: 600 !important;
+                font-size: 0.95rem !important;
+                white-space: normal !important;
+                text-overflow: unset !important;
+                overflow: visible !important;
+                display: inline-block !important;
+                line-height: 1.35 !important;
             }}
 
-            /* Active Nav Item: Vibrant Emerald Green Pill */
-            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul li a[aria-current="page"],
-            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul li a.active {{
-                background: #22c55e !important;
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a:hover {{
+                background: rgba(34, 197, 94, 0.28) !important;
+                border-color: #22c55e !important;
+                color: #ffffff !important;
+                transform: translateX(4px) !important;
+            }}
+
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a:hover span,
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a:hover * {{
+                color: #ffffff !important;
+            }}
+
+            /* Active Nav Item: Vibrant Emerald Green */
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a[aria-current="page"],
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a.active,
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] li:has(a[aria-current="page"]) a {{
+                background: linear-gradient(135deg, #16a34a 0%, #15803d 100%) !important;
+                border-color: #22c55e !important;
                 color: #ffffff !important;
                 font-weight: 700 !important;
-                box-shadow: 0 4px 12px rgba(34, 197, 94, 0.35) !important;
+                box-shadow: 0 4px 14px rgba(22, 163, 74, 0.45) !important;
+            }}
+
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a[aria-current="page"] span,
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a[aria-current="page"] *,
+            section[data-testid="stSidebar"] [data-testid="stSidebarNav"] li:has(a[aria-current="page"]) span {{
+                color: #ffffff !important;
+                font-weight: 700 !important;
             }}
 
             section[data-testid="stSidebar"] hr {{
                 border-color: rgba(255, 255, 255, 0.12) !important;
-                margin: 1rem 0 !important;
+                margin: 0.8rem 0 !important;
             }}
 
             /* Sidebar custom brand logo */
@@ -487,8 +537,105 @@ def apply_saas_theme(dark_mode: bool = False):
     )
 
 
+# Comprehensive AgriAI search index across modules, crops, and datasets
+SEARCH_INDEX = [
+    {
+        "keywords": ["crop", "rice", "paddy", "cotton", "chillies", "groundnut", "maize", "sugarcane", "production", "area", "harvest", "yield trend"],
+        "title": "🌾 Crop Intelligence",
+        "description": "Historical crop production, harvested area, and yield trends across 13 AP districts.",
+        "page": "pages/1_🌾_Crop_Intelligence.py",
+        "badge": "PRODUCTION ANALYTICS",
+    },
+    {
+        "keywords": ["weather", "rain", "rainfall", "temperature", "temp", "humidity", "climate", "forecast", "monsoon", "drought"],
+        "title": "🌦️ Weather Intelligence",
+        "description": "Meteorological time-series, cumulative rainfall anomalies, and 5-day weather forecasts.",
+        "page": "pages/2_🌦️_Weather_Intelligence.py",
+        "badge": "CLIMATE MONITORING",
+    },
+    {
+        "keywords": ["mandi", "price", "apmc", "market", "arrival", "modal", "wholesale", "spot price", "trading", "guntur mandi"],
+        "title": "💰 Mandi Price Analytics",
+        "description": "AGMARKNET wholesale commodity prices, daily arrivals, and inter-mandi price spreads.",
+        "page": "pages/3_💰_Mandi_Price_Analytics.py",
+        "badge": "MARKET INTELLIGENCE",
+    },
+    {
+        "keywords": ["soil", "fertilizer", "urea", "dap", "mop", "ssp", "nitrogen", "phosphorus", "potassium", "npk", "ph", "angrau", "zinc", "gypsum", "lime"],
+        "title": "🧪 Soil Health & Fertilizer Advisory",
+        "description": "Soil nutrient diagnosis, ML formulation selection (98% accuracy), and ANGRAU 50kg bag schedules.",
+        "page": "pages/4_🧪_Soil_and_Fertilizer.py",
+        "badge": "PRECISION AGRONOMY",
+    },
+    {
+        "keywords": ["yield", "predict yield", "yield forecast", "crop yield prediction", "tonnes", "quintal", "shap", "random forest yield"],
+        "title": "📈 Crop Yield Prediction",
+        "description": "ML regression forecasting crop harvest yield (Q/Ha) with TreeSHAP feature attributions.",
+        "page": "pages/5_📈_Crop_Yield_Prediction.py",
+        "badge": "PREDICTIVE ML",
+    },
+    {
+        "keywords": ["price prediction", "price forecast", "future price", "modal price prediction", "time series price"],
+        "title": "📊 Mandi Price Prediction",
+        "description": "Statistical time-series forecasting projecting wholesale modal prices across 7 to 30 days.",
+        "page": "pages/6_📊_Mandi_Price_Prediction.py",
+        "badge": "FINANCIAL FORECASTING",
+    },
+    {
+        "keywords": ["disease", "leaf", "plant disease", "blight", "rot", "spot", "mildew", "rust", "pathology", "grad-cam", "mobilenet", "efficientnet"],
+        "title": "🍃 Plant Disease Detection",
+        "description": "Transfer learning computer vision classifying leaf diseases with Grad-CAM visual heatmaps.",
+        "page": "pages/7_🍃_Plant_Disease_Detection.py",
+        "badge": "DEEP LEARNING VISION",
+    },
+    {
+        "keywords": ["chat", "assistant", "bot", "ask ai", "agriai chat", "question", "advice", "agronomy questions"],
+        "title": "🤖 AgriAI Chat Assistant",
+        "description": "Conversational assistant grounded in regional agricultural datasets and ANGRAU guidelines.",
+        "page": "pages/8_🤖_AgriAI_Chat_Assistant.py",
+        "badge": "GENERATIVE AI",
+    },
+    {
+        "keywords": ["pdf", "agridoc", "rag", "document", "research paper", "citations", "demilie", "pdf assistant", "upload pdf"],
+        "title": "📄 AgriDoc AI PDF Assistant",
+        "description": "Retrieval-Augmented Generation over agricultural papers with exact page-level citations.",
+        "page": "pages/9_📄_AgriDoc_AI_PDF_Assistant.py",
+        "badge": "LITERATURE RAG",
+    },
+    {
+        "keywords": ["report", "download", "csv", "export", "audit", "dataset download"],
+        "title": "📑 Reports & Downloads",
+        "description": "Generate official agricultural audit reports and download sanitized datasets in CSV format.",
+        "page": "pages/10_📑_Reports_and_Downloads.py",
+        "badge": "EXPORT ENGINE",
+    },
+    {
+        "keywords": ["about", "architecture", "thesis", "mtech", "methodology", "data flow", "snowflake", "dbt", "airflow"],
+        "title": "ℹ️ About Project",
+        "description": "Comprehensive M.Tech architectural profile, system specifications, and literature references.",
+        "page": "pages/11_ℹ️_About_Project.py",
+        "badge": "SYSTEM SPECS",
+    },
+]
+
+PAGE_QUICK_JUMP = {
+    "🏠 Dashboard Overview": "Home.py",
+    "🌾 Crop Intelligence": "pages/1_🌾_Crop_Intelligence.py",
+    "🌦️ Weather Intelligence": "pages/2_🌦️_Weather_Intelligence.py",
+    "💰 Mandi Price Analytics": "pages/3_💰_Mandi_Price_Analytics.py",
+    "🧪 Soil & Fertilizer Advisory": "pages/4_🧪_Soil_and_Fertilizer.py",
+    "📈 Crop Yield Prediction": "pages/5_📈_Crop_Yield_Prediction.py",
+    "📊 Mandi Price Prediction": "pages/6_📊_Mandi_Price_Prediction.py",
+    "🍃 Plant Disease Detection": "pages/7_🍃_Plant_Disease_Detection.py",
+    "🤖 AgriAI Chat Assistant": "pages/8_🤖_AgriAI_Chat_Assistant.py",
+    "📄 AgriDoc AI PDF Assistant": "pages/9_📄_AgriDoc_AI_PDF_Assistant.py",
+    "📑 Reports & Downloads": "pages/10_📑_Reports_and_Downloads.py",
+    "ℹ️ About Project": "pages/11_ℹ️_About_Project.py",
+}
+
+
 def render_sidebar():
-    """Render the standard Agrivision AI styled sidebar."""
+    """Render the standard Agrivision AI styled sidebar with visible navigation and quick jump."""
     with st.sidebar:
         # Brand logo
         st.markdown(
@@ -506,7 +653,7 @@ def render_sidebar():
 
         st.markdown(
             """
-            <div style="padding: 0 10px; margin-bottom: 10px;">
+            <div style="padding: 0 10px; margin-bottom: 6px;">
                 <span style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 1px; color: #86efac; font-weight: 700;">
                     Platform Modules
                 </span>
@@ -514,6 +661,18 @@ def render_sidebar():
             """,
             unsafe_allow_html=True,
         )
+
+        # Quick Page Switcher
+        quick_select = st.selectbox(
+            "⚡ Quick Page Switcher",
+            options=["Select page to jump..."] + list(PAGE_QUICK_JUMP.keys()),
+            index=0,
+            key="sidebar_page_quick_jump",
+            label_visibility="collapsed",
+        )
+        if quick_select != "Select page to jump...":
+            target_script = PAGE_QUICK_JUMP[quick_select]
+            st.switch_page(target_script)
 
         # Bottom Card
         st.markdown(
@@ -529,30 +688,151 @@ def render_sidebar():
 
 
 def render_top_bar(current_district: str = "Guntur"):
-    """Render the top SaaS application bar with search, state/district pill, date, and user profile."""
+    """
+    Render top application bar with:
+    1. Working Global Search Bar across crops, mandis, diseases, and pages.
+    2. Real-time Location Pill & Current Date Badge.
+    3. User Authentication Popover with full Login / Switch Account options.
+    """
+    # 1. State-aware authentication management
+    if "auth_user" not in st.session_state:
+        st.session_state.auth_user = {
+            "is_logged_in": False,
+            "name": "Guest Farmer",
+            "role": "Farmer",
+            "district": current_district or "Guntur",
+        }
+
     current_date_str = datetime.now().strftime("%b %d, %Y")
-    st.markdown(
-        f"""
-        <div class="top-bar-container">
-            <div class="top-search-mock">
-                <span>🔍</span>
-                <span>Search crops, mandis, or advisory literature...</span>
-            </div>
-            <div class="top-actions-cluster">
-                <div class="top-badge">📍 {current_district}, Andhra Pradesh</div>
+    active_district = st.session_state.auth_user.get("district", current_district)
+    user_name = st.session_state.auth_user.get("name", "Guest Farmer")
+    user_role = st.session_state.auth_user.get("role", "Farmer")
+    is_logged_in = st.session_state.auth_user.get("is_logged_in", False)
+
+    # 2. Render Top Bar 3-Column Layout
+    col_search, col_meta, col_auth = st.columns([1.6, 1.0, 1.0], vertical_alignment="center")
+
+    # Column 1: Working Search Bar
+    with col_search:
+        search_query = st.text_input(
+            "Search AgriAI Platform",
+            placeholder="🔍 Search crops, mandis, diseases, predictions (e.g. Cotton, Guntur)...",
+            label_visibility="collapsed",
+            key="global_top_search_input",
+        )
+
+    # Column 2: Location and Date Badges
+    with col_meta:
+        st.markdown(
+            f"""
+            <div style="display:flex; align-items:center; justify-content:center; gap:8px;">
+                <div class="top-badge">📍 {active_district}, AP</div>
                 <div class="top-badge">📅 {current_date_str}</div>
-                <div class="user-profile-chip">
-                    <div class="user-avatar">JD</div>
-                    <div class="user-meta">
-                        <span class="user-greeting">Welcome,</span>
-                        <span class="user-name">Jyoti Developer</span>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    # Column 3: User Login & Account Switch Option (Replacing static Jyoti Developer)
+    with col_auth:
+        if not is_logged_in:
+            with st.popover("🔑 Login / Sign In", use_container_width=True):
+                st.markdown("#### 🌾 AgriAI User Sign In")
+                st.caption("Sign in to access personalized farm analytics, model predictions, and advisory downloads.")
+                login_user = st.text_input("Username or Mobile Number", placeholder="e.g. nagasai or 9876543210", key="login_field_user")
+                login_pass = st.text_input("Password", type="password", placeholder="Enter your password", key="login_field_pass")
+                login_role = st.selectbox(
+                    "User Category / Role",
+                    ["Farmer", "Agronomist / Scientist", "Agricultural Extension Officer (RBK)", "Student / Researcher"],
+                    index=0,
+                    key="login_field_role",
+                )
+                login_dist = st.selectbox(
+                    "Default Farm District",
+                    ["Guntur", "Krishna", "Kurnool", "Anantapur", "East Godavari", "West Godavari", "Chittoor", "Prakasam"],
+                    index=0,
+                    key="login_field_dist",
+                )
+                bcol1, bcol2 = st.columns(2)
+                with bcol1:
+                    if st.button("Sign In", type="primary", use_container_width=True, key="login_btn_submit"):
+                        uname = login_user.strip() if login_user.strip() else "Nagasai Farmer"
+                        st.session_state.auth_user = {
+                            "is_logged_in": True,
+                            "name": uname,
+                            "role": login_role,
+                            "district": login_dist,
+                        }
+                        st.rerun()
+                with bcol2:
+                    if st.button("Quick Demo Login", use_container_width=True, key="login_btn_demo"):
+                        st.session_state.auth_user = {
+                            "is_logged_in": True,
+                            "name": "Nagasai (Farmer)",
+                            "role": "Farmer",
+                            "district": "Guntur",
+                        }
+                        st.rerun()
+        else:
+            role_short = user_role.split()[0]
+            with st.popover(f"👤 {user_name} ({role_short})", use_container_width=True):
+                st.markdown(f"### 🌾 {user_name}")
+                st.markdown(f"**Role:** {user_role}")
+                st.markdown(f"**Operating District:** {active_district}, Andhra Pradesh")
+                st.markdown("**Status:** Verified User 🟢")
+                st.markdown("---")
+                if st.button("Sign Out / Switch Account", type="secondary", use_container_width=True, key="logout_btn_submit"):
+                    st.session_state.auth_user = {
+                        "is_logged_in": False,
+                        "name": "Guest Farmer",
+                        "role": "Farmer",
+                        "district": "Guntur",
+                    }
+                    st.rerun()
+
+    # 3. Interactive Search Results Display (Triggered when user types a query)
+    if search_query and search_query.strip():
+        query_clean = search_query.strip().lower()
+        matched_modules = []
+        for mod in SEARCH_INDEX:
+            if (
+                any(kw in query_clean or query_clean in kw for kw in mod["keywords"])
+                or query_clean in mod["title"].lower()
+                or query_clean in mod["description"].lower()
+            ):
+                matched_modules.append(mod)
+
+        st.markdown(
+            f"""
+            <div style="background:#ffffff; border:2px solid #22c55e; border-radius:12px; padding:16px 20px; margin: 10px 0 20px 0; box-shadow: 0 4px 14px rgba(34, 197, 94, 0.15);">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                    <div style="font-weight:700; color:#0f172a; font-size:1.05rem;">
+                        🔍 AgriAI Search Results for <span style="color:#15803d;">"{search_query}"</span> ({len(matched_modules)} modules found)
                     </div>
+                    <span style="font-size:0.8rem; background:#ecfdf5; color:#15803d; padding:3px 10px; border-radius:12px; font-weight:700;">INSTANT NAVIGATION</span>
                 </div>
             </div>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+            """,
+            unsafe_allow_html=True,
+        )
+
+        if matched_modules:
+            m_cols = st.columns(min(len(matched_modules), 3))
+            for idx, item in enumerate(matched_modules[:3]):
+                with m_cols[idx]:
+                    st.markdown(
+                        f"""
+                        <div style="background:#f8fafc; border:1px solid #e2e8f0; border-top:3px solid #16a34a; border-radius:8px; padding:14px; height:100%;">
+                            <span style="font-size:0.7rem; font-weight:700; color:#15803d; text-transform:uppercase;">{item['badge']}</span>
+                            <div style="font-weight:700; color:#0f172a; font-size:0.95rem; margin:4px 0;">{item['title']}</div>
+                            <p style="font-size:0.82rem; color:#64748b; margin:0 0 10px 0;">{item['description']}</p>
+                        </div>
+                        """,
+                        unsafe_allow_html=True,
+                    )
+                    st.page_link(item["page"], label=f"Open {item['title'].split()[1]} ➔", use_container_width=True)
+        else:
+            st.info(f"No direct modules found for '{search_query}'. Try searching for: Cotton, Paddy, Mandi Prices, Weather, Fertilizer, Leaf Disease, Yield Prediction, or Research PDF.")
 
 
 def render_hero_banner(
