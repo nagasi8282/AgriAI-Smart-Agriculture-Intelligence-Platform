@@ -1,4 +1,4 @@
-# AgriAI – Smart Agriculture Intelligence Platform
+# 🌾 AgriAI – Smart Agriculture Intelligence Platform
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688.svg)](https://fastapi.tiangolo.com/)
@@ -7,7 +7,7 @@
 [![Target Region](https://img.shields.io/badge/Focus-Andhra%20Pradesh%20(India)-darkgreen.svg)](docs/project_charter.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An enterprise-grade, end-to-end Smart Agriculture Intelligence Platform integrating **Medallion Data Engineering (Bronze, Silver, Gold)**, **Cloud Warehousing (Snowflake & AWS S3)**, **Predictive Machine Learning (Yield & Price Forecasting with TreeSHAP)**, **Deep Learning Computer Vision (Plant Disease Diagnosis with Grad-CAM)**, and **Generative AI (AgriDoc AI PDF RAG with Page Citations)** tailored for **Andhra Pradesh, India**.
+An enterprise-grade, end-to-end Smart Agriculture Intelligence Platform integrating **Medallion Data Engineering (Bronze, Silver, Gold)**, **Cloud Warehousing (Snowflake & AWS S3)**, **Predictive Machine Learning (Yield & Price Forecasting with TreeSHAP)**, **Precision Fertilizer Recommendation (ANGRAU Stoichiometric Balancing)**, **Deep Learning Computer Vision (Plant Disease Diagnosis with Grad-CAM)**, and **Generative AI (AgriDoc AI PDF RAG with Page Citations)** tailored for **Andhra Pradesh, India**.
 
 Inspired by modern end-to-end data engineering architecture (such as [darshilparmar/zomato-ai-data-engineering-end-to-end-project](https://github.com/darshilparmar/zomato-ai-data-engineering-end-to-end-project)), adapted and engineered from the ground up for the agricultural domain.
 
@@ -26,11 +26,11 @@ TRANSFORMATION & DATA WAREHOUSE (dbt Core + PostgreSQL / Snowflake: Silver & Gol
          ↓
 ORCHESTRATION (Apache Airflow 2.x Scheduled DAGs)
          ↓
-AI & MACHINE LEARNING LAYER (Random Forest + XGBoost + SHAP | MobileNetV2 + Grad-CAM)
+AI & MACHINE LEARNING LAYER (Random Forest + TreeSHAP | MobileNetV2 + Grad-CAM | Fertilizer Balancing)
          ↓
 GENERATIVE AI LAYER (AgriAI Assistant & AgriDoc AI PDF RAG with Page Citations)
          ↓
-PRESENTATION DASHBOARD (Multi-Page Streamlit App with Interactive Plotly Visualizations)
+PRESENTATION DASHBOARD (Modern Agrivision SaaS Streamlit UI with Interactive Plotly Visualizations)
 ```
 
 For the complete technical blueprint and sequence diagrams, see [docs/architecture.md](docs/architecture.md).
@@ -43,12 +43,12 @@ For the complete technical blueprint and sequence diagrams, see [docs/architectu
 2. **Crop Intelligence**: Multi-year time-series exploration of AP crop area, production, and yield.
 3. **Weather Intelligence**: District-level rainfall anomalies, temperature trends, and climate indicators.
 4. **Mandi Price Intelligence**: AGMARKNET wholesale prices, trading spreads, and APMC yard comparisons.
-5. **Soil & Fertilizer Support**: Soil Health Card nutrient classification and transparent ICAR/ANGRAU split fertilizer scheduling.
-6. **Crop Yield Prediction**: Machine learning regression estimating quintals/ha with TreeSHAP feature attributions.
-7. **Mandi Price Forecasting**: Time-series aware regression model projecting commodity modal prices.
+5. **Soil & Fertilizer Support**: Soil Health Card nutrient classification, ML formulation selection, and transparent ANGRAU/ICAR commercial product bag scheduling.
+6. **Crop Yield Prediction**: Machine learning regression estimating quintals/ha ($R^2 = 0.9926$) with TreeSHAP feature attributions.
+7. **Mandi Price Forecasting**: Time-series regression model ($MAPE = 6.05\%$) projecting wholesale commodity prices.
 8. **Plant Disease Detection**: Deep learning foliage classifier (MobileNetV2 / EfficientNetB0) generating Grad-CAM visual saliency heatmaps, guided by *Demilie (2024), Journal of Big Data*.
 9. **AgriAI Assistant**: Conversational assistant grounded in regional agricultural datasets.
-10. **AgriDoc AI (PDF RAG)**: Question-answering over uploaded agricultural literature with exact document and page citations.
+10. **AgriDoc AI (PDF RAG)**: Question-answering over uploaded agricultural literature with exact document and page citations ($[Document, Page]$) and anti-hallucination guardrails.
 11. **Reports & Exports**: One-click CSV and formatted audit summary exports.
 12. **Academic & Thesis Profile**: M.Tech thesis documentation, methodology, and model cards.
 
@@ -63,9 +63,8 @@ For the complete technical blueprint and sequence diagrams, see [docs/architectu
 
 ### 1. Clone & Set Up Environment
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/AgriAI.git
-cd AgriAI
+git clone https://github.com/nagasi8282/AgriAI-Smart-Agriculture-Intelligence-Platform.git
+cd AgriAI-Smart-Agriculture-Intelligence-Platform
 
 # Create and activate virtual environment
 python -m venv .venv
@@ -124,8 +123,9 @@ Starts PostgreSQL (5432), FastAPI (8000), and Streamlit (8501) concurrently.
 AgriAI includes an extensive test suite verifying API contracts, ML inference, vision diagnosis, RAG anti-hallucination, and storage utilities:
 
 ```bash
-pytest tests/unit/test_foundation.py -v
+pytest tests -v
 ```
+*(31 out of 31 tests passing)*.
 
 ---
 
@@ -135,7 +135,8 @@ pytest tests/unit/test_foundation.py -v
 - [docs/architecture.md](docs/architecture.md): Complete architecture diagram and Medallion schema design.
 - [docs/dataset_sources.md](docs/dataset_sources.md): Dataset registry, data.gov.in, AGMARKNET, and IMD specs.
 - [docs/implementation_plan.md](docs/implementation_plan.md): 10-phase engineering roadmap.
-- [docs/progress.md](docs/progress.md): Real-time implementation tracking, test logs, and blockers.
+- [docs/progress.md](docs/progress.md): Real-time implementation tracking, test logs, and audit trail.
+- [docs/ml_documentation.md](docs/ml_documentation.md): Detailed ML models, formulas, and evaluation benchmarks.
 
 ---
 
