@@ -42,16 +42,35 @@ def apply_saas_theme(dark_mode: bool = False):
             /* ========================================================= */
             /* 1. SIDEBAR: Deep Forest Green (#0d3821) SaaS Aesthetic    */
             /* ========================================================= */
+            /* Sidebar: Clean Expanded vs Collapsed States */
             section[data-testid="stSidebar"] {{
-                width: 330px !important;
-                min-width: 320px !important;
                 background: linear-gradient(180deg, #0d3821 0%, #114528 45%, #092c19 100%) !important;
                 border-right: 1px solid rgba(255, 255, 255, 0.08) !important;
                 box-shadow: 4px 0 24px rgba(0, 0, 0, 0.25) !important;
+                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
             }}
 
-            section[data-testid="stSidebar"] > div:first-child {{
-                width: 330px !important;
+            section[data-testid="stSidebar"][aria-expanded="true"] {{
+                width: 320px !important;
+                min-width: 300px !important;
+            }}
+
+            section[data-testid="stSidebar"][aria-expanded="true"] > div:first-child {{
+                width: 320px !important;
+            }}
+
+            section[data-testid="stSidebar"][aria-expanded="false"] {{
+                margin-left: -340px !important;
+                width: 0 !important;
+                min-width: 0 !important;
+                visibility: hidden !important;
+                box-shadow: none !important;
+                border-right: none !important;
+            }}
+
+            section[data-testid="stSidebar"][aria-expanded="false"] > div:first-child {{
+                width: 0 !important;
+                min-width: 0 !important;
             }}
 
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] {{
@@ -229,16 +248,18 @@ def apply_saas_theme(dark_mode: bool = False):
                 gap: 14px;
             }}
             .top-badge {{
-                display: inline-flex;
-                align-items: center;
-                gap: 6px;
-                padding: 6px 12px;
-                border-radius: 20px;
-                font-size: 0.82rem;
-                font-weight: 600;
-                background: {'#1e293b' if dark_mode else '#f1f5f9'};
-                color: {text_primary};
-                border: 1px solid {card_border};
+                display: inline-flex !important;
+                align-items: center !important;
+                gap: 6px !important;
+                padding: 6px 12px !important;
+                border-radius: 20px !important;
+                font-size: 0.82rem !important;
+                font-weight: 600 !important;
+                background: {'#1e293b' if dark_mode else '#f1f5f9'} !important;
+                color: {text_primary} !important;
+                border: 1px solid {card_border} !important;
+                white-space: nowrap !important;
+                flex-shrink: 0 !important;
             }}
             .user-profile-chip {{
                 display: flex;
@@ -716,13 +737,13 @@ def render_top_bar(current_district: str = "Guntur"):
 
     # 2. Render Top Bar 3-Column Layout inside a crisp card container
     with st.container(border=True):
-        col_search, col_meta, col_auth = st.columns([1.5, 1.0, 1.1], vertical_alignment="center")
+        col_search, col_meta, col_auth = st.columns([1.8, 1.3, 0.9], vertical_alignment="center")
 
         # Column 1: Working Search Bar
         with col_search:
             search_query = st.text_input(
                 "Search AgriAI Platform",
-                placeholder="🔍 Search crops, mandis, diseases (e.g. Cotton, Guntur)...",
+                placeholder="🔍 Search crops, mandis, diseases, or pages...",
                 label_visibility="collapsed",
                 key="global_top_search_input",
             )
@@ -731,9 +752,9 @@ def render_top_bar(current_district: str = "Guntur"):
         with col_meta:
             st.markdown(
                 f"""
-                <div style="display:flex; align-items:center; justify-content:center; gap:8px;">
-                    <div class="top-badge">📍 {active_district}, AP</div>
-                    <div class="top-badge">📅 {current_date_str}</div>
+                <div style="display:flex; align-items:center; justify-content:flex-end; gap:8px; white-space:nowrap; flex-wrap:nowrap;">
+                    <span class="top-badge">📍 {active_district}, AP</span>
+                    <span class="top-badge">📅 {current_date_str}</span>
                 </div>
                 """,
                 unsafe_allow_html=True,
@@ -742,7 +763,7 @@ def render_top_bar(current_district: str = "Guntur"):
         # Column 3: User Login & Account Switch Option (Replacing static Jyoti Developer)
         with col_auth:
             if not is_logged_in:
-                with st.popover("🔑 Login / Sign In", use_container_width=True):
+                with st.popover("🔑 Sign In", use_container_width=True):
                     st.markdown("#### 🌾 AgriAI User Sign In")
                     st.caption("Sign in to access personalized farm analytics, model predictions, and advisory downloads.")
                     login_user = st.text_input("Username or Mobile Number", placeholder="e.g. nagasai or 9876543210", key="login_field_user")
