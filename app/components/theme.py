@@ -4,6 +4,7 @@ Inspired by Agrivision AI, Microsoft Streamlit UI, Streamlit Facade, and officia
 Color Palette: Forest Green (#0d3821), Agriculture Green (#22c55e), Harvest Gold (#f59e0b), Light Slate (#f8fafc).
 """
 
+import os
 import streamlit as st
 from datetime import datetime
 
@@ -75,6 +76,42 @@ def apply_saas_theme(dark_mode: bool = False):
 
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] {{
                 padding-top: 0.2rem !important;
+            }}
+
+            /* Highlighted Brand Logo Badge above Navigation (fills empty space at top) */
+            [data-testid="stSidebarNav"]::before {{
+                content: "🌱  AgriAI" !important;
+                display: flex !important;
+                align-items: center !important;
+                color: #ffffff !important;
+                font-size: 1.55rem !important;
+                font-weight: 800 !important;
+                letter-spacing: -0.5px !important;
+                padding: 14px 18px 12px 18px !important;
+                margin: 8px 10px 14px 10px !important;
+                border: 1px solid rgba(255, 255, 255, 0.16) !important;
+                border-radius: 12px !important;
+                background: linear-gradient(135deg, rgba(34, 197, 94, 0.25) 0%, rgba(13, 56, 33, 0.7) 100%) !important;
+                box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3) !important;
+            }}
+
+            /* Highlight Streamlit Logo Container if rendered */
+            [data-testid="stLogo"] {{
+                padding: 12px 14px 10px 14px !important;
+                background: linear-gradient(135deg, rgba(34, 197, 94, 0.22) 0%, rgba(13, 56, 33, 0.6) 100%) !important;
+                border-radius: 12px !important;
+                margin: 8px 10px 14px 10px !important;
+                border: 1px solid rgba(255, 255, 255, 0.15) !important;
+                box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25) !important;
+            }}
+
+            [data-testid="stLogo"] img {{
+                height: 36px !important;
+                filter: drop-shadow(0 2px 6px rgba(34, 197, 94, 0.5)) !important;
+            }}
+
+            section[data-testid="stSidebar"]:has([data-testid="stLogo"]) [data-testid="stSidebarNav"]::before {{
+                display: none !important;
             }}
 
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] ul {{
@@ -662,6 +699,13 @@ PAGE_QUICK_JUMP = {
 
 def render_sidebar():
     """Render the standard Agrivision AI styled sidebar with visible navigation and quick jump."""
+    try:
+        logo_file = os.path.join(os.path.dirname(__file__), "..", "assets", "logo.svg")
+        if os.path.exists(logo_file):
+            st.logo(logo_file, size="large")
+    except Exception:
+        pass
+
     with st.sidebar:
         # Brand logo
         st.markdown(
