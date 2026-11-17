@@ -1,0 +1,820 @@
+state_name,district_name,crop_year,season,crop,area_hectares,production_tonnes,yield_quintal_per_ha
+Andhra Pradesh,Guntur,2015,Kharif,Paddy (Rice),133384.97,471249.1,35.33
+Andhra Pradesh,Guntur,2015,Kharif,Cotton,77902.23,123007.62,15.79
+Andhra Pradesh,Guntur,2015,Rabi,Chillies,53512.96,200513.06,37.47
+Andhra Pradesh,Guntur,2015,Kharif,Groundnut,105099.49,102787.3,9.78
+Andhra Pradesh,Guntur,2015,Rabi,Maize,51564.56,198575.12,38.51
+Andhra Pradesh,Guntur,2015,Rabi,Bengal Gram,46494.62,69927.91,15.04
+Andhra Pradesh,Guntur,2015,Whole Year,Sugarcane,21743.01,1664927.5,765.73
+Andhra Pradesh,Krishna,2015,Kharif,Paddy (Rice),134388.91,565508.53,42.08
+Andhra Pradesh,Krishna,2015,Kharif,Cotton,73753.49,137992.78,18.71
+Andhra Pradesh,Krishna,2015,Rabi,Chillies,56139.5,157695.86,28.09
+Andhra Pradesh,Krishna,2015,Kharif,Groundnut,99572.43,152146.67,15.28
+Andhra Pradesh,Krishna,2015,Rabi,Maize,47971.02,194954.23,40.64
+Andhra Pradesh,Krishna,2015,Rabi,Bengal Gram,81946.23,112184.39,13.69
+Andhra Pradesh,Krishna,2015,Whole Year,Sugarcane,23596.88,1751454.82,742.24
+Andhra Pradesh,Kurnool,2015,Kharif,Paddy (Rice),153359.46,657145.29,42.85
+Andhra Pradesh,Kurnool,2015,Kharif,Cotton,118341.75,234790.03,19.84
+Andhra Pradesh,Kurnool,2015,Rabi,Chillies,46304.21,192718.12,41.62
+Andhra Pradesh,Kurnool,2015,Kharif,Groundnut,72226.2,100900.0,13.97
+Andhra Pradesh,Kurnool,2015,Rabi,Maize,69493.81,337114.47,48.51
+Andhra Pradesh,Kurnool,2015,Rabi,Bengal Gram,77361.93,120839.33,15.62
+Andhra Pradesh,Kurnool,2015,Whole Year,Sugarcane,40728.01,2975344.04,730.54
+Andhra Pradesh,Anantapur,2015,Kharif,Paddy (Rice),93878.23,363872.02,38.76
+Andhra Pradesh,Anantapur,2015,Kharif,Cotton,63064.19,100019.81,15.86
+Andhra Pradesh,Anantapur,2015,Rabi,Chillies,30636.05,97698.36,31.89
+Andhra Pradesh,Anantapur,2015,Kharif,Groundnut,88683.8,108903.71,12.28
+Andhra Pradesh,Anantapur,2015,Rabi,Maize,49287.96,204840.76,41.56
+Andhra Pradesh,Anantapur,2015,Rabi,Bengal Gram,48814.94,90258.82,18.49
+Andhra Pradesh,Anantapur,2015,Whole Year,Sugarcane,39144.99,3366860.59,860.1
+Andhra Pradesh,East Godavari,2015,Kharif,Paddy (Rice),88429.31,393333.57,44.48
+Andhra Pradesh,East Godavari,2015,Kharif,Cotton,69418.59,118289.28,17.04
+Andhra Pradesh,East Godavari,2015,Rabi,Chillies,62622.84,231454.02,36.96
+Andhra Pradesh,East Godavari,2015,Kharif,Groundnut,83644.78,126805.49,15.16
+Andhra Pradesh,East Godavari,2015,Rabi,Maize,70085.48,358767.57,51.19
+Andhra Pradesh,East Godavari,2015,Rabi,Bengal Gram,46994.31,52915.59,11.26
+Andhra Pradesh,East Godavari,2015,Whole Year,Sugarcane,29832.69,2331663.39,781.58
+Andhra Pradesh,Chittoor,2015,Kharif,Paddy (Rice),92254.35,435994.06,47.26
+Andhra Pradesh,Chittoor,2015,Kharif,Cotton,123603.94,204193.71,16.52
+Andhra Pradesh,Chittoor,2015,Rabi,Chillies,50595.79,169698.28,33.54
+Andhra Pradesh,Chittoor,2015,Kharif,Groundnut,106531.05,139875.27,13.13
+Andhra Pradesh,Chittoor,2015,Rabi,Maize,44654.73,188398.31,42.19
+Andhra Pradesh,Chittoor,2015,Rabi,Bengal Gram,62945.67,82458.83,13.1
+Andhra Pradesh,Chittoor,2015,Whole Year,Sugarcane,37368.41,3462183.19,926.5
+Andhra Pradesh,Prakasam,2015,Kharif,Paddy (Rice),110342.45,417646.17,37.85
+Andhra Pradesh,Prakasam,2015,Kharif,Cotton,132812.86,240125.65,18.08
+Andhra Pradesh,Prakasam,2015,Rabi,Chillies,30272.74,86761.67,28.66
+Andhra Pradesh,Prakasam,2015,Kharif,Groundnut,55017.54,80600.7,14.65
+Andhra Pradesh,Prakasam,2015,Rabi,Maize,67851.49,306553.03,45.18
+Andhra Pradesh,Prakasam,2015,Rabi,Bengal Gram,39049.33,54864.31,14.05
+Andhra Pradesh,Prakasam,2015,Whole Year,Sugarcane,48891.4,4115189.14,841.7
+Andhra Pradesh,West Godavari,2015,Kharif,Paddy (Rice),165223.52,763167.44,46.19
+Andhra Pradesh,West Godavari,2015,Kharif,Cotton,57872.56,114414.05,19.77
+Andhra Pradesh,West Godavari,2015,Rabi,Chillies,51541.57,183075.66,35.52
+Andhra Pradesh,West Godavari,2015,Kharif,Groundnut,65076.81,96118.45,14.77
+Andhra Pradesh,West Godavari,2015,Rabi,Maize,37908.3,172065.77,45.39
+Andhra Pradesh,West Godavari,2015,Rabi,Bengal Gram,57778.74,107641.79,18.63
+Andhra Pradesh,West Godavari,2015,Whole Year,Sugarcane,45523.88,3553503.03,780.58
+Andhra Pradesh,Visakhapatnam,2015,Kharif,Paddy (Rice),120056.27,448050.0,37.32
+Andhra Pradesh,Visakhapatnam,2015,Kharif,Cotton,126359.72,264849.97,20.96
+Andhra Pradesh,Visakhapatnam,2015,Rabi,Chillies,37744.01,139464.12,36.95
+Andhra Pradesh,Visakhapatnam,2015,Kharif,Groundnut,86974.09,90279.11,10.38
+Andhra Pradesh,Visakhapatnam,2015,Rabi,Maize,66550.48,313918.61,47.17
+Andhra Pradesh,Visakhapatnam,2015,Rabi,Bengal Gram,73374.07,111822.08,15.24
+Andhra Pradesh,Visakhapatnam,2015,Whole Year,Sugarcane,21016.01,1669848.09,794.56
+Andhra Pradesh,Nellore,2015,Kharif,Paddy (Rice),73869.77,347778.88,47.08
+Andhra Pradesh,Nellore,2015,Kharif,Cotton,123782.86,255611.61,20.65
+Andhra Pradesh,Nellore,2015,Rabi,Chillies,38070.51,109681.14,28.81
+Andhra Pradesh,Nellore,2015,Kharif,Groundnut,104192.61,182545.45,17.52
+Andhra Pradesh,Nellore,2015,Rabi,Maize,36768.75,170092.24,46.26
+Andhra Pradesh,Nellore,2015,Rabi,Bengal Gram,39322.2,67162.32,17.08
+Andhra Pradesh,Nellore,2015,Whole Year,Sugarcane,42443.36,3181257.16,749.53
+Andhra Pradesh,YSR Kadapa,2015,Kharif,Paddy (Rice),117627.11,495798.27,42.15
+Andhra Pradesh,YSR Kadapa,2015,Kharif,Cotton,77144.3,161848.74,20.98
+Andhra Pradesh,YSR Kadapa,2015,Rabi,Chillies,42232.97,130795.51,30.97
+Andhra Pradesh,YSR Kadapa,2015,Kharif,Groundnut,82514.95,128475.78,15.57
+Andhra Pradesh,YSR Kadapa,2015,Rabi,Maize,41850.65,181213.31,43.3
+Andhra Pradesh,YSR Kadapa,2015,Rabi,Bengal Gram,83767.17,135702.82,16.2
+Andhra Pradesh,YSR Kadapa,2015,Whole Year,Sugarcane,33266.8,2791217.59,839.04
+Andhra Pradesh,Srikakulam,2015,Kharif,Paddy (Rice),83616.4,317073.39,37.92
+Andhra Pradesh,Srikakulam,2015,Kharif,Cotton,82694.5,154721.41,18.71
+Andhra Pradesh,Srikakulam,2015,Rabi,Chillies,35284.13,109663.08,31.08
+Andhra Pradesh,Srikakulam,2015,Kharif,Groundnut,52543.56,77133.95,14.68
+Andhra Pradesh,Srikakulam,2015,Rabi,Maize,43073.44,229969.1,53.39
+Andhra Pradesh,Srikakulam,2015,Rabi,Bengal Gram,77262.5,89392.71,11.57
+Andhra Pradesh,Srikakulam,2015,Whole Year,Sugarcane,27664.13,2417457.66,873.86
+Andhra Pradesh,Vizianagaram,2015,Kharif,Paddy (Rice),92566.73,339905.03,36.72
+Andhra Pradesh,Vizianagaram,2015,Kharif,Cotton,128099.08,237879.99,18.57
+Andhra Pradesh,Vizianagaram,2015,Rabi,Chillies,44016.16,171574.99,38.98
+Andhra Pradesh,Vizianagaram,2015,Kharif,Groundnut,99679.81,106757.08,10.71
+Andhra Pradesh,Vizianagaram,2015,Rabi,Maize,37264.96,168922.06,45.33
+Andhra Pradesh,Vizianagaram,2015,Rabi,Bengal Gram,56331.77,83033.03,14.74
+Andhra Pradesh,Vizianagaram,2015,Whole Year,Sugarcane,41414.12,3623197.12,874.87
+Andhra Pradesh,Guntur,2016,Kharif,Paddy (Rice),166479.86,603988.93,36.28
+Andhra Pradesh,Guntur,2016,Kharif,Cotton,87599.22,146378.3,16.71
+Andhra Pradesh,Guntur,2016,Rabi,Chillies,58020.21,182647.62,31.48
+Andhra Pradesh,Guntur,2016,Kharif,Groundnut,60173.37,78466.07,13.04
+Andhra Pradesh,Guntur,2016,Rabi,Maize,51562.79,220379.36,42.74
+Andhra Pradesh,Guntur,2016,Rabi,Bengal Gram,47990.71,88254.92,18.39
+Andhra Pradesh,Guntur,2016,Whole Year,Sugarcane,33407.66,3067190.67,918.11
+Andhra Pradesh,Krishna,2016,Kharif,Paddy (Rice),124831.23,445148.17,35.66
+Andhra Pradesh,Krishna,2016,Kharif,Cotton,132945.47,275064.18,20.69
+Andhra Pradesh,Krishna,2016,Rabi,Chillies,61883.87,253538.22,40.97
+Andhra Pradesh,Krishna,2016,Kharif,Groundnut,102316.53,107432.36,10.5
+Andhra Pradesh,Krishna,2016,Rabi,Maize,54368.21,226334.86,41.63
+Andhra Pradesh,Krishna,2016,Rabi,Bengal Gram,55249.93,63371.67,11.47
+Andhra Pradesh,Krishna,2016,Whole Year,Sugarcane,31611.25,2992384.15,946.62
+Andhra Pradesh,Kurnool,2016,Kharif,Paddy (Rice),97459.49,440419.44,45.19
+Andhra Pradesh,Kurnool,2016,Kharif,Cotton,91580.64,159167.15,17.38
+Andhra Pradesh,Kurnool,2016,Rabi,Chillies,61463.44,257777.67,41.94
+Andhra Pradesh,Kurnool,2016,Kharif,Groundnut,83569.17,129281.51,15.47
+Andhra Pradesh,Kurnool,2016,Rabi,Maize,39811.06,171346.8,43.04
+Andhra Pradesh,Kurnool,2016,Rabi,Bengal Gram,82498.05,128944.45,15.63
+Andhra Pradesh,Kurnool,2016,Whole Year,Sugarcane,36181.47,3227495.67,892.03
+Andhra Pradesh,Anantapur,2016,Kharif,Paddy (Rice),77487.87,330020.84,42.59
+Andhra Pradesh,Anantapur,2016,Kharif,Cotton,95216.63,198241.02,20.82
+Andhra Pradesh,Anantapur,2016,Rabi,Chillies,32667.58,135407.12,41.45
+Andhra Pradesh,Anantapur,2016,Kharif,Groundnut,53127.13,56686.65,10.67
+Andhra Pradesh,Anantapur,2016,Rabi,Maize,59181.54,292830.26,49.48
+Andhra Pradesh,Anantapur,2016,Rabi,Bengal Gram,47289.79,56558.59,11.96
+Andhra Pradesh,Anantapur,2016,Whole Year,Sugarcane,45928.04,3566909.37,776.63
+Andhra Pradesh,East Godavari,2016,Kharif,Paddy (Rice),129073.84,555662.88,43.05
+Andhra Pradesh,East Godavari,2016,Kharif,Cotton,88861.09,165903.66,18.67
+Andhra Pradesh,East Godavari,2016,Rabi,Chillies,45820.18,188275.12,41.09
+Andhra Pradesh,East Godavari,2016,Kharif,Groundnut,61072.59,94357.15,15.45
+Andhra Pradesh,East Godavari,2016,Rabi,Maize,43502.18,194585.25,44.73
+Andhra Pradesh,East Godavari,2016,Rabi,Bengal Gram,68241.13,91443.11,13.4
+Andhra Pradesh,East Godavari,2016,Whole Year,Sugarcane,29852.96,2665660.36,892.93
+Andhra Pradesh,Chittoor,2016,Kharif,Paddy (Rice),78964.14,323437.12,40.96
+Andhra Pradesh,Chittoor,2016,Kharif,Cotton,132882.54,291942.94,21.97
+Andhra Pradesh,Chittoor,2016,Rabi,Chillies,29637.39,91816.63,30.98
+Andhra Pradesh,Chittoor,2016,Kharif,Groundnut,64972.83,113052.72,17.4
+Andhra Pradesh,Chittoor,2016,Rabi,Maize,71758.02,379958.72,52.95
+Andhra Pradesh,Chittoor,2016,Rabi,Bengal Gram,53737.3,65881.93,12.26
+Andhra Pradesh,Chittoor,2016,Whole Year,Sugarcane,44344.86,3910374.1,881.81
+Andhra Pradesh,Prakasam,2016,Kharif,Paddy (Rice),130721.07,625238.88,47.83
+Andhra Pradesh,Prakasam,2016,Kharif,Cotton,106702.2,150023.29,14.06
+Andhra Pradesh,Prakasam,2016,Rabi,Chillies,56415.75,181602.3,32.19
+Andhra Pradesh,Prakasam,2016,Kharif,Groundnut,90456.88,157847.26,17.45
+Andhra Pradesh,Prakasam,2016,Rabi,Maize,38908.81,155479.6,39.96
+Andhra Pradesh,Prakasam,2016,Rabi,Bengal Gram,41137.73,63475.52,15.43
+Andhra Pradesh,Prakasam,2016,Whole Year,Sugarcane,28625.75,2459266.81,859.11
+Andhra Pradesh,West Godavari,2016,Kharif,Paddy (Rice),140890.77,530453.75,37.65
+Andhra Pradesh,West Godavari,2016,Kharif,Cotton,105202.08,169480.55,16.11
+Andhra Pradesh,West Godavari,2016,Rabi,Chillies,44587.15,181335.94,40.67
+Andhra Pradesh,West Godavari,2016,Kharif,Groundnut,102150.64,100414.08,9.83
+Andhra Pradesh,West Godavari,2016,Rabi,Maize,51637.33,220491.4,42.7
+Andhra Pradesh,West Godavari,2016,Rabi,Bengal Gram,36170.19,62104.22,17.17
+Andhra Pradesh,West Godavari,2016,Whole Year,Sugarcane,38839.17,3030426.24,780.25
+Andhra Pradesh,Visakhapatnam,2016,Kharif,Paddy (Rice),143158.17,603698.0,42.17
+Andhra Pradesh,Visakhapatnam,2016,Kharif,Cotton,89504.21,126021.93,14.08
+Andhra Pradesh,Visakhapatnam,2016,Rabi,Chillies,29708.78,119904.64,40.36
+Andhra Pradesh,Visakhapatnam,2016,Kharif,Groundnut,105851.43,147239.34,13.91
+Andhra Pradesh,Visakhapatnam,2016,Rabi,Maize,69722.18,333969.24,47.9
+Andhra Pradesh,Visakhapatnam,2016,Rabi,Bengal Gram,43108.5,51816.42,12.02
+Andhra Pradesh,Visakhapatnam,2016,Whole Year,Sugarcane,29631.23,2746133.5,926.77
+Andhra Pradesh,Nellore,2016,Kharif,Paddy (Rice),148427.74,685587.73,46.19
+Andhra Pradesh,Nellore,2016,Kharif,Cotton,125318.27,196499.05,15.68
+Andhra Pradesh,Nellore,2016,Rabi,Chillies,35983.07,105934.16,29.44
+Andhra Pradesh,Nellore,2016,Kharif,Groundnut,97927.44,166084.94,16.96
+Andhra Pradesh,Nellore,2016,Rabi,Maize,50880.61,247025.36,48.55
+Andhra Pradesh,Nellore,2016,Rabi,Bengal Gram,43418.56,80063.82,18.44
+Andhra Pradesh,Nellore,2016,Whole Year,Sugarcane,45208.96,4270121.9,944.53
+Andhra Pradesh,YSR Kadapa,2016,Kharif,Paddy (Rice),149834.09,696129.18,46.46
+Andhra Pradesh,YSR Kadapa,2016,Kharif,Cotton,58883.76,117119.8,19.89
+Andhra Pradesh,YSR Kadapa,2016,Rabi,Chillies,38958.68,159847.46,41.03
+Andhra Pradesh,YSR Kadapa,2016,Kharif,Groundnut,99343.05,166697.64,16.78
+Andhra Pradesh,YSR Kadapa,2016,Rabi,Maize,68672.97,292134.81,42.54
+Andhra Pradesh,YSR Kadapa,2016,Rabi,Bengal Gram,73793.98,87519.66,11.86
+Andhra Pradesh,YSR Kadapa,2016,Whole Year,Sugarcane,45420.67,4167255.63,917.48
+Andhra Pradesh,Srikakulam,2016,Kharif,Paddy (Rice),93353.64,425879.31,45.62
+Andhra Pradesh,Srikakulam,2016,Kharif,Cotton,91983.05,151220.13,16.44
+Andhra Pradesh,Srikakulam,2016,Rabi,Chillies,55632.44,173517.58,31.19
+Andhra Pradesh,Srikakulam,2016,Kharif,Groundnut,49514.52,53178.59,10.74
+Andhra Pradesh,Srikakulam,2016,Rabi,Maize,47443.53,249979.96,52.69
+Andhra Pradesh,Srikakulam,2016,Rabi,Bengal Gram,82410.68,109029.33,13.23
+Andhra Pradesh,Srikakulam,2016,Whole Year,Sugarcane,38961.49,3163400.26,811.93
+Andhra Pradesh,Vizianagaram,2016,Kharif,Paddy (Rice),166190.37,697500.98,41.97
+Andhra Pradesh,Vizianagaram,2016,Kharif,Cotton,128382.02,191545.97,14.92
+Andhra Pradesh,Vizianagaram,2016,Rabi,Chillies,61934.42,188899.98,30.5
+Andhra Pradesh,Vizianagaram,2016,Kharif,Groundnut,109602.2,124836.91,11.39
+Andhra Pradesh,Vizianagaram,2016,Rabi,Maize,37769.71,171436.71,45.39
+Andhra Pradesh,Vizianagaram,2016,Rabi,Bengal Gram,70970.16,95880.69,13.51
+Andhra Pradesh,Vizianagaram,2016,Whole Year,Sugarcane,37973.85,3180803.6,837.63
+Andhra Pradesh,Guntur,2017,Kharif,Paddy (Rice),108978.76,463159.73,42.5
+Andhra Pradesh,Guntur,2017,Kharif,Cotton,76358.91,150197.98,19.67
+Andhra Pradesh,Guntur,2017,Rabi,Chillies,27060.89,110841.41,40.96
+Andhra Pradesh,Guntur,2017,Kharif,Groundnut,82460.93,127567.06,15.47
+Andhra Pradesh,Guntur,2017,Rabi,Maize,65645.8,324290.25,49.4
+Andhra Pradesh,Guntur,2017,Rabi,Bengal Gram,53482.63,61825.92,11.56
+Andhra Pradesh,Guntur,2017,Whole Year,Sugarcane,39598.66,3151855.34,795.95
+Andhra Pradesh,Krishna,2017,Kharif,Paddy (Rice),102135.9,470029.41,46.02
+Andhra Pradesh,Krishna,2017,Kharif,Cotton,111701.32,183190.16,16.4
+Andhra Pradesh,Krishna,2017,Rabi,Chillies,38134.25,128588.69,33.72
+Andhra Pradesh,Krishna,2017,Kharif,Groundnut,73753.62,85996.72,11.66
+Andhra Pradesh,Krishna,2017,Rabi,Maize,38600.66,174281.98,45.15
+Andhra Pradesh,Krishna,2017,Rabi,Bengal Gram,81137.46,133227.71,16.42
+Andhra Pradesh,Krishna,2017,Whole Year,Sugarcane,46278.56,3987221.89,861.57
+Andhra Pradesh,Kurnool,2017,Kharif,Paddy (Rice),100891.19,424953.69,42.12
+Andhra Pradesh,Kurnool,2017,Kharif,Cotton,57030.85,92960.29,16.3
+Andhra Pradesh,Kurnool,2017,Rabi,Chillies,42475.97,153423.2,36.12
+Andhra Pradesh,Kurnool,2017,Kharif,Groundnut,89901.16,118489.73,13.18
+Andhra Pradesh,Kurnool,2017,Rabi,Maize,52455.03,218370.29,41.63
+Andhra Pradesh,Kurnool,2017,Rabi,Bengal Gram,58712.94,106916.26,18.21
+Andhra Pradesh,Kurnool,2017,Whole Year,Sugarcane,43288.69,3285741.44,759.03
+Andhra Pradesh,Anantapur,2017,Kharif,Paddy (Rice),80140.37,334185.34,41.7
+Andhra Pradesh,Anantapur,2017,Kharif,Cotton,105103.51,175312.65,16.68
+Andhra Pradesh,Anantapur,2017,Rabi,Chillies,56463.24,217496.4,38.52
+Andhra Pradesh,Anantapur,2017,Kharif,Groundnut,91058.92,100346.93,11.02
+Andhra Pradesh,Anantapur,2017,Rabi,Maize,41761.72,160448.53,38.42
+Andhra Pradesh,Anantapur,2017,Rabi,Bengal Gram,47752.44,70673.61,14.8
+Andhra Pradesh,Anantapur,2017,Whole Year,Sugarcane,44792.66,3300099.23,736.75
+Andhra Pradesh,East Godavari,2017,Kharif,Paddy (Rice),111786.34,482805.2,43.19
+Andhra Pradesh,East Godavari,2017,Kharif,Cotton,71777.08,140467.75,19.57
+Andhra Pradesh,East Godavari,2017,Rabi,Chillies,44797.58,140754.0,31.42
+Andhra Pradesh,East Godavari,2017,Kharif,Groundnut,89987.71,81438.88,9.05
+Andhra Pradesh,East Godavari,2017,Rabi,Maize,66042.44,337410.83,51.09
+Andhra Pradesh,East Godavari,2017,Rabi,Bengal Gram,41116.19,59207.31,14.4
+Andhra Pradesh,East Godavari,2017,Whole Year,Sugarcane,25924.83,2437789.54,940.33
+Andhra Pradesh,Chittoor,2017,Kharif,Paddy (Rice),121723.94,433945.85,35.65
+Andhra Pradesh,Chittoor,2017,Kharif,Cotton,75939.07,157877.33,20.79
+Andhra Pradesh,Chittoor,2017,Rabi,Chillies,43432.63,170342.77,39.22
+Andhra Pradesh,Chittoor,2017,Kharif,Groundnut,90724.97,162306.97,17.89
+Andhra Pradesh,Chittoor,2017,Rabi,Maize,59199.9,320567.46,54.15
+Andhra Pradesh,Chittoor,2017,Rabi,Bengal Gram,78788.44,125273.62,15.9
+Andhra Pradesh,Chittoor,2017,Whole Year,Sugarcane,41139.67,3439687.81,836.1
+Andhra Pradesh,Prakasam,2017,Kharif,Paddy (Rice),151734.64,639106.3,42.12
+Andhra Pradesh,Prakasam,2017,Kharif,Cotton,125187.82,249749.7,19.95
+Andhra Pradesh,Prakasam,2017,Rabi,Chillies,44088.28,139451.23,31.63
+Andhra Pradesh,Prakasam,2017,Kharif,Groundnut,63823.34,94075.6,14.74
+Andhra Pradesh,Prakasam,2017,Rabi,Maize,66695.8,312536.52,46.86
+Andhra Pradesh,Prakasam,2017,Rabi,Bengal Gram,66083.92,87230.77,13.2
+Andhra Pradesh,Prakasam,2017,Whole Year,Sugarcane,23169.53,1820476.31,785.72
+Andhra Pradesh,West Godavari,2017,Kharif,Paddy (Rice),98084.65,384099.49,39.16
+Andhra Pradesh,West Godavari,2017,Kharif,Cotton,98051.57,148155.92,15.11
+Andhra Pradesh,West Godavari,2017,Rabi,Chillies,35325.41,133247.45,37.72
+Andhra Pradesh,West Godavari,2017,Kharif,Groundnut,93210.83,89295.98,9.58
+Andhra Pradesh,West Godavari,2017,Rabi,Maize,50934.37,240512.1,47.22
+Andhra Pradesh,West Godavari,2017,Rabi,Bengal Gram,55957.16,70785.81,12.65
+Andhra Pradesh,West Godavari,2017,Whole Year,Sugarcane,32764.02,3040861.46,928.11
+Andhra Pradesh,Visakhapatnam,2017,Kharif,Paddy (Rice),128071.62,564027.41,44.04
+Andhra Pradesh,Visakhapatnam,2017,Kharif,Cotton,122111.63,245688.6,20.12
+Andhra Pradesh,Visakhapatnam,2017,Rabi,Chillies,40693.72,114267.97,28.08
+Andhra Pradesh,Visakhapatnam,2017,Kharif,Groundnut,70512.56,111268.82,15.78
+Andhra Pradesh,Visakhapatnam,2017,Rabi,Maize,70551.71,382460.82,54.21
+Andhra Pradesh,Visakhapatnam,2017,Rabi,Bengal Gram,56113.02,95279.91,16.98
+Andhra Pradesh,Visakhapatnam,2017,Whole Year,Sugarcane,36291.7,3116549.74,858.75
+Andhra Pradesh,Nellore,2017,Kharif,Paddy (Rice),93171.71,352654.92,37.85
+Andhra Pradesh,Nellore,2017,Kharif,Cotton,90123.53,128245.78,14.23
+Andhra Pradesh,Nellore,2017,Rabi,Chillies,39100.66,146666.58,37.51
+Andhra Pradesh,Nellore,2017,Kharif,Groundnut,73876.27,77496.21,10.49
+Andhra Pradesh,Nellore,2017,Rabi,Maize,53565.17,215171.29,40.17
+Andhra Pradesh,Nellore,2017,Rabi,Bengal Gram,65868.33,73904.27,11.22
+Andhra Pradesh,Nellore,2017,Whole Year,Sugarcane,32032.57,2722159.83,849.81
+Andhra Pradesh,YSR Kadapa,2017,Kharif,Paddy (Rice),74601.8,323473.4,43.36
+Andhra Pradesh,YSR Kadapa,2017,Kharif,Cotton,67313.16,119076.98,17.69
+Andhra Pradesh,YSR Kadapa,2017,Rabi,Chillies,28810.25,95966.94,33.31
+Andhra Pradesh,YSR Kadapa,2017,Kharif,Groundnut,61546.26,73486.23,11.94
+Andhra Pradesh,YSR Kadapa,2017,Rabi,Maize,66494.11,295566.32,44.45
+Andhra Pradesh,YSR Kadapa,2017,Rabi,Bengal Gram,72096.47,127322.37,17.66
+Andhra Pradesh,YSR Kadapa,2017,Whole Year,Sugarcane,28063.6,2073451.02,738.84
+Andhra Pradesh,Srikakulam,2017,Kharif,Paddy (Rice),73860.8,310289.22,42.01
+Andhra Pradesh,Srikakulam,2017,Kharif,Cotton,132992.99,223428.22,16.8
+Andhra Pradesh,Srikakulam,2017,Rabi,Chillies,50405.19,196277.81,38.94
+Andhra Pradesh,Srikakulam,2017,Kharif,Groundnut,89712.3,141655.72,15.79
+Andhra Pradesh,Srikakulam,2017,Rabi,Maize,74782.92,309526.51,41.39
+Andhra Pradesh,Srikakulam,2017,Rabi,Bengal Gram,36978.24,45187.41,12.22
+Andhra Pradesh,Srikakulam,2017,Whole Year,Sugarcane,24534.19,2144239.14,873.98
+Andhra Pradesh,Vizianagaram,2017,Kharif,Paddy (Rice),126141.08,477191.71,37.83
+Andhra Pradesh,Vizianagaram,2017,Kharif,Cotton,110159.34,221860.91,20.14
+Andhra Pradesh,Vizianagaram,2017,Rabi,Chillies,33040.41,120597.5,36.5
+Andhra Pradesh,Vizianagaram,2017,Kharif,Groundnut,95867.24,96154.84,10.03
+Andhra Pradesh,Vizianagaram,2017,Rabi,Maize,69049.25,375627.92,54.4
+Andhra Pradesh,Vizianagaram,2017,Rabi,Bengal Gram,41188.74,46172.58,11.21
+Andhra Pradesh,Vizianagaram,2017,Whole Year,Sugarcane,29734.8,2604144.05,875.79
+Andhra Pradesh,Guntur,2018,Kharif,Paddy (Rice),163984.59,658562.11,40.16
+Andhra Pradesh,Guntur,2018,Kharif,Cotton,111341.12,162669.38,14.61
+Andhra Pradesh,Guntur,2018,Rabi,Chillies,51862.12,190748.88,36.78
+Andhra Pradesh,Guntur,2018,Kharif,Groundnut,54521.68,86962.08,15.95
+Andhra Pradesh,Guntur,2018,Rabi,Maize,70412.9,339460.59,48.21
+Andhra Pradesh,Guntur,2018,Rabi,Bengal Gram,41810.64,78896.68,18.87
+Andhra Pradesh,Guntur,2018,Whole Year,Sugarcane,42913.79,3432502.41,799.86
+Andhra Pradesh,Krishna,2018,Kharif,Paddy (Rice),113124.29,450460.92,39.82
+Andhra Pradesh,Krishna,2018,Kharif,Cotton,95453.02,159692.9,16.73
+Andhra Pradesh,Krishna,2018,Rabi,Chillies,57584.72,227517.23,39.51
+Andhra Pradesh,Krishna,2018,Kharif,Groundnut,54754.49,96641.67,17.65
+Andhra Pradesh,Krishna,2018,Rabi,Maize,60965.74,317570.54,52.09
+Andhra Pradesh,Krishna,2018,Rabi,Bengal Gram,69950.81,101288.77,14.48
+Andhra Pradesh,Krishna,2018,Whole Year,Sugarcane,41546.27,3913907.91,942.06
+Andhra Pradesh,Kurnool,2018,Kharif,Paddy (Rice),97927.91,445669.92,45.51
+Andhra Pradesh,Kurnool,2018,Kharif,Cotton,97901.14,174949.34,17.87
+Andhra Pradesh,Kurnool,2018,Rabi,Chillies,42680.68,163168.24,38.23
+Andhra Pradesh,Kurnool,2018,Kharif,Groundnut,65177.31,108650.58,16.67
+Andhra Pradesh,Kurnool,2018,Rabi,Maize,69552.16,274522.38,39.47
+Andhra Pradesh,Kurnool,2018,Rabi,Bengal Gram,78318.3,101422.2,12.95
+Andhra Pradesh,Kurnool,2018,Whole Year,Sugarcane,34011.84,2926310.69,860.38
+Andhra Pradesh,Anantapur,2018,Kharif,Paddy (Rice),108382.97,383350.56,35.37
+Andhra Pradesh,Anantapur,2018,Kharif,Cotton,121672.42,187983.89,15.45
+Andhra Pradesh,Anantapur,2018,Rabi,Chillies,34636.31,135670.43,39.17
+Andhra Pradesh,Anantapur,2018,Kharif,Groundnut,69781.69,118070.62,16.92
+Andhra Pradesh,Anantapur,2018,Rabi,Maize,63852.09,272648.42,42.7
+Andhra Pradesh,Anantapur,2018,Rabi,Bengal Gram,36487.25,67793.31,18.58
+Andhra Pradesh,Anantapur,2018,Whole Year,Sugarcane,23397.16,2072099.28,885.62
+Andhra Pradesh,East Godavari,2018,Kharif,Paddy (Rice),118903.47,533400.97,44.86
+Andhra Pradesh,East Godavari,2018,Kharif,Cotton,109486.31,209885.26,19.17
+Andhra Pradesh,East Godavari,2018,Rabi,Chillies,44669.57,174658.02,39.1
+Andhra Pradesh,East Godavari,2018,Kharif,Groundnut,53955.41,59297.0,10.99
+Andhra Pradesh,East Godavari,2018,Rabi,Maize,63438.63,274118.32,43.21
+Andhra Pradesh,East Godavari,2018,Rabi,Bengal Gram,63914.67,94529.8,14.79
+Andhra Pradesh,East Godavari,2018,Whole Year,Sugarcane,35865.81,2933357.0,817.87
+Andhra Pradesh,Chittoor,2018,Kharif,Paddy (Rice),143609.8,564386.51,39.3
+Andhra Pradesh,Chittoor,2018,Kharif,Cotton,110416.98,178544.26,16.17
+Andhra Pradesh,Chittoor,2018,Rabi,Chillies,36050.53,107034.02,29.69
+Andhra Pradesh,Chittoor,2018,Kharif,Groundnut,60325.39,60807.99,10.08
+Andhra Pradesh,Chittoor,2018,Rabi,Maize,56578.01,288321.54,50.96
+Andhra Pradesh,Chittoor,2018,Rabi,Bengal Gram,44887.19,57141.39,12.73
+Andhra Pradesh,Chittoor,2018,Whole Year,Sugarcane,34557.56,3064046.06,886.65
+Andhra Pradesh,Prakasam,2018,Kharif,Paddy (Rice),165754.27,693184.36,41.82
+Andhra Pradesh,Prakasam,2018,Kharif,Cotton,78507.9,116191.69,14.8
+Andhra Pradesh,Prakasam,2018,Rabi,Chillies,33988.23,105975.3,31.18
+Andhra Pradesh,Prakasam,2018,Kharif,Groundnut,59484.26,54309.13,9.13
+Andhra Pradesh,Prakasam,2018,Rabi,Maize,56501.94,241037.28,42.66
+Andhra Pradesh,Prakasam,2018,Rabi,Bengal Gram,82766.16,127708.18,15.43
+Andhra Pradesh,Prakasam,2018,Whole Year,Sugarcane,40527.69,3035686.09,749.04
+Andhra Pradesh,West Godavari,2018,Kharif,Paddy (Rice),155372.27,642930.45,41.38
+Andhra Pradesh,West Godavari,2018,Kharif,Cotton,123326.7,229264.34,18.59
+Andhra Pradesh,West Godavari,2018,Rabi,Chillies,43898.29,150000.46,34.17
+Andhra Pradesh,West Godavari,2018,Kharif,Groundnut,59799.27,56570.11,9.46
+Andhra Pradesh,West Godavari,2018,Rabi,Maize,74406.8,343164.16,46.12
+Andhra Pradesh,West Godavari,2018,Rabi,Bengal Gram,75461.55,107230.86,14.21
+Andhra Pradesh,West Godavari,2018,Whole Year,Sugarcane,23074.3,1995396.24,864.77
+Andhra Pradesh,Visakhapatnam,2018,Kharif,Paddy (Rice),77146.47,284979.06,36.94
+Andhra Pradesh,Visakhapatnam,2018,Kharif,Cotton,99775.81,163931.66,16.43
+Andhra Pradesh,Visakhapatnam,2018,Rabi,Chillies,62781.05,186208.59,29.66
+Andhra Pradesh,Visakhapatnam,2018,Kharif,Groundnut,96924.38,140152.65,14.46
+Andhra Pradesh,Visakhapatnam,2018,Rabi,Maize,67792.6,283644.24,41.84
+Andhra Pradesh,Visakhapatnam,2018,Rabi,Bengal Gram,61083.48,89181.88,14.6
+Andhra Pradesh,Visakhapatnam,2018,Whole Year,Sugarcane,33396.19,3065235.9,917.84
+Andhra Pradesh,Nellore,2018,Kharif,Paddy (Rice),167043.0,650966.57,38.97
+Andhra Pradesh,Nellore,2018,Kharif,Cotton,104198.08,196725.98,18.88
+Andhra Pradesh,Nellore,2018,Rabi,Chillies,53643.21,221385.53,41.27
+Andhra Pradesh,Nellore,2018,Kharif,Groundnut,61298.43,66815.29,10.9
+Andhra Pradesh,Nellore,2018,Rabi,Maize,62058.84,252393.3,40.67
+Andhra Pradesh,Nellore,2018,Rabi,Bengal Gram,44343.05,51437.94,11.6
+Andhra Pradesh,Nellore,2018,Whole Year,Sugarcane,21074.92,1735772.56,823.62
+Andhra Pradesh,YSR Kadapa,2018,Kharif,Paddy (Rice),129005.87,500413.77,38.79
+Andhra Pradesh,YSR Kadapa,2018,Kharif,Cotton,74592.19,146648.25,19.66
+Andhra Pradesh,YSR Kadapa,2018,Rabi,Chillies,52307.55,179728.74,34.36
+Andhra Pradesh,YSR Kadapa,2018,Kharif,Groundnut,91992.63,159331.24,17.32
+Andhra Pradesh,YSR Kadapa,2018,Rabi,Maize,67664.43,329052.12,48.63
+Andhra Pradesh,YSR Kadapa,2018,Rabi,Bengal Gram,67736.79,125109.85,18.47
+Andhra Pradesh,YSR Kadapa,2018,Whole Year,Sugarcane,32903.89,2781201.3,845.25
+Andhra Pradesh,Srikakulam,2018,Kharif,Paddy (Rice),134172.93,628063.49,46.81
+Andhra Pradesh,Srikakulam,2018,Kharif,Cotton,119823.97,174583.52,14.57
+Andhra Pradesh,Srikakulam,2018,Rabi,Chillies,32973.22,106536.47,32.31
+Andhra Pradesh,Srikakulam,2018,Kharif,Groundnut,95933.29,135457.81,14.12
+Andhra Pradesh,Srikakulam,2018,Rabi,Maize,45698.87,183298.17,40.11
+Andhra Pradesh,Srikakulam,2018,Rabi,Bengal Gram,69056.54,114633.86,16.6
+Andhra Pradesh,Srikakulam,2018,Whole Year,Sugarcane,47394.93,3957998.0,835.11
+Andhra Pradesh,Vizianagaram,2018,Kharif,Paddy (Rice),119404.34,430452.65,36.05
+Andhra Pradesh,Vizianagaram,2018,Kharif,Cotton,60029.42,104811.37,17.46
+Andhra Pradesh,Vizianagaram,2018,Rabi,Chillies,38603.58,121639.88,31.51
+Andhra Pradesh,Vizianagaram,2018,Kharif,Groundnut,53844.92,95090.13,17.66
+Andhra Pradesh,Vizianagaram,2018,Rabi,Maize,69782.18,333419.26,47.78
+Andhra Pradesh,Vizianagaram,2018,Rabi,Bengal Gram,81637.74,155111.71,19.0
+Andhra Pradesh,Vizianagaram,2018,Whole Year,Sugarcane,39823.88,3114187.59,781.99
+Andhra Pradesh,Guntur,2019,Kharif,Paddy (Rice),75862.24,340090.42,44.83
+Andhra Pradesh,Guntur,2019,Kharif,Cotton,92758.06,178188.23,19.21
+Andhra Pradesh,Guntur,2019,Rabi,Chillies,59978.62,183174.71,30.54
+Andhra Pradesh,Guntur,2019,Kharif,Groundnut,85461.1,125713.28,14.71
+Andhra Pradesh,Guntur,2019,Rabi,Maize,54635.94,216085.14,39.55
+Andhra Pradesh,Guntur,2019,Rabi,Bengal Gram,52702.13,72043.81,13.67
+Andhra Pradesh,Guntur,2019,Whole Year,Sugarcane,39763.74,3647448.34,917.28
+Andhra Pradesh,Krishna,2019,Kharif,Paddy (Rice),103661.15,456316.38,44.02
+Andhra Pradesh,Krishna,2019,Kharif,Cotton,78904.55,170118.21,21.56
+Andhra Pradesh,Krishna,2019,Rabi,Chillies,56288.38,200949.52,35.7
+Andhra Pradesh,Krishna,2019,Kharif,Groundnut,77108.86,91219.78,11.83
+Andhra Pradesh,Krishna,2019,Rabi,Maize,47224.05,257323.85,54.49
+Andhra Pradesh,Krishna,2019,Rabi,Bengal Gram,55400.4,83765.4,15.12
+Andhra Pradesh,Krishna,2019,Whole Year,Sugarcane,48667.34,4240190.66,871.26
+Andhra Pradesh,Kurnool,2019,Kharif,Paddy (Rice),124088.99,500947.25,40.37
+Andhra Pradesh,Kurnool,2019,Kharif,Cotton,71256.27,120351.84,16.89
+Andhra Pradesh,Kurnool,2019,Rabi,Chillies,54231.95,199356.65,36.76
+Andhra Pradesh,Kurnool,2019,Kharif,Groundnut,96639.39,104660.46,10.83
+Andhra Pradesh,Kurnool,2019,Rabi,Maize,57165.66,307379.75,53.77
+Andhra Pradesh,Kurnool,2019,Rabi,Bengal Gram,57029.57,94612.06,16.59
+Andhra Pradesh,Kurnool,2019,Whole Year,Sugarcane,24399.93,2302914.19,943.82
+Andhra Pradesh,Anantapur,2019,Kharif,Paddy (Rice),130451.68,497151.35,38.11
+Andhra Pradesh,Anantapur,2019,Kharif,Cotton,69036.74,127096.64,18.41
+Andhra Pradesh,Anantapur,2019,Rabi,Chillies,46881.05,137361.48,29.3
+Andhra Pradesh,Anantapur,2019,Kharif,Groundnut,111504.46,192010.68,17.22
+Andhra Pradesh,Anantapur,2019,Rabi,Maize,53303.71,213214.84,40.0
+Andhra Pradesh,Anantapur,2019,Rabi,Bengal Gram,75942.87,113838.36,14.99
+Andhra Pradesh,Anantapur,2019,Whole Year,Sugarcane,41064.89,3437295.55,837.04
+Andhra Pradesh,East Godavari,2019,Kharif,Paddy (Rice),98248.79,450470.7,45.85
+Andhra Pradesh,East Godavari,2019,Kharif,Cotton,131498.59,209740.25,15.95
+Andhra Pradesh,East Godavari,2019,Rabi,Chillies,46845.54,156323.57,33.37
+Andhra Pradesh,East Godavari,2019,Kharif,Groundnut,106999.56,145198.4,13.57
+Andhra Pradesh,East Godavari,2019,Rabi,Maize,71690.36,377736.51,52.69
+Andhra Pradesh,East Godavari,2019,Rabi,Bengal Gram,49259.88,85318.11,17.32
+Andhra Pradesh,East Godavari,2019,Whole Year,Sugarcane,32618.39,3049428.04,934.88
+Andhra Pradesh,Chittoor,2019,Kharif,Paddy (Rice),120742.82,551432.46,45.67
+Andhra Pradesh,Chittoor,2019,Kharif,Cotton,78495.76,128654.55,16.39
+Andhra Pradesh,Chittoor,2019,Rabi,Chillies,48129.76,202048.73,41.98
+Andhra Pradesh,Chittoor,2019,Kharif,Groundnut,79336.98,82034.44,10.34
+Andhra Pradesh,Chittoor,2019,Rabi,Maize,56697.55,248732.15,43.87
+Andhra Pradesh,Chittoor,2019,Rabi,Bengal Gram,62492.04,95925.28,15.35
+Andhra Pradesh,Chittoor,2019,Whole Year,Sugarcane,33749.65,2679755.96,794.01
+Andhra Pradesh,Prakasam,2019,Kharif,Paddy (Rice),90110.63,397117.55,44.07
+Andhra Pradesh,Prakasam,2019,Kharif,Cotton,100456.62,159424.66,15.87
+Andhra Pradesh,Prakasam,2019,Rabi,Chillies,54919.6,157124.98,28.61
+Andhra Pradesh,Prakasam,2019,Kharif,Groundnut,95661.13,146839.83,15.35
+Andhra Pradesh,Prakasam,2019,Rabi,Maize,68701.99,306136.07,44.56
+Andhra Pradesh,Prakasam,2019,Rabi,Bengal Gram,67857.06,119224.85,17.57
+Andhra Pradesh,Prakasam,2019,Whole Year,Sugarcane,48462.91,4041467.45,833.93
+Andhra Pradesh,West Godavari,2019,Kharif,Paddy (Rice),75553.88,313775.26,41.53
+Andhra Pradesh,West Godavari,2019,Kharif,Cotton,101853.71,213485.38,20.96
+Andhra Pradesh,West Godavari,2019,Rabi,Chillies,58470.85,199736.42,34.16
+Andhra Pradesh,West Godavari,2019,Kharif,Groundnut,81660.87,107057.4,13.11
+Andhra Pradesh,West Godavari,2019,Rabi,Maize,64787.53,291349.52,44.97
+Andhra Pradesh,West Godavari,2019,Rabi,Bengal Gram,67429.5,82466.28,12.23
+Andhra Pradesh,West Godavari,2019,Whole Year,Sugarcane,34145.74,3219670.12,942.92
+Andhra Pradesh,Visakhapatnam,2019,Kharif,Paddy (Rice),104501.88,459912.77,44.01
+Andhra Pradesh,Visakhapatnam,2019,Kharif,Cotton,106387.59,221392.57,20.81
+Andhra Pradesh,Visakhapatnam,2019,Rabi,Chillies,57684.29,230910.21,40.03
+Andhra Pradesh,Visakhapatnam,2019,Kharif,Groundnut,72320.6,85699.91,11.85
+Andhra Pradesh,Visakhapatnam,2019,Rabi,Maize,64623.57,328998.59,50.91
+Andhra Pradesh,Visakhapatnam,2019,Rabi,Bengal Gram,77874.38,87920.18,11.29
+Andhra Pradesh,Visakhapatnam,2019,Whole Year,Sugarcane,22915.78,1982604.54,865.17
+Andhra Pradesh,Nellore,2019,Kharif,Paddy (Rice),160409.19,769482.88,47.97
+Andhra Pradesh,Nellore,2019,Kharif,Cotton,113754.24,198728.66,17.47
+Andhra Pradesh,Nellore,2019,Rabi,Chillies,30543.95,112615.54,36.87
+Andhra Pradesh,Nellore,2019,Kharif,Groundnut,103845.07,134894.75,12.99
+Andhra Pradesh,Nellore,2019,Rabi,Maize,63536.05,339028.36,53.36
+Andhra Pradesh,Nellore,2019,Rabi,Bengal Gram,38207.57,66366.55,17.37
+Andhra Pradesh,Nellore,2019,Whole Year,Sugarcane,29214.3,2355286.08,806.21
+Andhra Pradesh,YSR Kadapa,2019,Kharif,Paddy (Rice),85974.7,360319.97,41.91
+Andhra Pradesh,YSR Kadapa,2019,Kharif,Cotton,100010.53,203421.42,20.34
+Andhra Pradesh,YSR Kadapa,2019,Rabi,Chillies,33119.41,96410.6,29.11
+Andhra Pradesh,YSR Kadapa,2019,Kharif,Groundnut,103733.73,151243.78,14.58
+Andhra Pradesh,YSR Kadapa,2019,Rabi,Maize,43596.51,233328.52,53.52
+Andhra Pradesh,YSR Kadapa,2019,Rabi,Bengal Gram,42869.65,62975.52,14.69
+Andhra Pradesh,YSR Kadapa,2019,Whole Year,Sugarcane,28111.37,2189116.72,778.73
+Andhra Pradesh,Srikakulam,2019,Kharif,Paddy (Rice),72902.15,331413.17,45.46
+Andhra Pradesh,Srikakulam,2019,Kharif,Cotton,125491.92,243705.31,19.42
+Andhra Pradesh,Srikakulam,2019,Rabi,Chillies,32687.12,111724.58,34.18
+Andhra Pradesh,Srikakulam,2019,Kharif,Groundnut,70116.2,100196.05,14.29
+Andhra Pradesh,Srikakulam,2019,Rabi,Maize,61113.3,276293.23,45.21
+Andhra Pradesh,Srikakulam,2019,Rabi,Bengal Gram,48004.71,85256.36,17.76
+Andhra Pradesh,Srikakulam,2019,Whole Year,Sugarcane,26578.08,2148784.61,808.48
+Andhra Pradesh,Vizianagaram,2019,Kharif,Paddy (Rice),118387.97,450821.39,38.08
+Andhra Pradesh,Vizianagaram,2019,Kharif,Cotton,100466.12,186866.98,18.6
+Andhra Pradesh,Vizianagaram,2019,Rabi,Chillies,62736.91,201573.69,32.13
+Andhra Pradesh,Vizianagaram,2019,Kharif,Groundnut,110588.45,164997.97,14.92
+Andhra Pradesh,Vizianagaram,2019,Rabi,Maize,45077.14,214657.34,47.62
+Andhra Pradesh,Vizianagaram,2019,Rabi,Bengal Gram,68918.38,116885.57,16.96
+Andhra Pradesh,Vizianagaram,2019,Whole Year,Sugarcane,22373.24,1922912.86,859.47
+Andhra Pradesh,Guntur,2020,Kharif,Paddy (Rice),119685.82,559531.21,46.75
+Andhra Pradesh,Guntur,2020,Kharif,Cotton,78750.76,160572.8,20.39
+Andhra Pradesh,Guntur,2020,Rabi,Chillies,48854.34,160877.34,32.93
+Andhra Pradesh,Guntur,2020,Kharif,Groundnut,88743.54,129476.82,14.59
+Andhra Pradesh,Guntur,2020,Rabi,Maize,62821.64,315741.56,50.26
+Andhra Pradesh,Guntur,2020,Rabi,Bengal Gram,67640.71,119791.7,17.71
+Andhra Pradesh,Guntur,2020,Whole Year,Sugarcane,38590.95,3580391.16,927.78
+Andhra Pradesh,Krishna,2020,Kharif,Paddy (Rice),134048.7,523058.03,39.02
+Andhra Pradesh,Krishna,2020,Kharif,Cotton,90502.56,168696.77,18.64
+Andhra Pradesh,Krishna,2020,Rabi,Chillies,53364.95,156145.84,29.26
+Andhra Pradesh,Krishna,2020,Kharif,Groundnut,66887.07,105213.36,15.73
+Andhra Pradesh,Krishna,2020,Rabi,Maize,40728.16,163930.84,40.25
+Andhra Pradesh,Krishna,2020,Rabi,Bengal Gram,61891.57,116170.48,18.77
+Andhra Pradesh,Krishna,2020,Whole Year,Sugarcane,35863.87,3335698.55,930.1
+Andhra Pradesh,Kurnool,2020,Kharif,Paddy (Rice),151725.37,581715.07,38.34
+Andhra Pradesh,Kurnool,2020,Kharif,Cotton,119676.43,213622.43,17.85
+Andhra Pradesh,Kurnool,2020,Rabi,Chillies,56033.59,215449.15,38.45
+Andhra Pradesh,Kurnool,2020,Kharif,Groundnut,69677.78,69956.49,10.04
+Andhra Pradesh,Kurnool,2020,Rabi,Maize,75367.3,304408.52,40.39
+Andhra Pradesh,Kurnool,2020,Rabi,Bengal Gram,82392.01,147316.91,17.88
+Andhra Pradesh,Kurnool,2020,Whole Year,Sugarcane,41278.07,3902387.46,945.39
+Andhra Pradesh,Anantapur,2020,Kharif,Paddy (Rice),164857.9,749444.01,45.46
+Andhra Pradesh,Anantapur,2020,Kharif,Cotton,84798.9,172396.16,20.33
+Andhra Pradesh,Anantapur,2020,Rabi,Chillies,27501.07,97656.3,35.51
+Andhra Pradesh,Anantapur,2020,Kharif,Groundnut,77106.31,116122.1,15.06
+Andhra Pradesh,Anantapur,2020,Rabi,Maize,62583.0,300022.9,47.94
+Andhra Pradesh,Anantapur,2020,Rabi,Bengal Gram,75476.03,139781.61,18.52
+Andhra Pradesh,Anantapur,2020,Whole Year,Sugarcane,24033.69,1859678.86,773.78
+Andhra Pradesh,East Godavari,2020,Kharif,Paddy (Rice),74402.37,345971.02,46.5
+Andhra Pradesh,East Godavari,2020,Kharif,Cotton,99666.96,212489.96,21.32
+Andhra Pradesh,East Godavari,2020,Rabi,Chillies,34969.22,101026.08,28.89
+Andhra Pradesh,East Godavari,2020,Kharif,Groundnut,100726.74,173048.54,17.18
+Andhra Pradesh,East Godavari,2020,Rabi,Maize,46296.37,208055.89,44.94
+Andhra Pradesh,East Godavari,2020,Rabi,Bengal Gram,42709.3,79311.17,18.57
+Andhra Pradesh,East Godavari,2020,Whole Year,Sugarcane,29522.21,2460085.76,833.3
+Andhra Pradesh,Chittoor,2020,Kharif,Paddy (Rice),81330.43,378430.49,46.53
+Andhra Pradesh,Chittoor,2020,Kharif,Cotton,67310.47,118668.36,17.63
+Andhra Pradesh,Chittoor,2020,Rabi,Chillies,51137.5,196368.0,38.4
+Andhra Pradesh,Chittoor,2020,Kharif,Groundnut,108542.34,138608.57,12.77
+Andhra Pradesh,Chittoor,2020,Rabi,Maize,65659.84,266775.93,40.63
+Andhra Pradesh,Chittoor,2020,Rabi,Bengal Gram,55914.46,65923.15,11.79
+Andhra Pradesh,Chittoor,2020,Whole Year,Sugarcane,34701.72,2824268.89,813.87
+Andhra Pradesh,Prakasam,2020,Kharif,Paddy (Rice),163346.07,578735.13,35.43
+Andhra Pradesh,Prakasam,2020,Kharif,Cotton,85160.28,149456.29,17.55
+Andhra Pradesh,Prakasam,2020,Rabi,Chillies,61219.99,244757.52,39.98
+Andhra Pradesh,Prakasam,2020,Kharif,Groundnut,54358.7,82462.15,15.17
+Andhra Pradesh,Prakasam,2020,Rabi,Maize,56956.5,311096.4,54.62
+Andhra Pradesh,Prakasam,2020,Rabi,Bengal Gram,53216.34,75513.99,14.19
+Andhra Pradesh,Prakasam,2020,Whole Year,Sugarcane,26314.64,1968598.22,748.1
+Andhra Pradesh,West Godavari,2020,Kharif,Paddy (Rice),153411.19,627605.18,40.91
+Andhra Pradesh,West Godavari,2020,Kharif,Cotton,107370.42,205399.61,19.13
+Andhra Pradesh,West Godavari,2020,Rabi,Chillies,48497.25,137247.22,28.3
+Andhra Pradesh,West Godavari,2020,Kharif,Groundnut,98354.85,110059.08,11.19
+Andhra Pradesh,West Godavari,2020,Rabi,Maize,38540.65,183453.49,47.6
+Andhra Pradesh,West Godavari,2020,Rabi,Bengal Gram,39293.29,67270.11,17.12
+Andhra Pradesh,West Godavari,2020,Whole Year,Sugarcane,26800.41,2062747.16,769.67
+Andhra Pradesh,Visakhapatnam,2020,Kharif,Paddy (Rice),155490.76,610612.21,39.27
+Andhra Pradesh,Visakhapatnam,2020,Kharif,Cotton,68214.12,144613.93,21.2
+Andhra Pradesh,Visakhapatnam,2020,Rabi,Chillies,27102.08,108462.52,40.02
+Andhra Pradesh,Visakhapatnam,2020,Kharif,Groundnut,57260.03,58233.45,10.17
+Andhra Pradesh,Visakhapatnam,2020,Rabi,Maize,44028.78,180385.91,40.97
+Andhra Pradesh,Visakhapatnam,2020,Rabi,Bengal Gram,67730.77,75926.19,11.21
+Andhra Pradesh,Visakhapatnam,2020,Whole Year,Sugarcane,21416.09,1931088.84,901.7
+Andhra Pradesh,Nellore,2020,Kharif,Paddy (Rice),94841.43,371873.25,39.21
+Andhra Pradesh,Nellore,2020,Kharif,Cotton,70242.71,101289.99,14.42
+Andhra Pradesh,Nellore,2020,Rabi,Chillies,53701.85,189943.44,35.37
+Andhra Pradesh,Nellore,2020,Kharif,Groundnut,95722.58,127215.31,13.29
+Andhra Pradesh,Nellore,2020,Rabi,Maize,67232.75,314178.64,46.73
+Andhra Pradesh,Nellore,2020,Rabi,Bengal Gram,41234.59,61975.59,15.03
+Andhra Pradesh,Nellore,2020,Whole Year,Sugarcane,47471.64,3465287.31,729.97
+Andhra Pradesh,YSR Kadapa,2020,Kharif,Paddy (Rice),147189.79,681047.16,46.27
+Andhra Pradesh,YSR Kadapa,2020,Kharif,Cotton,96630.29,170649.09,17.66
+Andhra Pradesh,YSR Kadapa,2020,Rabi,Chillies,61704.94,178018.75,28.85
+Andhra Pradesh,YSR Kadapa,2020,Kharif,Groundnut,78654.84,99183.75,12.61
+Andhra Pradesh,YSR Kadapa,2020,Rabi,Maize,63188.29,292751.35,46.33
+Andhra Pradesh,YSR Kadapa,2020,Rabi,Bengal Gram,79665.64,92332.48,11.59
+Andhra Pradesh,YSR Kadapa,2020,Whole Year,Sugarcane,23262.13,2000333.82,859.91
+Andhra Pradesh,Srikakulam,2020,Kharif,Paddy (Rice),78305.49,302102.58,38.58
+Andhra Pradesh,Srikakulam,2020,Kharif,Cotton,105113.83,193304.33,18.39
+Andhra Pradesh,Srikakulam,2020,Rabi,Chillies,38706.68,162258.4,41.92
+Andhra Pradesh,Srikakulam,2020,Kharif,Groundnut,81955.64,107197.98,13.08
+Andhra Pradesh,Srikakulam,2020,Rabi,Maize,59638.78,236706.32,39.69
+Andhra Pradesh,Srikakulam,2020,Rabi,Bengal Gram,69685.41,124179.4,17.82
+Andhra Pradesh,Srikakulam,2020,Whole Year,Sugarcane,39225.67,3517993.44,896.86
+Andhra Pradesh,Vizianagaram,2020,Kharif,Paddy (Rice),141200.63,533738.38,37.8
+Andhra Pradesh,Vizianagaram,2020,Kharif,Cotton,91318.17,144556.66,15.83
+Andhra Pradesh,Vizianagaram,2020,Rabi,Chillies,39201.54,134657.29,34.35
+Andhra Pradesh,Vizianagaram,2020,Kharif,Groundnut,74623.34,73578.61,9.86
+Andhra Pradesh,Vizianagaram,2020,Rabi,Maize,51777.62,255315.44,49.31
+Andhra Pradesh,Vizianagaram,2020,Rabi,Bengal Gram,53966.45,65947.0,12.22
+Andhra Pradesh,Vizianagaram,2020,Whole Year,Sugarcane,46843.58,3445064.25,735.44
+Andhra Pradesh,Guntur,2021,Kharif,Paddy (Rice),151850.1,549849.21,36.21
+Andhra Pradesh,Guntur,2021,Kharif,Cotton,64338.9,128098.75,19.91
+Andhra Pradesh,Guntur,2021,Rabi,Chillies,56223.69,201224.59,35.79
+Andhra Pradesh,Guntur,2021,Kharif,Groundnut,85533.77,120174.95,14.05
+Andhra Pradesh,Guntur,2021,Rabi,Maize,47504.42,190397.72,40.08
+Andhra Pradesh,Guntur,2021,Rabi,Bengal Gram,52972.71,86451.46,16.32
+Andhra Pradesh,Guntur,2021,Whole Year,Sugarcane,42007.96,3863304.05,919.66
+Andhra Pradesh,Krishna,2021,Kharif,Paddy (Rice),141221.83,672074.69,47.59
+Andhra Pradesh,Krishna,2021,Kharif,Cotton,102631.17,172523.0,16.81
+Andhra Pradesh,Krishna,2021,Rabi,Chillies,47805.07,148100.11,30.98
+Andhra Pradesh,Krishna,2021,Kharif,Groundnut,90031.12,99214.29,11.02
+Andhra Pradesh,Krishna,2021,Rabi,Maize,37761.61,197757.55,52.37
+Andhra Pradesh,Krishna,2021,Rabi,Bengal Gram,53642.93,91729.41,17.1
+Andhra Pradesh,Krishna,2021,Whole Year,Sugarcane,37074.8,3357716.34,905.66
+Andhra Pradesh,Kurnool,2021,Kharif,Paddy (Rice),153134.9,729994.07,47.67
+Andhra Pradesh,Kurnool,2021,Kharif,Cotton,119200.44,225408.03,18.91
+Andhra Pradesh,Kurnool,2021,Rabi,Chillies,50137.17,142239.15,28.37
+Andhra Pradesh,Kurnool,2021,Kharif,Groundnut,107461.39,176988.91,16.47
+Andhra Pradesh,Kurnool,2021,Rabi,Maize,44767.7,183860.94,41.07
+Andhra Pradesh,Kurnool,2021,Rabi,Bengal Gram,69729.54,93925.69,13.47
+Andhra Pradesh,Kurnool,2021,Whole Year,Sugarcane,30515.09,2201358.59,721.4
+Andhra Pradesh,Anantapur,2021,Kharif,Paddy (Rice),155506.82,658726.89,42.36
+Andhra Pradesh,Anantapur,2021,Kharif,Cotton,87459.61,132326.39,15.13
+Andhra Pradesh,Anantapur,2021,Rabi,Chillies,49794.19,141564.88,28.43
+Andhra Pradesh,Anantapur,2021,Kharif,Groundnut,95751.15,104751.76,10.94
+Andhra Pradesh,Anantapur,2021,Rabi,Maize,51472.63,225450.12,43.8
+Andhra Pradesh,Anantapur,2021,Rabi,Bengal Gram,53762.55,90159.8,16.77
+Andhra Pradesh,Anantapur,2021,Whole Year,Sugarcane,42751.4,3636220.33,850.55
+Andhra Pradesh,East Godavari,2021,Kharif,Paddy (Rice),80155.88,285996.18,35.68
+Andhra Pradesh,East Godavari,2021,Kharif,Cotton,68963.15,130616.21,18.94
+Andhra Pradesh,East Godavari,2021,Rabi,Chillies,51262.87,163067.19,31.81
+Andhra Pradesh,East Godavari,2021,Kharif,Groundnut,90364.08,120816.77,13.37
+Andhra Pradesh,East Godavari,2021,Rabi,Maize,52449.94,223646.54,42.64
+Andhra Pradesh,East Godavari,2021,Rabi,Bengal Gram,72237.27,86034.59,11.91
+Andhra Pradesh,East Godavari,2021,Whole Year,Sugarcane,33037.58,2593945.59,785.15
+Andhra Pradesh,Chittoor,2021,Kharif,Paddy (Rice),137134.68,566777.63,41.33
+Andhra Pradesh,Chittoor,2021,Kharif,Cotton,107702.07,154660.17,14.36
+Andhra Pradesh,Chittoor,2021,Rabi,Chillies,41229.48,150034.08,36.39
+Andhra Pradesh,Chittoor,2021,Kharif,Groundnut,48491.97,56784.1,11.71
+Andhra Pradesh,Chittoor,2021,Rabi,Maize,42294.3,170572.91,40.33
+Andhra Pradesh,Chittoor,2021,Rabi,Bengal Gram,48264.94,65736.85,13.62
+Andhra Pradesh,Chittoor,2021,Whole Year,Sugarcane,21216.44,1892103.34,891.81
+Andhra Pradesh,Prakasam,2021,Kharif,Paddy (Rice),88866.7,354933.6,39.94
+Andhra Pradesh,Prakasam,2021,Kharif,Cotton,110479.02,198862.24,18.0
+Andhra Pradesh,Prakasam,2021,Rabi,Chillies,57000.75,223955.95,39.29
+Andhra Pradesh,Prakasam,2021,Kharif,Groundnut,52612.83,88179.1,16.76
+Andhra Pradesh,Prakasam,2021,Rabi,Maize,34861.3,133588.5,38.32
+Andhra Pradesh,Prakasam,2021,Rabi,Bengal Gram,80215.8,143586.28,17.9
+Andhra Pradesh,Prakasam,2021,Whole Year,Sugarcane,37121.26,3162285.9,851.88
+Andhra Pradesh,West Godavari,2021,Kharif,Paddy (Rice),140111.9,566472.41,40.43
+Andhra Pradesh,West Godavari,2021,Kharif,Cotton,65753.18,93172.26,14.17
+Andhra Pradesh,West Godavari,2021,Rabi,Chillies,38691.65,151748.65,39.22
+Andhra Pradesh,West Godavari,2021,Kharif,Groundnut,87560.02,144386.47,16.49
+Andhra Pradesh,West Godavari,2021,Rabi,Maize,73469.87,290205.99,39.5
+Andhra Pradesh,West Godavari,2021,Rabi,Bengal Gram,76535.25,99113.15,12.95
+Andhra Pradesh,West Godavari,2021,Whole Year,Sugarcane,37488.4,3150937.51,840.51
+Andhra Pradesh,Visakhapatnam,2021,Kharif,Paddy (Rice),109993.6,429305.02,39.03
+Andhra Pradesh,Visakhapatnam,2021,Kharif,Cotton,82803.01,137949.81,16.66
+Andhra Pradesh,Visakhapatnam,2021,Rabi,Chillies,33052.78,116180.52,35.15
+Andhra Pradesh,Visakhapatnam,2021,Kharif,Groundnut,55297.7,75149.57,13.59
+Andhra Pradesh,Visakhapatnam,2021,Rabi,Maize,72860.6,320149.48,43.94
+Andhra Pradesh,Visakhapatnam,2021,Rabi,Bengal Gram,70914.2,124454.42,17.55
+Andhra Pradesh,Visakhapatnam,2021,Whole Year,Sugarcane,43821.04,3393238.41,774.34
+Andhra Pradesh,Nellore,2021,Kharif,Paddy (Rice),86058.64,323236.25,37.56
+Andhra Pradesh,Nellore,2021,Kharif,Cotton,102782.32,206386.9,20.08
+Andhra Pradesh,Nellore,2021,Rabi,Chillies,50598.32,154223.68,30.48
+Andhra Pradesh,Nellore,2021,Kharif,Groundnut,97462.28,131086.77,13.45
+Andhra Pradesh,Nellore,2021,Rabi,Maize,66195.62,337068.1,50.92
+Andhra Pradesh,Nellore,2021,Rabi,Bengal Gram,57547.45,105829.76,18.39
+Andhra Pradesh,Nellore,2021,Whole Year,Sugarcane,36805.77,3187821.35,866.12
+Andhra Pradesh,YSR Kadapa,2021,Kharif,Paddy (Rice),131954.09,610155.71,46.24
+Andhra Pradesh,YSR Kadapa,2021,Kharif,Cotton,104668.52,159200.82,15.21
+Andhra Pradesh,YSR Kadapa,2021,Rabi,Chillies,29458.31,100717.96,34.19
+Andhra Pradesh,YSR Kadapa,2021,Kharif,Groundnut,67380.51,77285.44,11.47
+Andhra Pradesh,YSR Kadapa,2021,Rabi,Maize,35471.57,165368.46,46.62
+Andhra Pradesh,YSR Kadapa,2021,Rabi,Bengal Gram,50899.58,74415.19,14.62
+Andhra Pradesh,YSR Kadapa,2021,Whole Year,Sugarcane,22592.92,2058870.21,911.29
+Andhra Pradesh,Srikakulam,2021,Kharif,Paddy (Rice),79366.18,366989.22,46.24
+Andhra Pradesh,Srikakulam,2021,Kharif,Cotton,122002.3,230828.35,18.92
+Andhra Pradesh,Srikakulam,2021,Rabi,Chillies,45254.44,156037.31,34.48
+Andhra Pradesh,Srikakulam,2021,Kharif,Groundnut,83476.25,134647.19,16.13
+Andhra Pradesh,Srikakulam,2021,Rabi,Maize,72418.58,330590.82,45.65
+Andhra Pradesh,Srikakulam,2021,Rabi,Bengal Gram,74871.16,121366.15,16.21
+Andhra Pradesh,Srikakulam,2021,Whole Year,Sugarcane,30002.75,2488398.08,829.39
+Andhra Pradesh,Vizianagaram,2021,Kharif,Paddy (Rice),86482.66,309607.92,35.8
+Andhra Pradesh,Vizianagaram,2021,Kharif,Cotton,64866.14,137451.35,21.19
+Andhra Pradesh,Vizianagaram,2021,Rabi,Chillies,39363.76,149582.29,38.0
+Andhra Pradesh,Vizianagaram,2021,Kharif,Groundnut,80291.14,84707.15,10.55
+Andhra Pradesh,Vizianagaram,2021,Rabi,Maize,43900.72,199484.87,45.44
+Andhra Pradesh,Vizianagaram,2021,Rabi,Bengal Gram,57092.25,86666.04,15.18
+Andhra Pradesh,Vizianagaram,2021,Whole Year,Sugarcane,25444.89,2050247.46,805.76
+Andhra Pradesh,Guntur,2022,Kharif,Paddy (Rice),99157.78,399705.01,40.31
+Andhra Pradesh,Guntur,2022,Kharif,Cotton,82715.9,155340.46,18.78
+Andhra Pradesh,Guntur,2022,Rabi,Chillies,55412.17,205357.5,37.06
+Andhra Pradesh,Guntur,2022,Kharif,Groundnut,52218.36,51435.08,9.85
+Andhra Pradesh,Guntur,2022,Rabi,Maize,62848.69,269180.94,42.83
+Andhra Pradesh,Guntur,2022,Rabi,Bengal Gram,70739.22,114951.23,16.25
+Andhra Pradesh,Guntur,2022,Whole Year,Sugarcane,46377.6,4270681.3,920.85
+Andhra Pradesh,Krishna,2022,Kharif,Paddy (Rice),104002.76,442843.75,42.58
+Andhra Pradesh,Krishna,2022,Kharif,Cotton,67748.56,113817.58,16.8
+Andhra Pradesh,Krishna,2022,Rabi,Chillies,61837.07,233620.45,37.78
+Andhra Pradesh,Krishna,2022,Kharif,Groundnut,73085.31,104950.51,14.36
+Andhra Pradesh,Krishna,2022,Rabi,Maize,74272.1,321301.1,43.26
+Andhra Pradesh,Krishna,2022,Rabi,Bengal Gram,54080.61,93721.7,17.33
+Andhra Pradesh,Krishna,2022,Whole Year,Sugarcane,43769.17,3825994.46,874.13
+Andhra Pradesh,Kurnool,2022,Kharif,Paddy (Rice),151580.06,676047.07,44.6
+Andhra Pradesh,Kurnool,2022,Kharif,Cotton,109091.5,198655.62,18.21
+Andhra Pradesh,Kurnool,2022,Rabi,Chillies,50256.89,170521.63,33.93
+Andhra Pradesh,Kurnool,2022,Kharif,Groundnut,71157.0,87238.48,12.26
+Andhra Pradesh,Kurnool,2022,Rabi,Maize,40931.57,170439.06,41.64
+Andhra Pradesh,Kurnool,2022,Rabi,Bengal Gram,81488.08,121335.75,14.89
+Andhra Pradesh,Kurnool,2022,Whole Year,Sugarcane,27343.21,2055225.04,751.64
+Andhra Pradesh,Anantapur,2022,Kharif,Paddy (Rice),79407.85,365117.29,45.98
+Andhra Pradesh,Anantapur,2022,Kharif,Cotton,64686.7,130473.07,20.17
+Andhra Pradesh,Anantapur,2022,Rabi,Chillies,57064.31,230368.62,40.37
+Andhra Pradesh,Anantapur,2022,Kharif,Groundnut,50415.84,60650.26,12.03
+Andhra Pradesh,Anantapur,2022,Rabi,Maize,66717.53,268404.62,40.23
+Andhra Pradesh,Anantapur,2022,Rabi,Bengal Gram,54082.55,66521.54,12.3
+Andhra Pradesh,Anantapur,2022,Whole Year,Sugarcane,44277.66,3973255.82,897.35
+Andhra Pradesh,East Godavari,2022,Kharif,Paddy (Rice),149668.2,556017.36,37.15
+Andhra Pradesh,East Godavari,2022,Kharif,Cotton,90263.18,156065.04,17.29
+Andhra Pradesh,East Godavari,2022,Rabi,Chillies,51349.07,160876.64,31.33
+Andhra Pradesh,East Godavari,2022,Kharif,Groundnut,76428.72,88351.6,11.56
+Andhra Pradesh,East Godavari,2022,Rabi,Maize,65935.61,300864.19,45.63
+Andhra Pradesh,East Godavari,2022,Rabi,Bengal Gram,61632.54,83080.66,13.48
+Andhra Pradesh,East Godavari,2022,Whole Year,Sugarcane,43641.47,3612946.38,827.87
+Andhra Pradesh,Chittoor,2022,Kharif,Paddy (Rice),152170.89,605335.8,39.78
+Andhra Pradesh,Chittoor,2022,Kharif,Cotton,128981.89,282212.38,21.88
+Andhra Pradesh,Chittoor,2022,Rabi,Chillies,43620.48,139323.81,31.94
+Andhra Pradesh,Chittoor,2022,Kharif,Groundnut,72439.84,99604.78,13.75
+Andhra Pradesh,Chittoor,2022,Rabi,Maize,75515.8,391851.49,51.89
+Andhra Pradesh,Chittoor,2022,Rabi,Bengal Gram,74460.44,90171.59,12.11
+Andhra Pradesh,Chittoor,2022,Whole Year,Sugarcane,28000.09,2428923.81,867.47
+Andhra Pradesh,Prakasam,2022,Kharif,Paddy (Rice),155915.23,658118.19,42.21
+Andhra Pradesh,Prakasam,2022,Kharif,Cotton,64796.82,134583.0,20.77
+Andhra Pradesh,Prakasam,2022,Rabi,Chillies,57641.98,184396.69,31.99
+Andhra Pradesh,Prakasam,2022,Kharif,Groundnut,96839.48,110978.04,11.46
+Andhra Pradesh,Prakasam,2022,Rabi,Maize,72833.47,294975.55,40.5
+Andhra Pradesh,Prakasam,2022,Rabi,Bengal Gram,56998.68,105846.55,18.57
+Andhra Pradesh,Prakasam,2022,Whole Year,Sugarcane,27217.06,2242032.53,823.76
+Andhra Pradesh,West Godavari,2022,Kharif,Paddy (Rice),105560.17,373155.2,35.35
+Andhra Pradesh,West Godavari,2022,Kharif,Cotton,61047.52,110007.63,18.02
+Andhra Pradesh,West Godavari,2022,Rabi,Chillies,35488.01,148765.74,41.92
+Andhra Pradesh,West Godavari,2022,Kharif,Groundnut,71994.41,66594.83,9.25
+Andhra Pradesh,West Godavari,2022,Rabi,Maize,73956.34,386569.79,52.27
+Andhra Pradesh,West Godavari,2022,Rabi,Bengal Gram,67198.11,116454.32,17.33
+Andhra Pradesh,West Godavari,2022,Whole Year,Sugarcane,24852.79,1953379.59,785.98
+Andhra Pradesh,Visakhapatnam,2022,Kharif,Paddy (Rice),151657.11,668049.57,44.05
+Andhra Pradesh,Visakhapatnam,2022,Kharif,Cotton,67548.24,132664.74,19.64
+Andhra Pradesh,Visakhapatnam,2022,Rabi,Chillies,43149.65,121121.07,28.07
+Andhra Pradesh,Visakhapatnam,2022,Kharif,Groundnut,53070.45,59969.61,11.3
+Andhra Pradesh,Visakhapatnam,2022,Rabi,Maize,69738.38,330071.75,47.33
+Andhra Pradesh,Visakhapatnam,2022,Rabi,Bengal Gram,70907.27,107920.86,15.22
+Andhra Pradesh,Visakhapatnam,2022,Whole Year,Sugarcane,24113.23,1895926.82,786.26
+Andhra Pradesh,Nellore,2022,Kharif,Paddy (Rice),100910.51,359443.24,35.62
+Andhra Pradesh,Nellore,2022,Kharif,Cotton,88906.74,180925.22,20.35
+Andhra Pradesh,Nellore,2022,Rabi,Chillies,43456.09,128412.75,29.55
+Andhra Pradesh,Nellore,2022,Kharif,Groundnut,105929.4,152220.55,14.37
+Andhra Pradesh,Nellore,2022,Rabi,Maize,33723.16,157689.5,46.76
+Andhra Pradesh,Nellore,2022,Rabi,Bengal Gram,47613.03,57849.83,12.15
+Andhra Pradesh,Nellore,2022,Whole Year,Sugarcane,33018.69,2844262.98,861.41
+Andhra Pradesh,YSR Kadapa,2022,Kharif,Paddy (Rice),95094.17,384370.64,40.42
+Andhra Pradesh,YSR Kadapa,2022,Kharif,Cotton,107492.22,157798.58,14.68
+Andhra Pradesh,YSR Kadapa,2022,Rabi,Chillies,62087.56,179743.49,28.95
+Andhra Pradesh,YSR Kadapa,2022,Kharif,Groundnut,81667.8,110823.2,13.57
+Andhra Pradesh,YSR Kadapa,2022,Rabi,Maize,76486.59,362699.41,47.42
+Andhra Pradesh,YSR Kadapa,2022,Rabi,Bengal Gram,54741.78,80798.87,14.76
+Andhra Pradesh,YSR Kadapa,2022,Whole Year,Sugarcane,38798.78,3668967.83,945.64
+Andhra Pradesh,Srikakulam,2022,Kharif,Paddy (Rice),96350.43,339249.86,35.21
+Andhra Pradesh,Srikakulam,2022,Kharif,Cotton,116927.52,195970.52,16.76
+Andhra Pradesh,Srikakulam,2022,Rabi,Chillies,53385.88,196460.04,36.8
+Andhra Pradesh,Srikakulam,2022,Kharif,Groundnut,97376.09,152101.45,15.62
+Andhra Pradesh,Srikakulam,2022,Rabi,Maize,47630.82,184569.43,38.75
+Andhra Pradesh,Srikakulam,2022,Rabi,Bengal Gram,62208.66,108927.36,17.51
+Andhra Pradesh,Srikakulam,2022,Whole Year,Sugarcane,25902.5,2329152.8,899.2
+Andhra Pradesh,Vizianagaram,2022,Kharif,Paddy (Rice),116603.8,513523.14,44.04
+Andhra Pradesh,Vizianagaram,2022,Kharif,Cotton,105011.92,215169.42,20.49
+Andhra Pradesh,Vizianagaram,2022,Rabi,Chillies,29271.62,113778.79,38.87
+Andhra Pradesh,Vizianagaram,2022,Kharif,Groundnut,77291.49,89967.29,11.64
+Andhra Pradesh,Vizianagaram,2022,Rabi,Maize,34927.48,144564.84,41.39
+Andhra Pradesh,Vizianagaram,2022,Rabi,Bengal Gram,38011.49,70207.22,18.47
+Andhra Pradesh,Vizianagaram,2022,Whole Year,Sugarcane,35430.74,3357062.61,947.5
+Andhra Pradesh,Guntur,2023,Kharif,Paddy (Rice),124130.95,475297.41,38.29
+Andhra Pradesh,Guntur,2023,Kharif,Cotton,114250.11,177430.42,15.53
+Andhra Pradesh,Guntur,2023,Rabi,Chillies,39851.07,155140.22,38.93
+Andhra Pradesh,Guntur,2023,Kharif,Groundnut,103411.09,123989.9,11.99
+Andhra Pradesh,Guntur,2023,Rabi,Maize,38476.9,170298.76,44.26
+Andhra Pradesh,Guntur,2023,Rabi,Bengal Gram,78695.35,133388.62,16.95
+Andhra Pradesh,Guntur,2023,Whole Year,Sugarcane,46049.85,3725110.52,808.93
+Andhra Pradesh,Krishna,2023,Kharif,Paddy (Rice),165477.46,685904.07,41.45
+Andhra Pradesh,Krishna,2023,Kharif,Cotton,94811.78,202802.4,21.39
+Andhra Pradesh,Krishna,2023,Rabi,Chillies,45693.93,179211.59,39.22
+Andhra Pradesh,Krishna,2023,Kharif,Groundnut,94533.2,91791.74,9.71
+Andhra Pradesh,Krishna,2023,Rabi,Maize,59507.95,309322.32,51.98
+Andhra Pradesh,Krishna,2023,Rabi,Bengal Gram,62182.77,84382.02,13.57
+Andhra Pradesh,Krishna,2023,Whole Year,Sugarcane,23241.93,2026719.54,872.01
+Andhra Pradesh,Kurnool,2023,Kharif,Paddy (Rice),101423.6,434397.28,42.83
+Andhra Pradesh,Kurnool,2023,Kharif,Cotton,89384.82,174479.17,19.52
+Andhra Pradesh,Kurnool,2023,Rabi,Chillies,39655.69,113375.62,28.59
+Andhra Pradesh,Kurnool,2023,Kharif,Groundnut,103682.38,126181.46,12.17
+Andhra Pradesh,Kurnool,2023,Rabi,Maize,76918.63,328211.79,42.67
+Andhra Pradesh,Kurnool,2023,Rabi,Bengal Gram,83041.31,154290.75,18.58
+Andhra Pradesh,Kurnool,2023,Whole Year,Sugarcane,23101.15,2002014.96,866.63
+Andhra Pradesh,Anantapur,2023,Kharif,Paddy (Rice),106877.87,485332.41,45.41
+Andhra Pradesh,Anantapur,2023,Kharif,Cotton,108635.21,234869.32,21.62
+Andhra Pradesh,Anantapur,2023,Rabi,Chillies,32140.06,117343.36,36.51
+Andhra Pradesh,Anantapur,2023,Kharif,Groundnut,98003.97,91241.7,9.31
+Andhra Pradesh,Anantapur,2023,Rabi,Maize,35958.27,184214.22,51.23
+Andhra Pradesh,Anantapur,2023,Rabi,Bengal Gram,53583.77,75338.78,14.06
+Andhra Pradesh,Anantapur,2023,Whole Year,Sugarcane,36882.85,3168863.82,859.17
+Andhra Pradesh,East Godavari,2023,Kharif,Paddy (Rice),137189.96,649320.08,47.33
+Andhra Pradesh,East Godavari,2023,Kharif,Cotton,85273.02,171398.77,20.1
+Andhra Pradesh,East Godavari,2023,Rabi,Chillies,47661.18,168768.24,35.41
+Andhra Pradesh,East Godavari,2023,Kharif,Groundnut,73474.18,109109.16,14.85
+Andhra Pradesh,East Godavari,2023,Rabi,Maize,43982.91,175623.76,39.93
+Andhra Pradesh,East Godavari,2023,Rabi,Bengal Gram,71312.39,106897.27,14.99
+Andhra Pradesh,East Godavari,2023,Whole Year,Sugarcane,31835.65,2703419.73,849.18
+Andhra Pradesh,Chittoor,2023,Kharif,Paddy (Rice),97130.56,372787.09,38.38
+Andhra Pradesh,Chittoor,2023,Kharif,Cotton,90916.76,199744.12,21.97
+Andhra Pradesh,Chittoor,2023,Rabi,Chillies,37280.77,152217.38,40.83
+Andhra Pradesh,Chittoor,2023,Kharif,Groundnut,79436.81,80231.18,10.1
+Andhra Pradesh,Chittoor,2023,Rabi,Maize,70524.36,322155.28,45.68
+Andhra Pradesh,Chittoor,2023,Rabi,Bengal Gram,79136.59,115222.88,14.56
+Andhra Pradesh,Chittoor,2023,Whole Year,Sugarcane,23458.14,2056903.55,876.84
+Andhra Pradesh,Prakasam,2023,Kharif,Paddy (Rice),153170.04,599660.71,39.15
+Andhra Pradesh,Prakasam,2023,Kharif,Cotton,83404.32,121103.07,14.52
+Andhra Pradesh,Prakasam,2023,Rabi,Chillies,46518.17,188305.55,40.48
+Andhra Pradesh,Prakasam,2023,Kharif,Groundnut,102487.17,157932.73,15.41
+Andhra Pradesh,Prakasam,2023,Rabi,Maize,73802.28,360450.34,48.84
+Andhra Pradesh,Prakasam,2023,Rabi,Bengal Gram,74097.43,111664.83,15.07
+Andhra Pradesh,Prakasam,2023,Whole Year,Sugarcane,24398.15,1869459.45,766.23
+Andhra Pradesh,West Godavari,2023,Kharif,Paddy (Rice),85332.18,386298.78,45.27
+Andhra Pradesh,West Godavari,2023,Kharif,Cotton,58997.59,108732.56,18.43
+Andhra Pradesh,West Godavari,2023,Rabi,Chillies,40280.8,158102.14,39.25
+Andhra Pradesh,West Godavari,2023,Kharif,Groundnut,83305.4,120876.14,14.51
+Andhra Pradesh,West Godavari,2023,Rabi,Maize,36793.48,159168.59,43.26
+Andhra Pradesh,West Godavari,2023,Rabi,Bengal Gram,83980.56,140667.44,16.75
+Andhra Pradesh,West Godavari,2023,Whole Year,Sugarcane,35719.48,3203715.88,896.91
+Andhra Pradesh,Visakhapatnam,2023,Kharif,Paddy (Rice),151040.58,543141.93,35.96
+Andhra Pradesh,Visakhapatnam,2023,Kharif,Cotton,130900.86,250544.25,19.14
+Andhra Pradesh,Visakhapatnam,2023,Rabi,Chillies,43199.08,162082.95,37.52
+Andhra Pradesh,Visakhapatnam,2023,Kharif,Groundnut,70048.95,118382.73,16.9
+Andhra Pradesh,Visakhapatnam,2023,Rabi,Maize,67331.57,329116.71,48.88
+Andhra Pradesh,Visakhapatnam,2023,Rabi,Bengal Gram,44734.23,83787.21,18.73
+Andhra Pradesh,Visakhapatnam,2023,Whole Year,Sugarcane,33113.31,3077749.71,929.46
+Andhra Pradesh,Nellore,2023,Kharif,Paddy (Rice),77319.63,283067.17,36.61
+Andhra Pradesh,Nellore,2023,Kharif,Cotton,68629.18,105139.9,15.32
+Andhra Pradesh,Nellore,2023,Rabi,Chillies,38615.79,146469.69,37.93
+Andhra Pradesh,Nellore,2023,Kharif,Groundnut,70145.48,122544.15,17.47
+Andhra Pradesh,Nellore,2023,Rabi,Maize,72376.74,379109.36,52.38
+Andhra Pradesh,Nellore,2023,Rabi,Bengal Gram,48029.05,77230.71,16.08
+Andhra Pradesh,Nellore,2023,Whole Year,Sugarcane,36423.56,2727359.75,748.79
+Andhra Pradesh,YSR Kadapa,2023,Kharif,Paddy (Rice),101071.16,423892.45,41.94
+Andhra Pradesh,YSR Kadapa,2023,Kharif,Cotton,95195.56,146125.18,15.35
+Andhra Pradesh,YSR Kadapa,2023,Rabi,Chillies,60897.85,183667.92,30.16
+Andhra Pradesh,YSR Kadapa,2023,Kharif,Groundnut,90158.9,139656.14,15.49
+Andhra Pradesh,YSR Kadapa,2023,Rabi,Maize,59626.11,311963.81,52.32
+Andhra Pradesh,YSR Kadapa,2023,Rabi,Bengal Gram,63053.67,110974.46,17.6
+Andhra Pradesh,YSR Kadapa,2023,Whole Year,Sugarcane,21794.46,1591998.13,730.46
+Andhra Pradesh,Srikakulam,2023,Kharif,Paddy (Rice),133579.56,567713.13,42.5
+Andhra Pradesh,Srikakulam,2023,Kharif,Cotton,106485.88,214462.56,20.14
+Andhra Pradesh,Srikakulam,2023,Rabi,Chillies,41997.12,155179.36,36.95
+Andhra Pradesh,Srikakulam,2023,Kharif,Groundnut,79874.44,116936.18,14.64
+Andhra Pradesh,Srikakulam,2023,Rabi,Maize,45745.55,248215.35,54.26
+Andhra Pradesh,Srikakulam,2023,Rabi,Bengal Gram,59181.35,103212.27,17.44
+Andhra Pradesh,Srikakulam,2023,Whole Year,Sugarcane,40179.74,3167810.88,788.41
+Andhra Pradesh,Vizianagaram,2023,Kharif,Paddy (Rice),79005.41,282681.36,35.78
+Andhra Pradesh,Vizianagaram,2023,Kharif,Cotton,90410.02,161562.71,17.87
+Andhra Pradesh,Vizianagaram,2023,Rabi,Chillies,34344.83,125324.28,36.49
+Andhra Pradesh,Vizianagaram,2023,Kharif,Groundnut,68005.28,105204.17,15.47
+Andhra Pradesh,Vizianagaram,2023,Rabi,Maize,65304.79,343699.11,52.63
+Andhra Pradesh,Vizianagaram,2023,Rabi,Bengal Gram,82817.96,99795.64,12.05
+Andhra Pradesh,Vizianagaram,2023,Whole Year,Sugarcane,31375.13,2664313.29,849.18

@@ -1,0 +1,40 @@
+{
+  "best_model": "Ridge_Baseline",
+  "evaluation_metrics": {
+    "Ridge_Baseline": {
+      "MAE": 10.635,
+      "RMSE": 23.344,
+      "R2": 0.9934
+    },
+    "Random_Forest": {
+      "MAE": 9.909,
+      "RMSE": 24.717,
+      "R2": 0.9926
+    },
+    "Gradient_Boosting": {
+      "MAE": 11.28,
+      "RMSE": 27.618,
+      "R2": 0.9908
+    }
+  },
+  "features": {
+    "categorical": [
+      "district",
+      "crop",
+      "season"
+    ],
+    "numeric": [
+      "area_hectares",
+      "rainfall_mm",
+      "temp_avg_c",
+      "nitrogen_kg_ha",
+      "phosphorus_kg_ha",
+      "potassium_kg_ha",
+      "soil_ph"
+    ]
+  },
+  "target": "yield_quintal_per_ha",
+  "train_samples": 637,
+  "test_samples": 182,
+  "saved_at": "2026-11-16T20:53:03.124293"
+}

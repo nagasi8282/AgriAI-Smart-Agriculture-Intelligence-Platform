@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: stg_crop_production
+    description: "Silver staging model for crop production records in Andhra Pradesh."
+    columns:
+      - name: district_name
+        description: "Standardized district name conforming to official Census guidelines."
+        tests:
+          - not_null
+      - name: crop
+        description: "Standardized crop name."
+        tests:
+          - not_null
+      - name: crop_year
+        tests:
+          - not_null
+      - name: area_hectares
+        tests:
+          - not_null
+
+  - name: stg_mandi_prices
+    description: "Silver staging model for AGMARKNET wholesale prices."
+    columns:
+      - name: commodity
+        tests:
+          - not_null
+      - name: market
+        tests:
+          - not_null
+      - name: modal_price_inr
+        tests:
+          - not_null

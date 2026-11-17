@@ -1,0 +1,8 @@
+{
+  "crop_production": {
+    "watermark_column": "crop_year",
+    "high_watermark": "2023",
+    "last_updated_at": "2026-11-17T02:11:58.214041+00:00",
+    "rows_ingested": 819
+  }
+}

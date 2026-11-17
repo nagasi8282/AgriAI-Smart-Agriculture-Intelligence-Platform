@@ -1,0 +1,1561 @@
+state,district,market,commodity,variety,arrival_date,min_price_inr,max_price_inr,modal_price_inr,arrival_tonnes
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-01,17382.31,17765.94,17595.58,105.57
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-01,6003.33,6377.77,6154.9,225.0
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-01,1721.28,2196.0,2074.14,131.42
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-01,6149.31,6702.16,6308.76,186.94
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-01,5193.1,5606.51,5417.67,32.53
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-01,2190.23,2902.15,2417.14,94.92
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-01,2058.76,2399.15,2126.45,311.76
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-01,2027.85,2534.07,2242.56,300.33
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-01,17795.78,18532.02,18154.64,273.25
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-01,6395.3,6892.13,6585.5,88.26
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-01,6198.77,6551.42,6274.51,273.43
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-01,5495.43,6247.79,5891.61,63.61
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-01,3152.16,3747.73,3340.03,135.2
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-01,2105.23,2559.05,2419.47,190.46
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-01,2084.19,2261.72,2150.05,133.24
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-02,18158.77,18691.54,18368.72,192.54
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-02,6260.18,6647.88,6524.75,346.95
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-02,2164.93,2521.03,2319.66,294.19
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-02,5947.22,6430.19,6245.28,290.12
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-02,4956.2,5732.98,5242.03,214.7
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-02,2024.19,2687.67,2328.05,33.66
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-02,1798.83,2589.61,2187.3,277.25
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-02,1894.09,2509.17,2196.58,80.42
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-02,18878.22,19573.66,19145.13,73.03
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-02,7028.11,7565.85,7089.16,60.72
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-02,5366.72,5644.65,5526.51,249.41
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-02,5753.29,6538.76,6074.53,308.67
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-02,3172.53,3356.47,3244.33,92.39
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-02,1830.74,2398.98,2112.52,126.97
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-02,1584.67,2157.96,1953.91,140.14
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-03,19557.63,20199.44,19859.95,250.33
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-03,6858.83,7137.05,6976.12,206.38
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-03,1671.91,2246.36,2062.43,118.93
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-03,5493.44,5982.86,5790.19,138.36
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-03,5592.05,6093.5,5920.44,64.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-03,2073.08,2747.04,2255.97,290.97
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-03,2095.68,2608.0,2427.3,118.48
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-03,2107.25,2527.55,2278.48,108.34
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-03,18274.68,18687.76,18395.4,328.23
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-03,7015.82,7440.92,7113.87,215.72
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-03,5555.0,6128.41,5839.44,232.33
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-03,5378.83,5946.3,5573.49,57.68
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-03,3206.5,3555.97,3258.31,326.96
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-03,1776.19,2598.73,2153.45,180.17
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-03,1582.3,2164.2,1969.67,234.92
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-04,20458.37,20848.04,20539.68,198.92
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-04,6779.16,7617.94,7156.99,81.9
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-04,2279.59,2854.96,2391.12,349.08
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-04,5832.41,6527.26,6055.79,337.69
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-04,5554.39,5965.42,5911.25,209.59
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-04,1520.33,2092.43,1914.38,346.46
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-04,1998.78,2694.0,2221.65,301.59
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-04,2013.33,2231.5,2130.81,77.81
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-04,18154.53,18428.36,18294.57,264.4
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-04,7016.51,7656.01,7265.23,82.04
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-04,6334.65,7120.76,6698.61,192.47
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-04,5337.19,5754.58,5621.43,70.7
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-04,2942.62,3246.79,3079.44,101.54
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-04,1942.97,2512.76,2326.88,259.94
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-04,1578.07,2218.61,1856.86,45.19
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-05,16433.74,16823.56,16591.12,188.32
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-05,7135.95,7622.13,7432.19,63.16
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-05,2254.81,2734.65,2408.07,96.22
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-05,5583.39,6073.48,5687.0,221.87
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-05,5056.78,5560.88,5299.01,199.69
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-05,2122.02,2409.82,2248.46,270.29
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-05,2307.92,2637.61,2386.57,253.72
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-05,1649.4,1974.65,1896.86,202.99
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-05,18276.99,18644.87,18527.44,131.64
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-05,6741.87,6974.98,6832.55,214.52
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-05,5398.69,6041.23,5627.32,172.37
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-05,6008.67,6294.53,6218.55,175.27
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-05,2969.62,3500.95,3272.77,290.35
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-05,2070.49,2393.28,2322.9,136.97
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-05,1490.32,2358.82,1888.26,47.43
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-06,20607.77,20902.87,20668.88,274.92
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-06,6832.9,7565.97,7225.32,161.62
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-06,2262.56,2887.76,2446.43,319.7
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-06,5736.94,6373.71,6025.9,200.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-06,5412.52,5714.55,5584.24,199.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-06,1862.56,2317.52,2167.31,26.13
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-06,1806.94,2314.44,1961.37,201.94
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-06,1830.98,2330.54,2169.16,137.5
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-06,17000.16,17754.51,17378.25,61.67
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-06,7098.44,7689.89,7295.17,312.22
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-06,5399.77,5617.3,5521.9,35.91
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-06,6040.75,6408.8,6336.9,265.68
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-06,2978.89,3258.68,3110.91,305.71
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-06,1751.86,2158.39,1978.22,290.13
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-06,2127.29,2607.97,2288.91,243.57
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-08,17447.71,17717.8,17603.33,239.57
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-08,6198.49,6431.1,6353.67,333.27
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-08,2020.81,2721.56,2389.86,163.84
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-08,5803.57,6667.58,6193.87,243.19
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-08,5581.41,5980.32,5742.97,73.5
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-08,1761.83,2338.96,2075.88,301.04
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-08,1802.72,2512.97,2100.37,322.29
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-08,1798.7,2488.21,2187.43,68.58
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-08,17093.12,17555.31,17214.29,324.72
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-08,7273.05,7731.47,7355.41,86.91
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-08,5590.06,6197.16,5875.85,308.93
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-08,5446.84,6139.37,5763.43,206.63
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-08,2787.44,3341.59,3141.76,336.03
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-08,1579.66,2440.6,1957.67,63.13
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-08,2232.12,2608.91,2449.74,221.43
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-09,16652.28,17321.01,17022.57,277.04
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-09,6372.28,6820.73,6609.06,110.01
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-09,1982.36,2300.78,2206.41,343.93
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-09,5813.38,6618.74,6157.29,145.48
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-09,5049.84,5446.29,5296.72,72.42
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-09,1629.29,2317.07,2006.46,160.71
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-09,1860.76,2247.14,2026.21,295.84
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-09,1870.47,2507.76,2149.58,108.63
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-09,19719.68,20446.72,20107.96,184.44
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-09,5940.93,6395.34,6269.17,259.1
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-09,5812.73,6477.6,6183.64,233.59
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-09,5520.38,6013.23,5582.22,332.19
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-09,2899.77,3452.87,3217.29,298.83
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-09,1768.21,2119.83,2065.72,189.36
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-09,1807.68,2423.96,2073.92,225.37
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-10,18195.27,18469.0,18416.02,204.28
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-10,5783.66,6192.59,6018.96,342.68
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-10,1623.96,2311.88,1958.57,287.0
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-10,6686.22,6867.02,6773.68,73.39
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-10,4796.06,5447.17,5030.32,111.88
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-10,1907.57,2320.85,2088.14,208.63
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-10,2316.07,2802.94,2445.12,300.56
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-10,1891.86,2634.05,2242.24,55.39
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-10,17652.87,17971.57,17896.32,28.07
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-10,6049.26,6519.47,6274.21,279.92
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-10,5941.91,6385.11,6292.2,196.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-10,5435.57,6000.22,5559.57,313.46
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-10,3073.9,3223.66,3140.2,325.82
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-10,2152.43,2464.47,2399.66,326.85
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-10,1652.18,2352.86,2038.69,269.48
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-11,19374.16,19648.18,19563.56,77.8
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-11,6042.63,6609.88,6384.76,316.37
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-11,1801.4,2228.84,2115.86,346.26
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-11,6288.55,7002.28,6513.83,42.45
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-11,4980.97,5527.78,5324.51,274.93
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-11,2234.07,2821.02,2422.92,34.63
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-11,1689.25,2357.43,2086.66,140.64
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-11,2213.54,2770.55,2414.69,239.72
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-11,16161.95,16837.59,16428.47,256.76
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-11,6027.28,6501.51,6131.26,231.02
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-11,6374.68,6633.47,6535.52,26.69
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-11,5755.6,6102.96,5931.57,68.06
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-11,2817.86,3324.59,3024.96,157.61
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-11,1789.26,2055.01,1963.13,219.36
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-11,1859.83,2225.99,2044.66,151.03
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-12,16058.1,16880.84,16423.5,342.91
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-12,6805.79,7136.47,6915.14,70.12
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-12,1877.98,2179.04,2100.57,166.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-12,5870.06,6174.15,6089.54,106.8
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-12,4827.15,5413.12,5095.91,88.55
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-12,1757.55,2391.15,1914.18,132.97
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-12,1928.67,2458.39,2260.1,133.79
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-12,1988.46,2827.69,2339.29,69.24
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-12,17221.78,17743.71,17603.33,127.11
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-12,7154.27,7724.47,7543.32,250.86
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-12,5935.85,6346.5,6187.41,147.22
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-12,6455.56,6744.34,6643.09,208.25
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-12,2945.92,3543.66,3186.89,203.78
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-12,2214.93,2795.27,2426.5,167.5
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-12,1732.31,2443.33,2024.8,283.59
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-13,17820.95,18380.71,18045.71,103.66
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-13,6753.53,7458.94,7053.86,49.04
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-13,2227.62,2675.71,2445.35,189.65
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-13,6496.45,7083.19,6788.55,281.98
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-13,4868.01,5523.05,5231.44,232.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-13,1581.86,2246.91,1900.99,140.38
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-13,2208.0,2766.12,2273.5,245.18
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-13,1776.33,2574.34,2089.77,164.9
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-13,15912.18,16332.54,16052.74,193.61
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-13,6677.5,7179.43,6928.83,152.12
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-13,6325.27,6856.49,6581.28,137.11
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-13,5447.8,5771.58,5534.39,337.56
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-13,2617.19,3110.18,2996.43,126.36
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-13,2055.27,2444.99,2177.67,179.75
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-13,1819.03,2306.41,2112.9,122.59
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-15,19960.65,20483.06,20050.93,235.59
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-15,6975.9,7576.18,7083.42,104.27
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-15,1931.18,2339.16,2037.23,336.5
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-15,5632.83,5957.6,5824.6,233.16
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-15,5258.34,5644.91,5318.56,89.13
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-15,2019.23,2572.45,2205.32,91.88
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-15,1993.1,2404.31,2326.16,58.07
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-15,2257.75,2569.88,2373.19,173.7
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-15,16959.85,17599.24,17311.77,232.71
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-15,6691.19,7269.3,6955.15,138.08
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-15,6417.64,7099.9,6683.72,254.45
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-15,5651.35,6004.56,5916.42,68.53
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-15,2840.26,3129.51,2997.14,250.37
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-15,2009.03,2317.45,2205.41,149.71
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-15,1689.02,2323.49,1961.45,234.71
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-16,20755.28,21269.84,20999.5,70.6
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-16,6295.48,6577.46,6503.33,141.69
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-16,1857.0,2371.64,1954.79,338.24
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-16,5984.37,6565.72,6207.61,160.08
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-16,5586.83,5895.07,5807.87,35.03
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-16,2154.4,2480.31,2306.63,199.72
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-16,1824.04,2418.23,2034.1,273.92
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-16,2090.22,2281.23,2179.84,276.91
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-16,19938.01,20536.58,20116.41,38.52
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-16,6909.15,7645.77,7150.37,58.29
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-16,6349.13,6846.07,6662.1,349.78
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-16,5957.63,6547.16,6129.63,167.7
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-16,3026.11,3504.21,3347.58,288.48
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-16,2071.24,2613.8,2243.96,230.65
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-16,1850.86,2092.57,1949.59,92.26
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-17,16124.0,16473.28,16296.79,200.1
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-17,6221.43,6698.05,6517.85,111.89
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-17,1984.09,2734.69,2379.01,55.95
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-17,6522.89,7311.33,6847.88,347.56
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-17,5746.05,6280.2,5840.46,106.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-17,1936.87,2669.5,2276.84,244.78
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-17,1942.63,2365.65,2194.73,159.62
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-17,1849.43,2567.26,2121.2,55.26
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-17,18430.69,19049.42,18578.07,144.95
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-17,7355.86,7571.52,7520.41,276.59
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-17,6219.98,6782.11,6525.81,240.85
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-17,5929.34,6292.0,6001.51,95.79
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-17,2997.71,3292.7,3121.86,294.21
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-17,1866.6,2423.64,2118.88,182.73
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-17,1767.35,2128.02,2056.24,57.36
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-18,19708.6,20025.36,19919.45,303.74
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-18,6655.82,7187.17,6706.06,90.75
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-18,2198.13,2636.8,2294.3,76.67
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-18,6659.91,7150.38,6805.82,106.38
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-18,4879.88,5370.7,5246.21,153.81
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-18,1738.51,2188.67,2033.31,238.03
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-18,2251.47,2566.41,2301.85,68.13
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-18,1697.72,2039.89,1985.71,251.07
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-18,19689.7,20325.59,20085.55,67.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-18,5929.26,6492.17,6113.33,58.29
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-18,5580.34,6050.4,5938.69,276.37
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-18,6457.82,7051.24,6554.42,71.43
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-18,3109.23,3504.71,3162.2,168.03
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-18,2041.39,2429.34,2311.22,158.81
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-18,1910.95,2350.95,2261.94,57.65
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-19,19505.88,19985.04,19762.23,338.06
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-19,6404.27,6677.85,6503.21,52.38
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-19,1966.7,2550.12,2226.7,278.17
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-19,6119.91,6812.95,6466.67,123.04
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-19,5192.97,5807.83,5421.3,121.05
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-19,1518.47,2362.34,1882.74,185.84
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-19,1781.52,2323.64,2006.37,196.69
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-19,2041.21,2906.89,2436.62,67.89
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-19,20055.14,20518.51,20304.07,246.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-19,6836.3,7617.03,7220.36,30.42
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-19,5452.79,5662.47,5594.55,44.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-19,6377.7,6937.87,6605.01,187.84
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-19,2820.54,3203.26,3116.17,199.38
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-19,2110.91,2447.48,2258.02,191.17
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-19,1639.1,2263.3,1971.92,151.99
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-20,18829.39,19527.95,19171.47,46.49
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-20,6812.39,7548.79,7117.88,43.82
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-20,1791.04,2247.13,1993.11,222.87
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-20,5623.42,6316.31,5933.01,63.82
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-20,5353.96,5773.2,5649.48,334.73
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-20,1839.75,2538.14,2163.8,79.26
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-20,1690.08,2184.41,2013.47,313.08
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-20,2252.59,2726.06,2312.86,113.39
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-20,16020.05,16628.85,16319.36,50.05
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-20,6552.28,7003.14,6728.32,209.24
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-20,5875.47,6111.07,6014.76,211.52
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-20,6381.95,6790.86,6511.89,39.31
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-20,3159.58,3557.46,3295.17,149.47
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-20,1649.13,2460.91,2025.04,204.68
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-20,2089.14,2637.09,2398.37,129.59
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-22,17779.18,18253.35,18081.28,50.31
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-22,6370.78,7052.36,6596.49,83.29
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-22,1958.68,2831.51,2352.17,47.4
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-22,6002.32,6581.31,6151.13,131.37
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-22,5410.92,5604.01,5463.71,208.24
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-22,1764.4,2291.12,2032.35,217.3
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-22,1876.27,2334.62,2196.68,317.64
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-22,2170.5,2359.16,2306.29,158.26
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-22,16993.74,17592.8,17164.99,310.09
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-22,7471.07,7867.37,7521.58,300.93
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-22,6431.72,6806.52,6518.1,102.4
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-22,6117.88,6687.47,6188.84,256.29
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-22,2614.76,3440.99,2987.21,193.92
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-22,2120.05,2788.97,2300.42,52.59
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-22,1810.62,2326.33,1907.35,49.32
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-23,18636.86,19323.0,18839.1,101.95
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-23,6257.34,6827.96,6417.59,252.74
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-23,2156.36,2490.06,2317.68,49.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-23,5460.82,6096.92,5783.8,75.51
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-23,4784.13,5230.18,4997.25,199.18
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-23,2306.11,2617.52,2428.78,111.13
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-23,1904.79,2368.68,2009.96,293.58
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-23,2204.01,2694.3,2268.13,131.53
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-23,16319.18,16666.14,16456.06,191.87
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-23,6942.43,7579.29,7083.49,35.1
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-23,5857.88,6452.79,6066.15,106.2
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-23,5815.5,6259.77,6146.86,28.89
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-23,2888.25,3390.97,3282.15,292.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-23,1865.52,2476.23,2136.12,214.26
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-23,1670.83,2065.1,2005.29,45.95
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-24,20307.28,20620.44,20512.48,319.15
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-24,7160.93,7396.18,7326.97,174.82
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-24,1783.13,2453.75,2033.99,153.37
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-24,5252.16,5669.04,5541.28,94.78
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-24,4876.63,5472.12,5024.58,36.26
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-24,2085.49,2404.31,2221.51,158.9
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-24,2154.0,2401.24,2225.34,69.6
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-24,1610.04,2256.29,1969.67,230.0
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-24,19682.64,20506.07,20010.84,279.12
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-24,6334.0,6842.69,6574.58,321.62
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-24,6017.42,6334.27,6203.35,128.64
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-24,5443.11,6206.97,5806.63,44.04
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-24,3111.31,3741.69,3346.61,349.87
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-24,2351.94,2782.58,2436.99,111.62
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-24,1968.73,2414.93,2339.77,348.83
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-25,16750.78,17505.89,17097.06,140.31
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-25,6996.93,7472.01,7342.76,217.57
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-25,2058.94,2814.4,2353.11,34.17
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-25,6099.14,6784.41,6480.79,208.01
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-25,4630.08,5472.61,5025.88,184.97
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-25,1813.78,2126.05,2035.43,100.6
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-25,1825.14,2109.71,2059.4,323.32
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-25,1875.21,2343.5,1970.88,323.6
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-25,20058.16,20281.28,20221.42,215.65
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-25,7146.53,7898.48,7467.56,304.72
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-25,6664.02,7318.65,6844.78,153.57
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-25,5485.83,5752.85,5641.45,76.19
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-25,3002.34,3811.78,3329.48,235.98
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-25,1648.04,2399.2,2037.1,326.87
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-25,2194.07,2637.23,2322.2,81.99
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-26,17243.15,17641.43,17534.12,261.87
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-26,7136.02,7744.28,7518.06,348.14
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-26,2371.26,2753.66,2432.59,324.34
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-26,6727.23,7159.04,6854.54,329.42
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-26,4657.9,5125.87,4968.77,344.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-26,1590.87,2040.66,1950.73,255.41
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-26,1909.22,2520.53,2269.55,111.19
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-26,1925.99,2165.22,1999.72,60.11
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-26,15821.33,16386.07,16006.41,339.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-26,7192.7,7635.7,7415.28,202.46
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-26,5424.18,6080.82,5642.0,236.57
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-26,6355.09,6545.19,6462.02,299.87
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-26,2906.41,3546.21,3067.96,49.12
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-26,1853.64,2414.44,2035.05,202.79
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-26,2306.28,2706.18,2388.87,224.43
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-27,18352.83,18887.78,18413.68,78.62
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-27,7318.62,7519.18,7423.61,91.8
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-27,1750.97,2419.91,2044.99,262.24
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-27,5722.84,6028.27,5871.37,41.13
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-27,5142.17,5605.24,5486.12,142.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-27,1953.47,2454.47,2106.56,220.07
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-27,1990.83,2176.71,2049.84,119.84
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-27,1553.84,2087.92,1899.16,154.18
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-27,18164.12,18536.49,18445.48,201.84
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-27,5935.89,6512.04,6295.81,169.88
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-27,5655.84,6020.42,5868.61,112.28
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-27,5273.02,5936.66,5586.3,52.85
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-27,2848.01,3574.34,3087.52,216.66
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-27,1882.52,2645.08,2226.8,161.06
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-27,1817.9,2434.98,2171.31,311.54
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-29,18303.68,18837.56,18381.31,257.15
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-29,6438.2,7213.56,6803.36,245.2
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-29,2168.04,2650.87,2260.14,81.19
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-29,6487.86,7291.93,6878.12,66.01
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-29,4912.15,5553.98,5308.05,349.11
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-29,1884.4,2392.39,2226.34,321.01
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-29,2333.64,2631.73,2407.09,154.14
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-29,1899.01,2301.85,2045.68,308.88
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-29,19664.68,20217.9,19932.75,161.37
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-29,6561.24,6977.68,6663.11,271.47
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-29,6441.79,7118.72,6815.51,57.82
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-29,5663.06,6105.27,5900.53,158.54
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-29,2883.27,3427.25,3103.22,37.18
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-29,1987.36,2411.6,2087.71,250.44
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-29,1511.92,2072.44,1873.27,102.21
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-30,19356.46,20182.41,19728.75,31.58
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-30,7151.75,7483.98,7307.82,184.78
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-30,2213.71,2739.1,2298.09,68.68
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-30,6658.82,7285.53,6863.91,112.56
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-30,5024.19,5434.7,5300.13,93.7
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-30,2035.05,2736.15,2344.38,306.84
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-30,2130.17,2482.05,2360.51,126.12
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-30,2056.6,2587.16,2154.08,310.78
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-30,16027.27,16569.56,16144.74,297.02
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-30,6189.42,6862.29,6399.18,254.01
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-30,5545.34,6160.88,5883.57,231.51
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-30,5612.72,5891.03,5673.42,218.06
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-30,2666.36,3335.13,3021.03,138.67
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-30,1668.69,2418.79,2031.76,248.88
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-30,1835.74,2144.35,2021.04,210.98
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-01-31,20474.6,21165.91,20824.59,245.25
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-01-31,6237.2,6489.55,6430.53,278.6
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-01-31,2280.68,2793.97,2333.79,235.4
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-01-31,6288.64,6505.18,6341.6,286.65
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-01-31,4778.09,5505.78,5166.55,162.74
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-01-31,1903.84,2239.29,2075.89,176.68
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-01-31,1950.09,2517.32,2288.6,58.25
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-01-31,1875.09,2586.39,2156.91,146.62
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-01-31,18973.54,19421.02,19236.71,60.13
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-01-31,5706.21,6440.41,6102.14,304.98
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-01-31,5566.73,6317.18,5865.61,122.11
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-01-31,5391.98,6164.76,5709.9,286.76
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-01-31,3010.94,3618.19,3270.95,246.25
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-01-31,2031.25,2809.5,2310.64,109.31
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-01-31,1915.24,2167.03,2101.14,255.12
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-01,18743.74,19237.16,18860.21,97.27
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-01,6530.71,7313.36,6855.42,243.36
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-01,1857.76,2631.95,2203.66,309.86
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-01,5669.43,5861.16,5753.59,109.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-01,5452.99,5902.39,5770.01,245.91
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-01,1970.13,2261.26,2051.38,266.87
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-01,1777.71,2302.63,2103.54,109.68
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-01,1678.51,2288.17,2026.43,306.58
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-01,18537.36,18999.92,18917.87,314.06
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-01,6447.14,7022.51,6800.76,121.97
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-01,5226.71,5687.5,5575.69,90.1
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-01,5823.58,6530.85,6072.87,173.71
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-01,2776.07,3477.07,3076.55,183.46
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-01,2153.63,2601.04,2265.52,26.53
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-01,1697.7,2139.99,2014.12,273.46
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-02,18130.64,18537.51,18447.89,224.71
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-02,6822.39,7497.98,7013.58,149.58
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-02,1849.07,2186.76,1968.86,29.58
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-02,5609.47,6086.86,5951.1,244.94
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-02,5414.93,5914.11,5552.02,136.91
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-02,1743.12,2242.26,1927.36,79.28
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-02,2207.55,2542.79,2361.92,261.55
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-02,2039.58,2657.41,2207.82,348.53
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-02,17348.18,17925.32,17713.66,86.24
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-02,7145.56,7748.46,7516.93,99.24
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-02,6422.12,6898.37,6518.04,216.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-02,5558.27,6079.32,5736.58,37.14
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-02,3161.09,3591.25,3300.62,40.79
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-02,2165.65,2791.45,2447.34,31.42
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-02,2067.98,2484.96,2263.85,202.87
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-03,18268.39,18734.82,18371.98,229.85
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-03,6200.21,6829.91,6481.79,112.74
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-03,2154.81,2676.61,2252.82,59.1
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-03,6415.06,6607.58,6506.27,59.54
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-03,4918.47,5206.73,5038.38,195.02
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-03,1674.8,2153.91,1971.0,37.81
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-03,2075.49,2668.09,2198.18,132.45
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-03,1566.57,2309.74,1851.64,296.45
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-03,19242.91,19435.65,19345.11,191.3
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-03,7072.25,7322.85,7157.7,100.13
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-03,6730.52,7143.05,6884.13,57.44
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-03,5680.77,5925.34,5744.58,285.52
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-03,2766.59,3167.83,3075.08,271.42
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-03,1624.74,2321.45,1972.94,80.42
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-03,1861.32,2394.33,2064.52,310.5
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-05,16129.52,16597.05,16464.76,155.25
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-05,7394.56,7763.27,7539.7,301.47
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-05,2072.85,2758.56,2349.95,61.74
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-05,6404.11,6948.75,6474.64,76.8
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-05,5042.47,5710.25,5299.23,245.48
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-05,1775.85,2170.13,1958.76,34.37
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-05,1948.74,2780.28,2292.23,67.46
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-05,2312.71,2637.32,2402.24,39.94
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-05,17148.08,17675.12,17308.06,245.33
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-05,6976.22,7532.31,7228.05,342.82
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-05,6269.37,6723.18,6437.78,252.69
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-05,5351.74,5795.2,5633.34,137.37
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-05,3035.81,3648.08,3220.52,206.46
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-05,2374.8,2783.43,2443.9,76.0
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-05,2011.16,2800.55,2359.31,49.33
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-06,18323.93,18944.81,18458.24,41.36
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-06,6081.17,6587.8,6356.33,101.37
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-06,1849.11,2431.19,2179.55,303.39
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-06,6034.35,6399.72,6125.9,237.35
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-06,4728.85,5223.88,4923.17,25.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-06,1643.07,2233.12,1904.54,123.99
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-06,2081.77,2556.33,2204.17,333.87
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-06,1999.01,2218.32,2068.01,172.7
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-06,18533.83,19063.66,18800.75,238.58
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-06,7055.55,7537.15,7145.46,97.07
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-06,5637.44,6461.9,5977.9,119.89
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-06,5935.05,6301.38,6230.78,78.35
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-06,2705.28,3380.88,3006.18,59.76
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-06,2139.79,2724.03,2255.43,152.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-06,1800.73,2496.78,2124.23,60.02
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-07,17698.03,18499.21,18072.35,216.36
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-07,7027.75,7581.74,7235.43,335.76
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-07,1792.73,2305.98,2017.32,40.79
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-07,6465.84,7076.75,6809.43,190.21
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-07,5793.37,6215.74,5905.39,262.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-07,1741.44,2247.28,1927.03,311.88
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-07,2017.43,2692.84,2202.06,322.67
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-07,2161.66,2791.04,2307.42,340.41
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-07,18167.55,18499.97,18264.23,252.5
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-07,7042.86,7563.15,7197.48,304.73
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-07,6119.19,6831.28,6496.62,90.29
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-07,6222.13,6579.21,6373.83,243.52
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-07,3065.0,3823.78,3342.53,188.77
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-07,2134.33,2399.09,2297.16,139.48
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-07,1888.5,2488.44,2138.22,160.68
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-08,19394.85,19918.01,19739.34,300.37
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-08,7060.33,7354.66,7293.29,72.23
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-08,2165.16,2672.71,2285.13,77.3
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-08,5763.56,6328.98,5901.26,249.44
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-08,4840.41,5218.71,5154.17,289.56
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-08,1557.68,2294.26,1911.49,306.07
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-08,2074.77,2478.13,2321.21,279.9
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-08,2178.62,2678.31,2329.29,326.11
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-08,17552.92,18426.89,17937.77,126.61
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-08,6828.86,7046.5,6883.4,226.68
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-08,6238.75,7016.78,6593.29,321.23
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-08,6209.81,6876.28,6486.48,202.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-08,2869.7,3675.28,3191.35,120.61
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-08,1749.78,2172.85,2038.71,81.48
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-08,1976.29,2401.14,2158.31,205.89
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-09,16395.93,16815.09,16650.33,132.43
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-09,7031.32,7254.67,7135.5,129.85
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-09,1599.1,2302.45,1975.43,240.11
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-09,5936.33,6397.91,6186.77,279.81
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-09,5054.44,5314.17,5181.43,47.16
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-09,1957.5,2444.75,2153.08,54.88
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-09,1935.93,2259.95,2060.6,142.26
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-09,1667.64,2269.79,1981.07,348.91
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-09,19725.04,20172.4,20118.44,242.41
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-09,6346.5,7039.24,6713.07,226.87
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-09,6553.57,7036.88,6842.46,322.68
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-09,6637.92,7116.09,6822.98,116.92
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-09,2976.79,3533.26,3314.53,285.92
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-09,2107.43,2627.01,2172.78,87.57
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-09,1776.47,2283.67,2158.34,335.79
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-10,18637.3,18769.33,18689.87,242.86
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-10,6885.0,7478.62,7237.73,58.78
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-10,1922.92,2708.18,2218.88,276.94
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-10,6026.28,6791.29,6405.19,74.97
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-10,5184.97,5440.45,5351.07,42.64
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-10,2081.2,2635.26,2326.53,98.98
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-10,1893.51,2412.92,2079.32,165.73
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-10,1574.48,2150.81,1860.13,233.46
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-10,18777.16,19405.27,19091.75,252.79
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-10,5741.32,6213.9,6116.14,280.74
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-10,5841.61,6316.26,5921.89,167.24
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-10,5771.91,6316.45,6053.16,198.38
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-10,2817.7,3413.42,3004.55,202.36
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-10,2329.64,2784.85,2430.07,322.1
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-10,2021.75,2544.92,2327.01,333.58
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-12,18523.35,18873.08,18767.62,26.63
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-12,6716.65,7430.79,6954.65,124.02
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-12,1957.91,2528.88,2324.15,159.11
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-12,6174.91,6526.73,6404.3,96.76
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-12,5683.69,5933.31,5801.7,284.89
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-12,2013.36,2830.92,2361.35,348.15
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-12,1938.25,2361.42,2180.63,46.89
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-12,1604.96,2178.16,1908.92,132.53
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-12,16361.66,16736.1,16641.08,226.34
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-12,7278.96,7692.98,7440.19,225.31
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-12,5673.49,6232.45,5927.95,143.46
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-12,5742.96,5995.04,5942.87,105.01
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-12,2729.67,3284.87,3038.61,298.04
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-12,1710.61,2462.2,2017.15,175.43
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-12,1908.32,2363.49,2065.24,82.13
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-13,18688.51,19469.56,19033.14,70.5
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-13,6719.66,7310.64,6861.79,49.85
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-13,1931.18,2265.93,1987.7,35.14
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-13,6122.85,6630.17,6314.65,319.55
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-13,5221.7,5961.34,5461.91,178.43
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-13,2137.08,2465.61,2315.12,275.95
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-13,2164.76,2575.73,2316.61,190.88
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-13,1862.31,2436.28,2088.07,300.59
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-13,19767.79,20157.33,20032.7,192.09
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-13,6601.25,7190.87,6713.95,239.31
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-13,6547.26,7122.41,6854.83,141.61
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-13,5585.68,5884.64,5806.35,145.07
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-13,2844.75,3425.6,2967.12,142.41
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-13,1975.71,2255.74,2184.84,343.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-13,1748.13,2329.06,2044.44,294.64
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-14,20032.2,20469.32,20174.36,81.5
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-14,6868.03,7389.88,7045.88,296.53
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-14,2026.61,2666.59,2208.33,192.82
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-14,5640.36,6263.15,5994.06,181.69
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-14,5299.41,5637.59,5525.05,78.82
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-14,1621.03,2041.43,1896.25,85.74
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-14,1830.05,2234.36,2131.11,99.86
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-14,2034.61,2603.38,2336.7,180.61
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-14,16947.08,17478.53,17053.52,32.29
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-14,5818.31,6191.54,6069.03,229.6
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-14,5304.58,5630.03,5554.87,108.93
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-14,5366.67,6071.76,5752.05,208.17
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-14,2655.61,3305.24,2957.45,117.12
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-14,1785.65,2489.62,1992.87,306.87
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-14,1611.71,2272.72,1952.34,283.25
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-15,19988.61,20449.11,20102.27,110.97
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-15,6988.77,7412.76,7158.7,216.94
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-15,1880.0,2163.77,2064.91,90.76
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-15,6476.9,6942.34,6703.43,73.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-15,4699.01,5242.2,4915.56,37.69
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-15,2094.15,2423.2,2320.32,181.73
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-15,1753.94,2437.54,2015.16,316.51
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-15,2037.69,2599.84,2314.92,145.37
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-15,15981.75,16370.46,16217.19,285.75
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-15,7079.86,7578.36,7263.29,265.95
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-15,6272.3,6660.12,6566.15,68.51
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-15,6036.62,6604.57,6168.0,117.06
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-15,3107.68,3435.77,3300.71,255.47
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-15,2092.41,2447.73,2344.71,27.34
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-15,1952.01,2434.89,2242.73,142.74
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-16,16495.84,16938.02,16773.89,302.87
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-16,6499.72,6851.7,6677.7,246.2
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-16,2132.86,2730.19,2327.49,181.8
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-16,5774.08,6182.5,6018.3,124.66
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-16,4916.31,5594.33,5213.23,302.87
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-16,1933.84,2496.54,2245.57,252.28
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-16,1905.84,2261.15,2030.9,134.99
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-16,1886.38,2548.41,2180.35,77.24
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-16,20771.0,20913.84,20822.85,72.23
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-16,7279.0,7560.22,7481.38,97.08
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-16,5548.85,5835.01,5612.06,344.95
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-16,6127.2,6729.77,6359.55,219.18
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-16,2991.21,3666.42,3328.29,167.67
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-16,1770.94,2462.61,2050.85,117.95
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-16,1610.34,2152.29,1870.17,100.29
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-17,16784.79,17005.08,16847.41,25.09
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-17,5853.02,6652.76,6251.91,139.77
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-17,1892.44,2430.55,2147.57,264.5
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-17,5514.5,5774.08,5596.06,294.67
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-17,5726.18,6381.49,5898.01,114.87
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-17,2095.74,2682.19,2213.82,211.84
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-17,1888.05,2178.46,2080.55,48.53
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-17,1645.09,2437.87,2026.55,335.93
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-17,20045.97,20689.27,20380.57,250.61
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-17,7298.58,7942.18,7545.69,271.18
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-17,6635.13,7103.05,6845.73,215.72
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-17,5447.6,5618.69,5538.29,230.94
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-17,3060.76,3501.15,3347.68,127.61
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-17,2196.94,2482.1,2427.72,295.46
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-17,1916.4,2352.11,1998.95,291.85
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-19,16004.15,16644.59,16380.14,139.9
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-19,7286.73,7907.11,7430.91,247.01
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-19,2180.31,2544.81,2404.96,264.01
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-19,6599.47,6863.08,6721.84,106.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-19,5437.72,5640.33,5542.32,324.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-19,1973.29,2581.71,2255.49,273.38
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-19,2155.95,2487.77,2220.74,226.72
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-19,1750.52,2599.05,2145.4,307.35
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-19,18059.49,18916.23,18454.03,116.09
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-19,6103.52,6429.72,6355.35,284.76
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-19,5930.38,6445.76,6169.65,152.96
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-19,6349.69,6950.3,6460.87,251.93
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-19,2842.81,3189.35,3134.03,93.49
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-19,2076.6,2566.25,2240.5,109.4
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-19,2046.14,2441.25,2179.14,224.25
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-20,17605.05,17974.36,17829.62,252.73
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-20,6246.69,6771.53,6595.7,83.46
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-20,1764.01,2168.43,2015.57,57.46
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-20,5745.4,6122.43,5877.93,148.79
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-20,4589.31,5092.31,4975.01,286.84
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-20,1731.1,2453.96,1955.96,301.05
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-20,1906.3,2611.9,2208.5,122.51
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-20,1938.54,2416.56,2187.28,249.43
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-20,15965.34,16564.62,16300.18,229.71
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-20,6552.64,6932.2,6719.77,207.11
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-20,6664.38,6863.51,6804.58,64.4
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-20,6327.23,6853.85,6714.32,212.17
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-20,3098.56,3610.79,3209.65,140.41
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-20,2065.98,2668.04,2286.6,314.13
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-20,1928.36,2412.91,2078.64,72.08
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-21,16505.18,17039.7,16837.88,230.16
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-21,6567.5,6996.72,6914.62,77.65
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-21,1903.2,2245.22,2064.11,111.93
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-21,6257.56,6652.7,6402.5,305.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-21,4980.38,5720.29,5235.8,159.55
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-21,1902.24,2337.83,1960.33,240.16
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-21,2124.98,2506.25,2420.22,79.25
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-21,1839.48,2357.22,1911.81,203.24
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-21,15942.87,16526.07,16131.82,52.06
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-21,6315.57,6764.59,6419.92,312.78
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-21,5796.53,6111.0,5933.12,228.61
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-21,5340.31,5746.65,5683.79,240.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-21,3130.33,3558.42,3294.15,341.87
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-21,2074.94,2470.47,2220.29,340.1
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-21,2156.61,2587.48,2268.57,230.09
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-22,18931.87,19464.82,19179.26,232.85
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-22,6323.95,6788.31,6495.46,286.53
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-22,1992.91,2337.84,2170.93,123.66
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-22,5164.75,5931.71,5500.13,136.76
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-22,5310.13,5827.98,5363.04,332.76
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-22,2083.04,2379.94,2136.24,120.2
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-22,2013.08,2283.75,2065.61,158.81
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-22,1998.17,2309.8,2186.33,264.56
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-22,17766.19,18116.96,17948.62,162.23
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-22,6065.71,6842.78,6383.3,287.46
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-22,6308.86,6842.82,6458.5,287.86
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-22,5729.35,6210.15,6078.07,119.12
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-22,2938.55,3377.22,3204.76,227.39
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-22,1987.1,2116.22,2043.89,198.87
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-22,1875.76,2132.7,1961.56,257.44
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-23,19504.06,19753.35,19635.54,185.41
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-23,6388.01,6956.82,6547.06,349.34
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-23,1854.84,2380.45,2181.84,299.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-23,6762.69,7231.34,6832.3,48.2
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-23,5246.91,5792.87,5364.18,290.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-23,2254.26,2742.62,2346.95,105.91
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-23,2130.57,2717.54,2335.61,35.89
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-23,1806.65,2411.01,2126.5,344.19
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-23,18075.63,18554.58,18364.13,130.0
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-23,6941.89,7478.5,7006.66,194.3
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-23,5581.16,5994.07,5854.64,313.44
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-23,6582.89,6809.94,6709.12,230.7
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-23,2971.23,3254.06,3079.81,63.89
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-23,2291.44,2413.47,2344.57,279.63
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-23,1876.49,2352.29,2135.16,54.08
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-24,16706.5,17116.88,16788.49,327.53
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-24,7326.36,7672.06,7595.16,234.49
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-24,1973.65,2407.28,2300.66,100.62
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-24,6548.35,7264.86,6874.35,286.8
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-24,5208.92,5686.62,5326.46,141.4
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-24,1566.31,2199.23,1930.84,167.19
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-24,1803.4,2232.76,2097.36,85.65
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-24,1752.26,2232.5,2058.6,295.19
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-24,20328.29,20653.36,20572.37,75.38
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-24,6330.91,6688.28,6473.08,25.23
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-24,6210.57,6526.73,6393.24,31.08
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-24,6377.95,6857.01,6699.56,259.33
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-24,2974.69,3437.69,3213.32,195.32
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-24,1955.76,2524.64,2198.77,129.85
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-24,2145.88,2519.98,2234.54,46.67
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-26,20080.55,20619.04,20175.97,90.68
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-26,6692.03,7083.55,6776.59,296.8
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-26,2044.92,2644.55,2278.96,108.18
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-26,5750.82,6094.79,6012.9,327.32
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-26,4828.5,5500.89,5050.49,50.99
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-26,2259.36,2631.72,2330.61,329.93
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-26,1978.81,2526.78,2157.98,292.68
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-26,1945.26,2091.16,2009.49,123.77
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-26,20336.81,20816.72,20723.02,260.68
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-26,6734.35,7137.45,6850.66,105.85
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-26,6262.85,6762.6,6375.46,159.93
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-26,5374.2,5858.8,5647.72,174.08
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-26,2857.11,3341.16,3216.1,83.63
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-26,1982.65,2271.96,2150.78,349.49
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-26,1942.5,2307.63,2115.81,347.23
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-27,17443.17,18017.15,17623.27,164.94
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-27,6898.45,7464.81,7161.39,94.53
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-27,1958.7,2497.19,2332.85,337.54
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-27,5937.52,6503.34,6126.5,344.46
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-27,5283.76,6011.96,5514.92,123.1
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-27,1902.54,2465.27,2030.2,32.05
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-27,2069.57,2535.15,2360.97,204.94
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-27,1809.72,2303.41,2183.79,37.26
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-27,17679.84,17993.47,17778.28,214.2
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-27,6038.91,6464.15,6372.79,154.93
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-27,6478.04,7160.64,6785.03,282.69
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-27,5403.06,6102.38,5742.06,212.28
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-27,3054.73,3498.24,3313.06,262.51
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-27,2160.67,2313.31,2238.14,275.54
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-27,1722.76,2296.19,2058.76,307.05
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-28,20219.58,20692.68,20348.93,220.75
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-28,5696.2,6240.42,6018.3,124.05
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-28,1731.61,2087.9,1970.59,188.28
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-28,5741.44,6188.33,5809.12,152.69
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-28,5076.44,5611.87,5334.74,97.18
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-28,1835.86,2133.36,2023.87,51.83
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-28,2168.46,2465.36,2235.72,52.65
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-28,1830.25,2259.76,2151.09,68.83
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-28,18575.73,19139.99,18796.48,88.73
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-28,6678.11,7146.4,6985.59,48.28
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-28,6424.29,7053.34,6587.48,54.12
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-28,6242.21,6647.19,6440.45,129.24
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-28,3129.08,3374.72,3187.55,345.99
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-28,1861.55,2507.1,2258.11,72.39
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-28,1540.57,2016.79,1876.93,146.49
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-02-29,19440.2,19889.24,19788.67,42.72
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-02-29,7143.95,7959.25,7518.31,291.54
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-02-29,1664.04,2056.95,1956.87,171.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-02-29,5408.7,5823.95,5531.85,91.24
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-02-29,5287.39,5695.28,5427.92,262.23
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-02-29,1640.25,1993.08,1934.81,214.48
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-02-29,2216.54,2408.4,2281.76,117.3
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-02-29,2057.22,2397.4,2323.51,237.8
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-02-29,15855.64,16213.76,16041.67,301.93
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-02-29,6703.66,7114.75,7056.16,306.91
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-02-29,6278.27,6630.5,6409.18,342.4
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-02-29,5479.04,6079.5,5639.45,197.76
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-02-29,2799.34,3280.66,3024.57,326.06
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-02-29,1824.15,2248.98,1960.74,133.41
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-02-29,1981.09,2292.09,2086.04,139.37
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-01,18993.48,19616.36,19126.15,187.91
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-01,7030.0,7744.43,7299.03,314.38
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-01,2297.12,2657.15,2357.43,116.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-01,5348.38,6058.01,5712.39,53.53
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-01,4872.44,5584.25,5258.65,228.3
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-01,1852.33,2105.2,1986.46,340.42
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-01,2239.62,2698.88,2404.87,92.2
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-01,1693.68,2343.2,1933.15,305.34
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-01,17248.19,17830.7,17544.99,68.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-01,7201.58,7708.42,7593.1,328.23
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-01,6622.84,7084.76,6783.96,333.3
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-01,5504.58,6111.58,5665.74,261.3
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-01,2898.12,3492.49,3256.17,158.66
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-01,1794.68,2623.86,2171.5,328.31
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-01,1691.59,2112.33,2014.28,85.04
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-02,19548.05,19982.33,19812.24,209.29
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-02,6238.2,6728.78,6369.46,141.76
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-02,2077.26,2570.12,2294.07,221.53
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-02,6315.94,6930.29,6496.83,184.72
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-02,4847.38,5029.52,4965.02,273.48
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-02,1714.56,2094.88,1859.01,266.27
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-02,2128.9,2523.88,2444.12,326.31
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-02,2087.88,2711.85,2441.38,130.59
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-02,18151.35,18519.91,18287.72,38.59
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-02,6993.4,7367.33,7176.53,223.74
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-02,6281.62,6825.8,6539.45,309.63
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-02,6369.46,6854.91,6601.69,293.78
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-02,2568.43,3250.39,2966.97,153.57
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-02,2072.39,2599.85,2317.59,229.96
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-02,1727.67,2108.7,1879.58,123.98
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-04,19926.64,20378.22,20138.11,224.27
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-04,5856.33,6201.28,6087.27,294.72
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-04,1872.92,2276.78,2175.85,278.09
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-04,6519.34,6923.87,6812.98,159.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-04,5228.45,5656.7,5341.06,256.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-04,1762.02,2133.7,1971.16,249.81
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-04,2074.81,2776.85,2403.58,65.15
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-04,1711.21,2131.82,1918.5,195.24
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-04,17593.57,18200.69,17920.44,333.67
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-04,6422.68,7001.61,6605.89,321.48
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-04,6010.85,6409.23,6291.69,307.37
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-04,5451.19,5989.22,5750.41,125.59
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-04,3051.26,3589.35,3257.45,63.21
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-04,1894.79,2345.94,2015.79,107.26
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-04,1775.8,2419.77,2125.19,26.87
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-05,20280.25,20728.5,20413.51,179.61
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-05,6578.45,6976.29,6656.24,104.53
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-05,1956.75,2524.57,2223.67,293.21
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-05,5466.6,5912.46,5568.49,36.93
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-05,5541.15,6251.71,5824.6,121.99
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-05,2335.07,2639.86,2402.23,82.93
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-05,2022.17,2647.23,2286.05,218.36
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-05,2210.28,2577.28,2322.38,213.16
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-05,20574.81,20842.08,20657.4,144.79
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-05,6532.62,6848.6,6606.3,203.9
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-05,5812.88,6272.55,5909.97,114.19
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-05,6004.24,6600.99,6237.87,223.92
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-05,2688.32,3326.76,2993.72,345.84
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-05,1900.8,2662.08,2191.83,345.54
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-05,1759.21,2214.73,2022.31,195.75
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-06,20801.27,21083.49,20975.12,207.86
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-06,6560.38,7103.16,6831.53,83.47
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-06,1956.69,2745.37,2254.7,25.51
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-06,5264.67,5636.65,5533.58,300.62
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-06,5359.83,5995.8,5759.48,133.48
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-06,1913.12,2241.33,2186.25,90.39
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-06,1764.24,2279.31,2090.81,189.67
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-06,1992.2,2402.98,2044.35,135.94
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-06,19356.38,19685.08,19621.98,82.08
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-06,6360.54,6881.43,6528.82,322.75
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-06,6340.18,6882.83,6616.16,228.84
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-06,6510.94,6949.68,6748.88,279.8
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-06,2805.68,3541.38,3115.58,122.29
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-06,2152.05,2603.63,2312.48,92.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-06,1931.46,2710.91,2261.3,139.92
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-07,20699.91,20912.1,20848.07,344.68
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-07,6657.58,7309.36,7002.42,151.61
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-07,1894.99,2635.79,2247.6,254.21
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-07,5879.23,6176.54,5940.3,186.54
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-07,4877.0,5563.0,5085.17,95.25
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-07,1942.11,2434.61,2031.39,277.78
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-07,2201.36,2467.9,2406.68,181.87
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-07,2033.46,2615.67,2150.03,263.04
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-07,18296.7,18732.62,18618.14,308.33
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-07,6937.11,7669.94,7315.42,68.13
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-07,6303.62,6885.55,6514.4,194.76
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-07,5129.43,5864.92,5505.75,218.14
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-07,2771.42,3055.59,2984.83,194.19
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-07,2120.12,2589.39,2279.49,126.45
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-07,2222.97,2521.93,2385.28,114.91
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-08,17391.36,17698.69,17595.75,73.53
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-08,6382.48,6768.15,6437.82,192.07
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-08,1880.68,2246.61,2053.29,71.01
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-08,6336.96,6646.27,6486.1,48.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-08,5367.36,5785.56,5535.92,67.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-08,1846.02,2230.11,2132.44,42.48
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-08,2050.59,2481.48,2163.23,217.65
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-08,2056.92,2679.04,2351.7,126.54
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-08,19787.7,20439.1,20087.21,198.38
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-08,7243.38,7817.45,7557.89,67.83
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-08,6266.1,6898.71,6637.99,173.06
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-08,6159.69,6717.7,6458.27,100.3
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-08,2688.14,3367.14,3039.52,321.68
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-08,1851.17,2495.37,2146.04,281.35
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-08,2170.79,2443.06,2379.44,179.48
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-09,17545.77,17884.06,17757.2,274.58
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-09,6872.51,7063.42,6967.1,290.7
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-09,2184.33,2690.63,2348.38,282.54
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-09,6055.55,6481.89,6245.84,226.78
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-09,5066.68,5680.26,5457.54,135.73
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-09,2081.51,2741.29,2338.35,166.49
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-09,2103.08,2499.93,2343.66,240.35
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-09,1520.94,2205.12,1896.74,183.15
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-09,18748.8,19260.61,18960.82,292.16
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-09,5897.32,6363.2,6281.88,60.34
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-09,6319.72,6860.2,6639.69,185.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-09,6342.54,6841.9,6424.23,313.36
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-09,3038.65,3361.38,3311.3,72.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-09,1788.67,2250.1,2024.61,212.83
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-09,1678.87,2159.87,1967.4,210.34
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-11,20409.43,21040.52,20566.02,166.29
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-11,7401.64,7662.31,7572.13,27.64
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-11,2251.74,2550.61,2443.21,120.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-11,5774.8,6090.82,6016.91,253.59
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-11,5609.16,6222.46,5784.9,306.35
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-11,1695.36,2218.56,1991.14,128.39
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-11,1957.84,2436.69,2141.39,240.31
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-11,2019.04,2357.99,2134.92,325.46
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-11,20095.82,20698.67,20199.81,242.77
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-11,6139.73,6271.91,6214.84,259.44
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-11,5978.52,6676.98,6181.38,52.52
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-11,6203.59,6654.35,6399.14,281.4
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-11,2992.77,3322.68,3191.77,190.56
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-11,2018.51,2435.92,2226.03,85.38
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-11,1960.46,2643.8,2212.74,101.94
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-12,18314.85,18804.41,18508.64,144.27
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-12,7316.32,7932.37,7565.17,61.78
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-12,1899.1,2304.71,2190.77,262.67
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-12,6482.73,7277.5,6877.01,176.1
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-12,4532.41,4983.68,4893.88,178.55
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-12,1908.87,2380.15,2295.01,230.95
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-12,2189.68,2422.8,2349.05,136.65
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-12,2103.02,2597.82,2317.12,177.5
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-12,19471.71,20151.33,19669.07,284.42
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-12,6400.37,6928.02,6462.73,268.56
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-12,6270.46,6595.4,6517.76,178.78
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-12,5668.64,6232.37,5736.71,287.89
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-12,3049.34,3286.86,3199.73,189.32
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-12,2228.47,2485.36,2375.72,116.32
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-12,2309.75,2464.92,2364.72,81.75
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-13,18855.95,19209.84,18958.85,287.55
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-13,6122.73,6686.21,6418.0,284.8
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-13,2211.01,2468.99,2381.01,72.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-13,6703.57,7080.7,6807.52,347.92
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-13,5591.16,5972.52,5724.44,232.21
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-13,1669.48,2181.79,1976.51,233.73
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-13,2237.14,2453.16,2327.74,154.59
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-13,1719.67,2419.41,2030.82,198.07
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-13,17602.04,18162.57,17899.0,72.17
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-13,7338.29,7859.69,7392.44,170.87
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-13,6063.27,6807.18,6449.89,38.33
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-13,6511.7,7265.08,6784.8,165.33
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-13,2966.8,3517.96,3317.22,111.8
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-13,1720.12,2225.16,1999.14,276.27
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-13,1992.44,2614.38,2299.45,88.35
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-14,17395.43,17817.99,17687.03,202.97
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-14,6735.39,7131.86,7076.48,56.75
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-14,1795.87,2150.69,2001.95,117.07
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-14,5712.01,5861.68,5770.31,330.01
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-14,5245.52,6065.65,5587.93,232.38
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-14,2182.86,2710.25,2274.85,67.22
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-14,1913.24,2582.93,2278.2,339.33
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-14,2094.12,2551.6,2387.6,176.76
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-14,20407.34,21146.12,20680.91,114.82
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-14,6316.98,7079.62,6683.17,130.11
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-14,5650.85,6126.45,5726.75,149.41
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-14,5894.7,6445.74,5965.72,111.02
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-14,2904.13,3594.09,3126.23,223.35
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-14,1817.0,2153.96,2039.22,274.83
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-14,1705.86,2441.7,1981.03,257.51
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-15,16440.92,16823.55,16516.44,106.44
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-15,6349.63,6830.39,6713.41,233.11
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-15,2133.84,2586.35,2416.45,252.52
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-15,6515.34,7048.38,6766.46,330.47
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-15,5186.2,5818.64,5388.82,278.8
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-15,2082.18,2372.72,2321.23,335.1
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-15,2140.27,2664.25,2358.99,328.89
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-15,1776.71,2295.63,2065.35,230.49
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-15,20712.39,21084.7,20794.12,337.3
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-15,5917.86,6523.66,6128.73,235.53
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-15,5683.5,5970.14,5747.27,87.08
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-15,6110.48,6808.02,6474.24,141.76
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-15,2712.46,3364.84,2983.94,70.48
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-15,1744.64,2363.38,2046.55,184.0
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-15,1648.61,2076.28,1887.8,198.53
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-16,19963.99,20669.38,20171.25,37.04
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-16,5763.97,6158.96,6089.69,63.41
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-16,2069.99,2609.82,2353.55,245.38
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-16,6621.83,7034.67,6723.96,325.57
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-16,4744.69,5188.47,4844.25,178.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-16,2334.78,2766.39,2400.81,67.42
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-16,1968.63,2224.42,2036.12,282.95
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-16,2013.97,2439.68,2123.71,290.79
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-16,16307.66,16941.29,16531.66,96.69
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-16,7087.96,7702.31,7287.13,344.21
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-16,6286.28,6938.89,6449.76,212.19
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-16,5349.51,6099.16,5692.26,273.37
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-16,3019.8,3291.57,3187.23,70.9
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-16,1863.88,2456.61,2157.58,167.56
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-16,2341.17,2500.4,2405.41,300.39
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-18,18740.03,19119.24,19062.21,183.26
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-18,5897.37,6100.27,6010.16,236.82
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-18,2197.78,2806.8,2393.46,276.08
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-18,6347.14,6807.22,6469.3,195.0
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-18,4916.11,5619.18,5294.44,37.23
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-18,1733.04,2435.63,1958.0,228.84
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-18,2169.54,2393.35,2341.29,101.58
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-18,1684.93,2013.56,1920.5,142.62
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-18,19566.74,19954.31,19805.64,275.36
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-18,6908.17,7192.09,7054.92,283.9
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-18,6070.34,6722.83,6459.34,82.31
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-18,6373.11,6778.39,6438.2,117.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-18,2956.87,3536.19,3123.87,271.48
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-18,1662.51,2437.85,1971.66,82.16
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-18,2101.53,2423.53,2321.3,315.9
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-19,19349.57,19803.71,19607.02,89.59
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-19,6918.97,7483.5,7082.96,130.99
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-19,1690.82,2440.48,1999.03,147.05
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-19,5594.08,6076.91,5808.93,314.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-19,4599.17,5228.68,4973.93,150.88
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-19,1629.9,2266.25,1931.84,342.06
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-19,1956.59,2412.6,2051.11,44.39
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-19,1583.82,2188.26,1931.9,80.64
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-19,17357.64,18039.52,17717.88,281.6
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-19,6756.77,7147.27,7020.8,340.29
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-19,6616.74,7132.65,6697.01,183.99
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-19,6636.88,7320.58,6893.93,115.73
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-19,2934.35,3403.0,3242.01,131.37
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-19,1877.59,2556.03,2239.73,73.42
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-19,2142.44,2685.3,2194.22,38.02
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-20,18034.25,18418.39,18353.26,197.61
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-20,6437.52,7186.41,6766.83,172.04
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-20,1824.79,2125.85,2070.26,262.83
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-20,6733.46,7013.02,6829.91,235.48
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-20,4690.96,5096.06,4908.88,253.57
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-20,2053.2,2425.74,2364.75,172.82
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-20,1979.95,2568.33,2335.92,281.7
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-20,1859.75,2407.28,2072.25,304.62
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-20,15990.79,16553.3,16353.49,35.63
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-20,6537.01,7157.18,6681.44,201.29
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-20,6286.58,6698.7,6612.27,311.28
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-20,6460.89,7005.47,6530.07,244.26
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-20,3216.35,3519.71,3305.19,226.22
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-20,2021.45,2434.25,2132.79,46.78
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-20,2153.95,2767.16,2275.6,102.56
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-21,16350.32,17040.41,16567.79,213.54
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-21,7411.14,7919.83,7534.57,98.27
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-21,1982.78,2482.46,2126.36,115.07
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-21,5417.89,5857.52,5588.72,196.17
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-21,4648.81,5302.49,4947.25,198.18
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-21,1758.03,2435.32,2025.36,332.24
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-21,1975.09,2433.93,2354.4,314.87
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-21,2046.66,2578.8,2124.72,118.72
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-21,20694.85,20957.3,20783.13,251.55
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-21,6437.88,7078.44,6794.13,228.86
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-21,5521.09,6204.09,5910.44,67.91
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-21,5780.03,6325.49,5985.38,119.74
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-21,2620.05,3129.73,2975.18,332.92
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-21,2078.25,2476.6,2272.34,234.97
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-21,1788.1,2409.37,2045.78,298.62
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-22,18069.85,18335.66,18226.28,281.54
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-22,6133.78,6542.69,6274.78,340.49
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-22,2268.31,2543.77,2334.87,173.18
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-22,5359.46,6103.23,5732.91,117.71
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-22,5624.08,6329.64,5967.85,241.57
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-22,1808.82,2010.61,1942.09,127.9
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-22,1872.1,2146.26,2013.24,207.81
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-22,1709.88,2075.54,1870.81,146.2
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-22,18592.42,18885.03,18699.33,324.14
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-22,6422.5,6762.72,6647.3,173.86
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-22,5896.81,6330.63,5948.31,342.07
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-22,5666.88,6227.05,5963.79,119.19
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-22,2934.36,3635.78,3327.6,72.8
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-22,1865.21,2481.57,2232.62,248.97
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-22,1923.92,2401.72,2288.98,204.06
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-23,17349.84,17968.8,17540.41,169.94
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-23,6078.71,6486.56,6147.97,214.62
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-23,1683.59,2236.14,2061.07,32.33
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-23,6047.87,6605.98,6253.78,53.4
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-23,5296.09,5607.14,5414.15,221.65
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-23,2048.08,2628.52,2416.04,73.08
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-23,2197.53,2594.67,2376.9,117.51
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-23,1668.68,2504.25,2060.81,53.47
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-23,19433.79,20135.94,19639.27,286.2
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-23,6129.82,6948.47,6461.81,162.75
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-23,6656.15,7069.23,6755.0,52.98
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-23,5574.79,6231.29,5790.9,345.66
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-23,2590.42,3366.7,2976.45,53.75
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-23,1784.69,2391.26,2154.73,205.64
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-23,1961.81,2387.77,2276.15,85.45
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-25,17665.0,17977.85,17908.85,293.53
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-25,7178.97,7637.02,7335.34,175.62
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-25,1912.56,2131.62,1963.42,335.71
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-25,6452.55,7012.16,6667.94,315.12
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-25,5078.43,5660.12,5300.59,104.54
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-25,1774.58,2419.06,1921.61,46.69
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-25,2069.41,2627.29,2322.78,307.21
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-25,2010.19,2589.21,2226.8,63.86
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-25,18311.29,18993.01,18562.63,77.93
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-25,5931.73,6538.86,6093.62,69.04
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-25,5583.2,5967.41,5728.63,321.43
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-25,5846.93,6286.71,5998.38,329.3
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-25,2837.3,3288.01,3155.55,55.72
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-25,2086.01,2768.91,2326.31,293.72
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-25,2105.6,2619.43,2260.98,248.71
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-26,16226.15,16899.66,16479.17,29.19
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-26,6648.52,7097.27,6829.07,135.6
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-26,2319.54,2524.94,2405.39,96.86
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-26,5399.81,6089.82,5763.78,295.21
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-26,5194.55,5728.78,5430.78,270.8
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-26,1707.21,2002.76,1918.38,291.12
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-26,2193.87,2601.91,2411.7,142.83
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-26,1978.82,2659.16,2340.22,273.17
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-26,17411.77,17773.17,17710.23,289.74
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-26,6005.88,6469.83,6355.77,98.64
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-26,5579.9,5760.85,5675.48,249.52
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-26,6520.43,6996.25,6597.64,271.13
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-26,2879.27,3373.88,2967.01,191.88
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-26,1888.01,2143.49,1979.63,46.53
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-26,1936.46,2652.62,2250.55,324.03
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-27,16661.6,17160.16,17027.01,139.25
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-27,5799.2,6619.08,6145.25,333.36
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-27,2017.72,2399.21,2123.92,261.78
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-27,5588.97,5933.15,5838.55,212.89
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-27,4690.83,4952.98,4816.78,116.6
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-27,2153.01,2879.11,2391.0,57.07
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-27,1830.54,2425.5,2057.01,144.1
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-27,1999.75,2684.62,2203.63,83.78
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-27,17591.24,17920.53,17774.11,98.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-27,5785.94,6286.18,6180.55,60.85
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-27,5373.48,6057.41,5690.28,206.07
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-27,5392.01,5658.93,5556.85,117.17
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-27,3030.96,3679.44,3190.16,169.29
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-27,2075.25,2661.87,2226.96,86.36
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-27,1547.4,2155.82,1891.77,245.72
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-28,16496.94,17167.73,16896.49,59.18
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-28,6420.4,6789.14,6700.89,71.59
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-28,1893.61,2246.08,2150.31,325.72
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-28,6796.34,7357.83,6868.99,135.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-28,5117.22,5619.19,5513.95,297.39
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-28,2137.64,2656.19,2285.12,214.12
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-28,1760.17,2426.21,2086.49,155.08
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-28,1874.39,2367.5,2135.5,182.47
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-28,17075.65,17493.07,17394.45,106.47
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-28,6525.71,6906.21,6795.64,57.37
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-28,5500.11,5929.14,5573.99,340.92
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-28,5747.97,6154.42,6035.69,227.14
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-28,2911.75,3376.75,2988.53,274.46
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-28,2225.69,2694.31,2346.37,184.33
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-28,1836.73,2443.85,2007.0,202.65
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-29,20701.84,21006.58,20762.9,322.36
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-29,6453.71,6833.16,6613.81,174.39
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-29,1721.6,2403.59,1966.43,123.49
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-29,6266.46,6599.0,6488.48,257.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-29,5296.67,5738.71,5384.95,239.53
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-29,2010.95,2525.38,2261.22,302.66
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-29,2016.36,2475.95,2203.34,340.53
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-29,2046.69,2710.16,2220.16,129.16
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-29,16074.94,16567.35,16140.73,138.38
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-29,7127.88,7638.39,7187.29,135.91
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-29,5465.49,5847.1,5636.29,139.16
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-29,6289.08,6767.38,6425.74,217.57
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-29,3241.23,3501.37,3314.16,134.72
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-29,1795.72,2217.27,1959.86,305.59
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-29,1825.34,2360.81,2190.83,251.19
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-03-30,18544.93,19159.93,18939.95,151.85
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-03-30,6583.15,7011.09,6916.06,244.41
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-03-30,1892.01,2512.19,2117.98,135.35
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-03-30,6183.59,6606.96,6360.76,186.51
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-03-30,5491.3,6244.97,5816.8,199.15
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-03-30,1955.77,2520.71,2022.41,155.66
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-03-30,1752.93,2154.32,2062.94,299.36
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-03-30,1738.95,1987.11,1906.84,285.39
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-03-30,18252.93,18784.38,18376.34,236.75
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-03-30,6151.52,6727.77,6482.96,200.48
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-03-30,5589.3,6111.34,5780.11,172.3
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-03-30,6455.61,6627.19,6568.82,253.58
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-03-30,3043.18,3440.91,3295.08,337.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-03-30,2107.55,2792.82,2321.1,198.13
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-03-30,1899.46,2463.83,2218.65,208.99
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-01,18901.0,19347.71,19133.79,73.02
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-01,5950.9,6425.88,6240.76,166.5
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-01,1768.75,2188.32,2109.33,91.16
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-01,5739.11,6418.13,6077.41,108.35
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-01,5329.43,5622.58,5521.48,87.37
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-01,1657.82,2256.22,1997.35,206.94
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-01,1891.65,2234.72,2168.07,76.79
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-01,1791.42,2343.45,1931.86,239.07
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-01,16531.55,17363.63,16879.93,182.9
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-01,5681.0,6119.62,6031.85,220.52
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-01,6348.84,6947.19,6714.04,143.12
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-01,6338.79,6894.82,6420.4,260.38
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-01,2917.04,3386.74,3006.22,328.2
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-01,1870.84,2688.33,2210.98,327.76
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-01,1641.48,2158.21,2001.08,64.74
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-02,19868.19,20346.39,20033.44,151.73
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-02,7064.82,7437.69,7197.4,71.89
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-02,1648.11,2285.34,2037.58,107.65
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-02,6103.64,6543.89,6325.27,333.33
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-02,4981.47,5537.02,5179.79,338.08
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-02,1999.72,2591.01,2377.66,257.59
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-02,2303.3,2845.74,2360.68,221.89
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-02,2073.1,2828.26,2354.88,249.47
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-02,19810.12,20242.74,19944.01,125.51
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-02,7356.57,7949.08,7533.57,64.67
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-02,6363.55,6938.54,6713.73,320.68
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-02,5657.87,6215.16,6050.17,54.33
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-02,3146.67,3423.75,3279.08,314.33
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-02,2136.98,2853.71,2407.95,274.19
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-02,2031.91,2533.67,2093.77,292.54
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-03,20487.6,20938.31,20702.48,298.38
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-03,6790.95,7566.93,7147.82,292.93
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-03,2072.02,2507.58,2299.24,220.69
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-03,6330.58,6892.77,6638.8,33.89
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-03,4587.96,5196.09,4862.52,282.08
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-03,1741.43,2264.39,1931.66,126.96
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-03,1885.88,2273.48,1991.12,340.14
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-03,2031.26,2779.5,2348.37,247.87
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-03,19801.42,20228.47,19963.21,263.93
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-03,6126.48,6839.14,6417.09,284.85
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-03,5583.06,5909.98,5778.13,309.83
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-03,6463.14,6973.68,6822.66,333.14
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-03,3042.75,3651.22,3319.24,319.72
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-03,2317.67,2802.63,2437.06,79.85
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-03,1890.5,2257.69,2090.62,53.94
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-04,17458.06,17942.41,17839.6,258.54
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-04,6324.25,6950.42,6696.25,243.92
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-04,1709.51,2145.0,2009.26,305.13
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-04,6444.18,6867.35,6594.97,67.31
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-04,5567.58,6325.45,5827.61,116.96
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-04,2059.89,2490.15,2256.31,72.43
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-04,1953.47,2423.06,2095.1,319.88
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-04,1782.29,2327.95,2071.78,28.35
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-04,16502.88,17027.88,16666.02,248.23
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-04,6843.38,7522.59,7141.34,108.27
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-04,5562.83,5833.18,5633.39,101.32
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-04,6372.66,7244.21,6771.52,339.34
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-04,2877.41,3259.77,3189.29,107.44
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-04,2103.95,2487.44,2259.83,145.54
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-04,2184.98,2742.05,2430.83,109.59
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-05,18143.12,18963.78,18518.73,67.87
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-05,6272.06,6621.52,6507.71,62.97
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-05,1877.32,2414.34,1972.08,296.31
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-05,6172.77,6724.27,6546.95,310.0
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-05,5218.97,5704.21,5535.52,126.73
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-05,2225.16,2883.15,2385.6,273.19
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-05,1677.07,2371.47,2025.63,284.42
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-05,1779.91,2035.37,1881.93,36.66
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-05,17004.03,17547.51,17301.12,348.44
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-05,7419.25,7693.96,7483.53,255.43
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-05,5956.73,6609.91,6179.28,306.74
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-05,5590.37,6113.8,5673.12,83.71
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-05,2789.26,3190.08,3017.32,314.54
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-05,1988.6,2730.07,2242.84,195.96
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-05,1996.72,2277.05,2192.47,274.68
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-06,19023.96,19446.22,19384.54,246.43
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-06,6901.06,7404.67,7089.02,334.15
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-06,2264.67,2454.97,2368.49,294.98
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-06,6214.44,6903.2,6423.36,218.12
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-06,4417.55,5152.25,4806.97,334.04
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-06,1738.91,2425.39,2044.95,336.16
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-06,2110.6,2306.49,2234.58,234.18
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-06,1974.46,2125.73,2043.9,334.37
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-06,17717.35,18037.05,17906.95,338.64
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-06,7303.6,7818.38,7384.82,77.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-06,6441.56,6979.94,6591.29,237.57
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-06,5447.04,5913.4,5668.84,287.06
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-06,2784.3,3183.12,3074.04,241.29
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-06,2136.6,2636.36,2366.03,312.76
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-06,1888.79,2376.24,2135.86,270.86
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-08,19790.12,20300.32,20054.97,163.46
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-08,5895.09,6323.29,6064.7,97.87
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-08,2188.85,2566.02,2293.12,229.61
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-08,6082.8,6481.36,6234.55,319.84
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-08,5271.12,5480.64,5373.13,318.44
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-08,2121.84,2537.89,2354.92,40.51
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-08,1922.49,2086.7,1988.27,163.1
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-08,1625.39,2212.51,1906.69,107.35
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-08,17195.68,17550.85,17274.3,62.03
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-08,6945.69,7190.52,7058.53,152.71
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-08,5259.75,5800.55,5616.61,215.84
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-08,5852.41,6467.71,6137.0,111.15
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-08,2981.72,3470.93,3336.69,85.15
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-08,2062.09,2765.74,2323.51,59.56
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-08,2118.58,2273.14,2170.63,80.81
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-09,18093.47,18826.55,18385.6,338.89
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-09,6742.67,7291.34,6963.02,341.52
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-09,1844.53,2490.99,2130.36,153.37
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-09,5829.94,5979.96,5923.72,61.37
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-09,4429.38,5255.62,4819.06,93.0
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-09,1961.76,2485.27,2239.17,228.47
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-09,2228.19,2530.42,2345.01,175.61
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-09,2076.75,2259.14,2134.39,74.54
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-09,19125.64,19775.16,19512.99,304.43
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-09,6815.89,7242.6,6936.36,296.0
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-09,5518.53,5904.97,5571.29,256.76
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-09,6524.26,7252.97,6871.28,218.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-09,3019.95,3441.09,3171.72,182.98
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-09,1981.5,2600.92,2245.52,290.42
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-09,1842.74,2430.48,2142.74,162.15
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-10,17507.02,18031.04,17579.25,160.57
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-10,6534.16,7229.87,6757.34,137.7
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-10,2241.48,2478.36,2298.76,87.47
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-10,5850.15,6130.26,5981.39,320.45
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-10,4946.24,5636.09,5206.98,238.51
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-10,1776.01,2298.82,1928.7,336.94
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-10,2080.95,2747.1,2366.54,283.69
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-10,1984.26,2659.68,2329.85,116.8
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-10,19462.8,19854.36,19746.27,89.83
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-10,6883.88,7206.39,6969.2,347.97
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-10,5801.81,5996.28,5925.11,30.89
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-10,6558.3,6854.64,6733.27,294.08
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-10,3246.59,3386.43,3307.78,164.95
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-10,2166.54,2409.62,2258.78,108.79
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-10,1879.86,2125.19,2054.19,310.26
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-11,17234.55,17698.02,17337.46,192.5
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-11,6773.94,7538.16,7071.18,167.29
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-11,1834.01,2278.49,2178.57,59.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-11,6031.05,6831.12,6354.8,292.67
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-11,4763.47,5183.83,4850.36,308.03
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-11,2291.63,2578.05,2396.59,168.49
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-11,1896.56,2297.63,2202.95,235.31
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-11,1952.54,2482.63,2050.76,167.71
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-11,17759.59,18239.14,18078.75,287.97
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-11,6319.35,6634.47,6546.11,146.04
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-11,6380.55,6906.03,6556.78,74.27
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-11,6357.31,6707.59,6554.91,285.57
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-11,2922.1,3371.8,3115.36,302.03
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-11,2170.68,2410.69,2347.3,72.31
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-11,1523.78,2330.61,1855.97,52.55
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-12,17180.34,17697.97,17574.02,44.98
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-12,6933.65,7553.37,7214.71,318.32
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-12,1707.84,2349.92,1978.9,239.62
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-12,6074.19,6458.59,6227.69,246.28
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-12,5307.82,5848.54,5464.33,320.5
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-12,1706.82,2142.25,1854.74,324.15
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-12,2093.98,2442.46,2300.15,201.94
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-12,2044.79,2686.86,2323.0,313.49
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-12,19716.24,20046.6,19907.82,123.0
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-12,5892.08,6435.44,6059.15,265.52
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-12,5279.24,5854.18,5676.41,55.17
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-12,6040.03,6663.17,6272.5,77.01
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-12,2632.35,3277.79,2961.16,103.44
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-12,2032.8,2831.21,2337.08,60.89
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-12,1705.43,2218.12,1885.97,140.2
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-13,15960.82,16344.8,16238.66,121.84
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-13,6970.37,7671.3,7178.97,286.75
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-13,2196.54,2896.95,2444.5,229.02
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-13,5988.16,6454.25,6246.6,117.47
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-13,5441.55,6094.35,5741.75,257.16
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-13,2025.13,2359.33,2161.8,214.27
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-13,2184.98,2455.51,2361.42,256.28
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-13,2268.38,2425.05,2347.06,313.77
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-13,18175.11,18597.45,18381.27,196.03
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-13,6709.55,7168.83,6941.18,110.7
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-13,6000.16,6446.4,6198.36,327.59
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-13,5794.71,6606.08,6185.36,71.91
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-13,2701.95,3109.07,3000.85,253.97
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-13,2290.32,2527.33,2381.64,178.84
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-13,1917.48,2514.1,2297.9,334.34
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-15,18814.98,19112.39,19008.0,210.82
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-15,5960.79,6281.61,6064.45,347.08
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-15,1881.56,2507.67,2101.63,71.2
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-15,6258.44,6777.88,6325.47,313.94
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-15,4722.01,5328.66,5058.7,64.76
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-15,1704.54,2297.1,2059.19,211.24
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-15,1867.78,2634.49,2232.88,179.45
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-15,2020.02,2674.9,2282.02,189.05
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-15,18097.2,18556.76,18304.68,306.56
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-15,6190.42,6869.38,6520.35,158.13
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-15,5637.56,6119.4,5825.95,336.38
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-15,6438.49,7086.72,6746.06,306.43
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-15,2982.68,3641.15,3232.88,254.9
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-15,2137.2,2532.23,2230.52,87.54
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-15,1969.32,2295.01,2221.22,210.33
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-16,16730.44,17400.57,16946.98,64.09
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-16,7384.98,7556.43,7497.89,280.7
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-16,1775.67,2522.09,2072.64,169.37
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-16,6367.29,6860.5,6629.69,39.62
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-16,5776.23,6081.03,5834.37,159.85
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-16,2204.71,2531.52,2365.79,62.26
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-16,1890.82,2114.49,1999.67,108.06
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-16,1746.4,2137.05,1903.78,79.99
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-16,18908.53,19134.61,19072.38,44.01
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-16,6461.89,6859.67,6623.9,130.37
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-16,5686.01,6130.15,6025.72,90.83
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-16,6297.88,6824.83,6552.99,269.53
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-16,3013.74,3181.3,3104.02,176.07
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-16,1934.08,2386.91,2153.54,100.97
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-16,2237.48,2865.25,2381.69,244.41
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-17,16987.43,17634.93,17231.58,124.0
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-17,6571.42,6986.9,6650.79,91.12
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-17,2253.3,2927.35,2433.96,279.16
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-17,6054.24,6712.72,6252.55,171.82
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-17,4588.57,5224.42,4801.2,119.01
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-17,2383.06,2903.33,2433.25,181.71
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-17,1905.11,2470.0,2248.93,139.21
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-17,1974.51,2508.97,2229.32,39.78
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-17,19448.83,19881.2,19695.91,153.47
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-17,6097.88,6497.18,6196.76,115.82
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-17,5841.09,6585.59,6104.75,128.45
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-17,6285.02,6622.55,6454.94,269.63
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-17,2995.02,3623.45,3131.09,136.03
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-17,1920.07,2237.04,2179.9,249.85
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-17,2187.15,2502.31,2237.87,317.97
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-18,19168.92,19816.4,19363.53,253.57
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-18,6981.59,7624.23,7219.94,235.96
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-18,1927.93,2413.2,1988.76,243.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-18,6267.59,6856.89,6441.14,293.93
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-18,5117.54,5625.14,5229.56,251.53
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-18,1643.12,2326.37,1855.06,169.49
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-18,2003.84,2237.27,2060.76,324.45
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-18,1983.2,2390.74,2064.69,123.53
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-18,19457.06,19861.26,19589.05,142.97
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-18,6082.63,6817.35,6449.21,92.95
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-18,5437.13,6002.76,5774.52,307.72
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-18,6073.84,6595.04,6296.74,239.45
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-18,2887.45,3480.59,3176.28,46.24
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-18,1941.35,2180.95,2014.12,210.22
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-18,1753.7,2388.79,1986.78,87.35
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-19,18992.71,19751.73,19389.89,198.21
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-19,6158.63,6658.94,6404.67,329.81
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-19,1890.4,2343.82,2270.48,330.1
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-19,5707.28,6278.89,6105.57,246.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-19,5183.38,5751.46,5359.9,312.24
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-19,1837.45,2223.76,1984.73,170.88
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-19,1834.47,2039.39,1952.58,210.84
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-19,1557.11,2355.36,1865.22,162.74
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-19,16234.71,16496.22,16372.2,126.01
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-19,6917.74,7267.57,7001.59,287.62
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-19,6060.34,6529.98,6329.54,106.38
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-19,5517.55,5854.34,5650.98,42.69
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-19,2755.5,3558.04,3083.44,277.12
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-19,1942.35,2591.19,2259.78,213.15
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-19,1830.08,1966.32,1901.32,126.82
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-20,20165.7,20345.85,20238.46,323.71
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-20,6551.56,7038.85,6707.07,46.38
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-20,2043.04,2471.49,2288.78,148.97
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-20,5320.97,5789.06,5634.16,219.86
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-20,5537.96,5814.43,5591.67,283.43
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-20,2111.23,2580.79,2377.96,329.72
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-20,2132.53,2539.15,2341.46,87.56
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-20,1653.3,1992.01,1911.61,281.56
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-20,16717.45,17304.88,16968.07,108.29
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-20,6369.99,6923.69,6673.61,104.02
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-20,6544.67,6806.09,6615.84,166.65
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-20,6529.61,7033.67,6843.64,312.7
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-20,3158.61,3449.1,3260.2,136.44
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-20,2081.58,2448.31,2134.41,245.45
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-20,1656.9,2310.22,1884.39,304.08
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-22,17991.92,18250.48,18110.31,320.26
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-22,7086.88,7606.96,7256.42,250.8
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-22,2181.04,2639.98,2440.96,212.98
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-22,6582.65,7086.7,6848.29,77.74
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-22,5018.94,5414.15,5345.16,96.31
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-22,1724.16,2005.84,1852.22,227.77
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-22,1762.4,2548.17,2069.51,132.74
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-22,2172.19,2426.96,2294.05,346.71
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-22,17738.28,17877.6,17814.09,62.44
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-22,6346.88,6778.48,6464.92,273.8
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-22,5501.08,5700.49,5561.47,81.6
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-22,6437.95,6942.46,6739.54,205.21
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-22,2963.9,3450.72,3021.42,320.96
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-22,1673.39,2181.02,1960.5,280.91
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-22,1538.94,2103.86,1916.58,103.05
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-23,19766.12,20520.96,20047.44,342.56
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-23,7237.73,8041.58,7596.31,46.25
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-23,1648.77,2429.92,2022.22,87.3
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-23,5848.48,6349.27,6029.47,342.52
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-23,5027.29,5420.67,5093.46,86.46
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-23,1844.92,2368.74,2171.28,42.31
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-23,1992.31,2780.99,2347.81,339.72
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-23,2258.27,2468.13,2381.5,177.97
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-23,19244.8,19596.39,19317.51,269.18
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-23,6803.9,7306.47,7032.11,175.89
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-23,5769.69,6313.08,5950.55,257.59
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-23,6048.79,6423.14,6192.71,324.39
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-23,3120.78,3332.38,3183.59,90.98
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-23,2193.02,2569.28,2381.58,313.83
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-23,1815.4,2411.17,2192.82,203.93
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-24,16592.24,16921.68,16671.65,139.26
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-24,6721.5,7263.85,6934.34,163.48
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-24,1990.65,2595.81,2183.78,128.03
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-24,5922.47,6190.53,6035.32,234.74
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-24,5152.06,5660.08,5230.91,191.66
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-24,1911.13,2703.16,2236.19,56.98
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-24,1922.27,2125.81,1985.67,88.91
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-24,1891.59,2464.54,2047.54,247.15
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-24,17075.35,17871.42,17372.32,349.48
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-24,6894.87,7664.38,7203.81,27.77
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-24,5581.45,6321.67,5919.26,156.24
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-24,5815.08,6412.95,6068.06,178.4
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-24,2838.65,3272.24,3155.06,154.19
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-24,1751.26,2326.96,2063.46,192.64
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-24,2006.41,2696.71,2321.58,174.96
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-25,19799.99,20094.1,19959.57,275.29
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-25,6993.36,7369.2,7116.71,206.5
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-25,1885.22,2245.11,2137.35,331.59
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-25,5179.91,5938.98,5513.55,135.44
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-25,5012.96,5534.5,5302.98,278.06
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-25,2008.43,2233.02,2172.56,280.24
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-25,2307.28,2889.76,2411.07,132.33
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-25,1966.85,2551.43,2227.9,306.76
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-25,20779.39,21126.65,20900.86,198.71
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-25,6213.32,6607.62,6301.34,171.75
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-25,6670.01,6849.58,6752.64,204.69
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-25,5253.72,5814.76,5544.88,85.67
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-25,2590.75,3155.52,2977.8,100.74
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-25,2205.29,2355.63,2279.78,193.52
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-25,1602.2,2187.99,1953.1,76.04
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-26,16315.96,16818.93,16553.72,47.35
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-26,7175.16,7636.62,7528.15,91.85
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-26,1867.71,2429.75,2166.1,221.21
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-26,6559.2,7090.93,6814.82,247.57
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-26,5077.92,5244.74,5130.53,45.79
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-26,1756.89,2376.18,2089.54,320.85
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-26,2178.55,2698.88,2389.62,264.62
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-26,1664.4,2278.09,2022.75,252.6
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-26,19404.13,19884.1,19558.24,288.25
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-26,6143.0,6735.18,6280.2,263.3
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-26,5772.17,6273.51,6140.96,209.8
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-26,5669.98,6208.83,6050.97,307.93
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-26,2789.68,3240.86,3059.51,322.8
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-26,1996.18,2446.78,2299.02,185.38
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-26,2201.94,2943.32,2445.43,49.87
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-27,16207.83,16722.83,16526.12,171.55
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-27,6177.31,6662.41,6404.43,48.79
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-27,1984.83,2518.76,2297.24,267.44
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-27,6509.24,6752.91,6698.08,62.27
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-27,5736.07,6287.46,5900.56,182.55
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-27,1648.99,2049.97,1890.94,333.76
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-27,1682.98,2448.83,2020.13,80.44
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-27,1775.66,2043.21,1860.84,198.76
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-27,17877.1,18347.87,17954.25,245.15
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-27,6070.26,6393.09,6245.59,36.19
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-27,6319.4,6808.59,6445.06,296.86
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-27,6361.77,7008.5,6636.12,316.53
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-27,2948.34,3179.84,3106.25,26.52
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-27,2017.71,2804.17,2336.2,146.76
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-27,1911.13,2232.88,1993.12,346.52
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-29,17568.33,18036.61,17685.58,96.68
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-29,7082.74,7835.36,7411.66,79.56
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-29,1838.03,2131.98,2033.52,131.32
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-29,6170.54,6430.08,6286.88,201.05
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-29,5834.43,6072.91,5926.71,140.89
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-29,1763.42,2146.48,1954.17,151.49
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-29,2106.28,2596.18,2179.39,236.23
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-29,1997.82,2219.74,2071.39,123.0
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-29,18600.26,19090.17,18994.35,199.26
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-29,7237.19,7712.01,7584.85,336.69
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-29,5946.31,6703.15,6339.81,245.32
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-29,6568.51,7060.73,6861.31,231.49
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-29,3142.3,3736.79,3303.59,181.69
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-29,1854.56,2430.82,2117.55,149.27
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-29,2103.01,2548.72,2234.36,346.22
+Andhra Pradesh,Guntur,Guntur APMC,Chillies,Standard/FAQ,2024-04-30,16897.31,17616.58,17163.03,125.38
+Andhra Pradesh,Guntur,Guntur APMC,Cotton,Standard/FAQ,2024-04-30,6865.62,7509.55,7180.66,44.47
+Andhra Pradesh,Guntur,Guntur APMC,Paddy,Standard/FAQ,2024-04-30,1983.44,2255.51,2137.26,91.43
+Andhra Pradesh,Kurnool,Kurnool APMC,Groundnut,Standard/FAQ,2024-04-30,5179.88,5872.2,5553.07,332.41
+Andhra Pradesh,Kurnool,Kurnool APMC,Bengal Gram,Standard/FAQ,2024-04-30,5522.07,5862.27,5687.11,234.17
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,Standard/FAQ,2024-04-30,2073.99,2796.21,2306.3,235.62
+Andhra Pradesh,Krishna,Vijayawada Market,Paddy,Standard/FAQ,2024-04-30,2035.94,2525.35,2094.23,132.66
+Andhra Pradesh,Krishna,Vijayawada Market,Maize,Standard/FAQ,2024-04-30,1756.59,2453.33,1995.35,241.13
+Andhra Pradesh,Krishna,Vijayawada Market,Chillies,Standard/FAQ,2024-04-30,16951.12,17615.47,17241.69,222.62
+Andhra Pradesh,Kurnool,Adoni Mandi,Cotton,Standard/FAQ,2024-04-30,6447.81,6859.44,6610.38,26.96
+Andhra Pradesh,Kurnool,Adoni Mandi,Groundnut,Standard/FAQ,2024-04-30,6643.32,6854.42,6717.81,231.17
+Andhra Pradesh,Chittoor,Tirupati Mandi,Groundnut,Standard/FAQ,2024-04-30,5576.66,5789.43,5698.14,217.6
+Andhra Pradesh,Chittoor,Tirupati Mandi,Sugarcane,Standard/FAQ,2024-04-30,2906.36,3438.83,3282.49,50.4
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Paddy,Standard/FAQ,2024-04-30,2153.48,2687.24,2312.49,104.6
+Andhra Pradesh,East Godavari,Rajahmundry Yard,Maize,Standard/FAQ,2024-04-30,1818.72,2134.27,1955.86,170.69

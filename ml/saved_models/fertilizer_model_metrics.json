@@ -1,0 +1,148 @@
+{
+  "model_type": "RandomForestClassifier Pipeline",
+  "test_accuracy": 0.98,
+  "macro_f1": 0.9558,
+  "weighted_f1": 0.9795,
+  "test_samples": 300,
+  "classes": [
+    "Agricultural Gypsum + Urea + DAP + MOP",
+    "Agricultural Lime + DAP + MOP",
+    "DAP + MOP (Legume Base)",
+    "NPK Complex 20-20-0-13 + MOP",
+    "Urea + DAP + MOP",
+    "Urea + DAP + MOP + Zinc Sulphate",
+    "Urea + SSP + MOP"
+  ],
+  "classification_report": {
+    "Agricultural Gypsum + Urea + DAP + MOP": {
+      "precision": 1.0,
+      "recall": 0.7272727272727273,
+      "f1-score": 0.8421052631578947,
+      "support": 11.0
+    },
+    "Agricultural Lime + DAP + MOP": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 86.0
+    },
+    "DAP + MOP (Legume Base)": {
+      "precision": 0.9642857142857143,
+      "recall": 1.0,
+      "f1-score": 0.9818181818181818,
+      "support": 54.0
+    },
+    "NPK Complex 20-20-0-13 + MOP": {
+      "precision": 1.0,
+      "recall": 0.9545454545454546,
+      "f1-score": 0.9767441860465116,
+      "support": 44.0
+    },
+    "Urea + DAP + MOP": {
+      "precision": 1.0,
+      "recall": 0.9655172413793104,
+      "f1-score": 0.9824561403508771,
+      "support": 29.0
+    },
+    "Urea + DAP + MOP + Zinc Sulphate": {
+      "precision": 0.9696969696969697,
+      "recall": 1.0,
+      "f1-score": 0.9846153846153847,
+      "support": 64.0
+    },
+    "Urea + SSP + MOP": {
+      "precision": 0.8571428571428571,
+      "recall": 1.0,
+      "f1-score": 0.9230769230769231,
+      "support": 12.0
+    },
+    "accuracy": 0.98,
+    "macro avg": {
+      "precision": 0.970160791589363,
+      "recall": 0.9496193461710704,
+      "f1-score": 0.9558308684379676,
+      "support": 300.0
+    },
+    "weighted avg": {
+      "precision": 0.9813924963924964,
+      "recall": 0.98,
+      "f1-score": 0.9794720655381612,
+      "support": 300.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      8,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      86,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      54,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      42,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      28,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12
+    ]
+  ],
+  "top_feature_importances": {
+    "soil_ph": 0.267,
+    "crop_Bengal Gram": 0.0854,
+    "crop_Groundnut": 0.0841,
+    "nitrogen_kg_ha": 0.0742,
+    "crop_Chillies": 0.0737,
+    "crop_Cotton": 0.0729,
+    "phosphorus_kg_ha": 0.0728,
+    "soil_type_Laterite": 0.058
+  }
+}

@@ -1,0 +1,80 @@
+version: "3.8"
+
+services:
+  # ----------------------------------------------------------------------------
+  # PostgreSQL: Local Relational Store & Medallion Warehouse
+  # ----------------------------------------------------------------------------
+  postgres:
+    image: postgres:16-alpine
+    container_name: agriai_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-agriai_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-agriai_local_pass}
+      POSTGRES_DB: ${POSTGRES_DB:-agriai_db}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-agriai_admin} -d ${POSTGRES_DB:-agriai_db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - agriai_network
+
+  # ----------------------------------------------------------------------------
+  # FastAPI Backend: Data APIs, Machine Learning & Vision Inference
+  # ----------------------------------------------------------------------------
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agriai_backend
+    restart: unless-stopped
+    command: uvicorn backend.main:app --host 0.0.0.0 --port 8000 --reload
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_ENV=development
+      - DEBUG=True
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-agriai_admin}:${POSTGRES_PASSWORD:-agriai_local_pass}@postgres:5432/${POSTGRES_DB:-agriai_db}
+      - BACKEND_HOST=0.0.0.0
+      - BACKEND_PORT=8000
+    volumes:
+      - .:/app
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - agriai_network
+
+  # ----------------------------------------------------------------------------
+  # Streamlit Frontend: Agriculture Intelligence Dashboard
+  # ----------------------------------------------------------------------------
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: agriai_frontend
+    restart: unless-stopped
+    command: streamlit run app/Home.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    environment:
+      - BACKEND_URL=http://backend:8000
+    volumes:
+      - .:/app
+    depends_on:
+      - backend
+    networks:
+      - agriai_network
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  agriai_network:
+    driver: bridge

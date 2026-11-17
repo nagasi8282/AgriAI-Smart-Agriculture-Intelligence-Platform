@@ -1,0 +1,14 @@
+state,district,soil_type,available_nitrogen_kg_ha,available_phosphorus_kg_ha,available_potassium_kg_ha,soil_ph,organic_carbon_pct,electrical_conductivity_dsm,nitrogen_category,phosphorus_category,potassium_category
+Andhra Pradesh,Guntur,Black Cotton,272.7,13.6,148.1,7.98,0.59,0.62,Low,Medium,Medium
+Andhra Pradesh,Krishna,Coastal Alluvial,283.4,18.0,276.2,6.8,0.74,0.27,Medium,Medium,Medium
+Andhra Pradesh,Kurnool,Black Cotton,350.0,15.6,230.4,7.4,0.58,0.55,Medium,Medium,Medium
+Andhra Pradesh,Anantapur,Red Sandy Loam,318.8,17.1,145.0,6.7,0.42,0.39,Medium,Medium,Medium
+Andhra Pradesh,East Godavari,Delta Alluvial,374.3,29.4,174.1,7.18,0.8,0.89,Medium,High,Medium
+Andhra Pradesh,Chittoor,Red Loam,321.1,17.1,214.4,7.17,0.8,0.31,Medium,Medium,Medium
+Andhra Pradesh,Prakasam,Black Soil,354.6,22.5,281.2,7.69,0.64,0.27,Medium,Medium,High
+Andhra Pradesh,West Godavari,Alluvial,445.4,20.1,212.3,7.03,0.57,0.66,Medium,Medium,Medium
+Andhra Pradesh,Visakhapatnam,Laterite Soil,393.7,27.9,148.6,7.5,0.73,0.34,Medium,High,Medium
+Andhra Pradesh,Nellore,Coastal Sandy,278.0,12.4,251.4,7.5,0.67,0.91,Low,Medium,Medium
+Andhra Pradesh,YSR Kadapa,Red & Black Mixed,235.6,26.3,268.7,7.96,0.71,0.44,Low,High,Medium
+Andhra Pradesh,Srikakulam,Red Loam,220.7,17.0,309.6,6.61,0.78,0.28,Low,Medium,High
+Andhra Pradesh,Vizianagaram,Red Sandy,360.4,22.0,277.3,7.01,0.8,0.83,Medium,Medium,Medium
