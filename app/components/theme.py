@@ -86,6 +86,11 @@ def apply_saas_theme(dark_mode: bool = False):
                 text-decoration: none !important;
             }}
 
+            /* Universal Sidebar Text Visibility Overrides */
+            [data-testid="stSidebarNavLinkText"],
+            [data-testid="stSidebarNavLink"] span,
+            [data-testid="stSidebar"] ul li a span,
+            [data-testid="stSidebar"] [data-testid="stSidebarNav"] span,
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] span,
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] [data-testid="stSidebarNavLinkText"],
             section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a span,
@@ -709,86 +714,87 @@ def render_top_bar(current_district: str = "Guntur"):
     user_role = st.session_state.auth_user.get("role", "Farmer")
     is_logged_in = st.session_state.auth_user.get("is_logged_in", False)
 
-    # 2. Render Top Bar 3-Column Layout
-    col_search, col_meta, col_auth = st.columns([1.6, 1.0, 1.0], vertical_alignment="center")
+    # 2. Render Top Bar 3-Column Layout inside a crisp card container
+    with st.container(border=True):
+        col_search, col_meta, col_auth = st.columns([1.5, 1.0, 1.1], vertical_alignment="center")
 
-    # Column 1: Working Search Bar
-    with col_search:
-        search_query = st.text_input(
-            "Search AgriAI Platform",
-            placeholder="🔍 Search crops, mandis, diseases, predictions (e.g. Cotton, Guntur)...",
-            label_visibility="collapsed",
-            key="global_top_search_input",
-        )
+        # Column 1: Working Search Bar
+        with col_search:
+            search_query = st.text_input(
+                "Search AgriAI Platform",
+                placeholder="🔍 Search crops, mandis, diseases (e.g. Cotton, Guntur)...",
+                label_visibility="collapsed",
+                key="global_top_search_input",
+            )
 
-    # Column 2: Location and Date Badges
-    with col_meta:
-        st.markdown(
-            f"""
-            <div style="display:flex; align-items:center; justify-content:center; gap:8px;">
-                <div class="top-badge">📍 {active_district}, AP</div>
-                <div class="top-badge">📅 {current_date_str}</div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
+        # Column 2: Location and Date Badges
+        with col_meta:
+            st.markdown(
+                f"""
+                <div style="display:flex; align-items:center; justify-content:center; gap:8px;">
+                    <div class="top-badge">📍 {active_district}, AP</div>
+                    <div class="top-badge">📅 {current_date_str}</div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
 
-    # Column 3: User Login & Account Switch Option (Replacing static Jyoti Developer)
-    with col_auth:
-        if not is_logged_in:
-            with st.popover("🔑 Login / Sign In", use_container_width=True):
-                st.markdown("#### 🌾 AgriAI User Sign In")
-                st.caption("Sign in to access personalized farm analytics, model predictions, and advisory downloads.")
-                login_user = st.text_input("Username or Mobile Number", placeholder="e.g. nagasai or 9876543210", key="login_field_user")
-                login_pass = st.text_input("Password", type="password", placeholder="Enter your password", key="login_field_pass")
-                login_role = st.selectbox(
-                    "User Category / Role",
-                    ["Farmer", "Agronomist / Scientist", "Agricultural Extension Officer (RBK)", "Student / Researcher"],
-                    index=0,
-                    key="login_field_role",
-                )
-                login_dist = st.selectbox(
-                    "Default Farm District",
-                    ["Guntur", "Krishna", "Kurnool", "Anantapur", "East Godavari", "West Godavari", "Chittoor", "Prakasam"],
-                    index=0,
-                    key="login_field_dist",
-                )
-                bcol1, bcol2 = st.columns(2)
-                with bcol1:
-                    if st.button("Sign In", type="primary", use_container_width=True, key="login_btn_submit"):
-                        uname = login_user.strip() if login_user.strip() else "Nagasai Farmer"
+        # Column 3: User Login & Account Switch Option (Replacing static Jyoti Developer)
+        with col_auth:
+            if not is_logged_in:
+                with st.popover("🔑 Login / Sign In", use_container_width=True):
+                    st.markdown("#### 🌾 AgriAI User Sign In")
+                    st.caption("Sign in to access personalized farm analytics, model predictions, and advisory downloads.")
+                    login_user = st.text_input("Username or Mobile Number", placeholder="e.g. nagasai or 9876543210", key="login_field_user")
+                    login_pass = st.text_input("Password", type="password", placeholder="Enter your password", key="login_field_pass")
+                    login_role = st.selectbox(
+                        "User Category / Role",
+                        ["Farmer", "Agronomist / Scientist", "Agricultural Extension Officer (RBK)", "Student / Researcher"],
+                        index=0,
+                        key="login_field_role",
+                    )
+                    login_dist = st.selectbox(
+                        "Default Farm District",
+                        ["Guntur", "Krishna", "Kurnool", "Anantapur", "East Godavari", "West Godavari", "Chittoor", "Prakasam"],
+                        index=0,
+                        key="login_field_dist",
+                    )
+                    bcol1, bcol2 = st.columns(2)
+                    with bcol1:
+                        if st.button("Sign In", type="primary", use_container_width=True, key="login_btn_submit"):
+                            uname = login_user.strip() if login_user.strip() else "Nagasai Farmer"
+                            st.session_state.auth_user = {
+                                "is_logged_in": True,
+                                "name": uname,
+                                "role": login_role,
+                                "district": login_dist,
+                            }
+                            st.rerun()
+                    with bcol2:
+                        if st.button("Quick Demo", use_container_width=True, key="login_btn_demo"):
+                            st.session_state.auth_user = {
+                                "is_logged_in": True,
+                                "name": "Nagasai (Farmer)",
+                                "role": "Farmer",
+                                "district": "Guntur",
+                            }
+                            st.rerun()
+            else:
+                role_short = user_role.split()[0]
+                with st.popover(f"👤 {user_name} ({role_short})", use_container_width=True):
+                    st.markdown(f"### 🌾 {user_name}")
+                    st.markdown(f"**Role:** {user_role}")
+                    st.markdown(f"**Operating District:** {active_district}, Andhra Pradesh")
+                    st.markdown("**Status:** Verified User 🟢")
+                    st.markdown("---")
+                    if st.button("Sign Out / Switch Account", type="secondary", use_container_width=True, key="logout_btn_submit"):
                         st.session_state.auth_user = {
-                            "is_logged_in": True,
-                            "name": uname,
-                            "role": login_role,
-                            "district": login_dist,
-                        }
-                        st.rerun()
-                with bcol2:
-                    if st.button("Quick Demo Login", use_container_width=True, key="login_btn_demo"):
-                        st.session_state.auth_user = {
-                            "is_logged_in": True,
-                            "name": "Nagasai (Farmer)",
+                            "is_logged_in": False,
+                            "name": "Guest Farmer",
                             "role": "Farmer",
                             "district": "Guntur",
                         }
                         st.rerun()
-        else:
-            role_short = user_role.split()[0]
-            with st.popover(f"👤 {user_name} ({role_short})", use_container_width=True):
-                st.markdown(f"### 🌾 {user_name}")
-                st.markdown(f"**Role:** {user_role}")
-                st.markdown(f"**Operating District:** {active_district}, Andhra Pradesh")
-                st.markdown("**Status:** Verified User 🟢")
-                st.markdown("---")
-                if st.button("Sign Out / Switch Account", type="secondary", use_container_width=True, key="logout_btn_submit"):
-                    st.session_state.auth_user = {
-                        "is_logged_in": False,
-                        "name": "Guest Farmer",
-                        "role": "Farmer",
-                        "district": "Guntur",
-                    }
-                    st.rerun()
 
     # 3. Interactive Search Results Display (Triggered when user types a query)
     if search_query and search_query.strip():
