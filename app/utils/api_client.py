@@ -69,6 +69,15 @@ class AgriAPIClient:
             return []
 
     @staticmethod
+    def get_live_weather(district: Optional[str] = "Guntur") -> Optional[Dict[str, Any]]:
+        params = {"district": district or "Guntur"}
+        try:
+            resp = requests.get(f"{API_V1}/analytics/weather/live", params=params, timeout=5)
+            return resp.json() if resp.status_code == 200 else None
+        except Exception:
+            return None
+
+    @staticmethod
     def get_weather(district: Optional[str] = None) -> List[Dict[str, Any]]:
         params = {}
         if district and district != "All":

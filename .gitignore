@@ -73,6 +73,7 @@ airflow/logs/
 .streamlit/secrets.toml
 
 # Data & Heavy Artifacts (Keep sample data metadata)
+data/quarantine/*
 data/raw/*
 !data/raw/.gitkeep
 data/processed/*

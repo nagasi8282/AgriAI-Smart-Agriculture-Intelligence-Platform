@@ -11,6 +11,7 @@ from app.components.theme import apply_saas_theme, render_sidebar, render_top_ba
 from app.components.cards import render_page_header, render_weather_widget
 from app.components.header import render_disclaimer
 from app.utils.api_client import api_client
+from app.utils.live_weather import get_live_weather
 
 st.set_page_config(page_title="Weather Intelligence | AgriAI", page_icon="🌦️", layout="wide")
 apply_saas_theme()
@@ -129,14 +130,20 @@ with col_w_left:
     st.markdown('</div>', unsafe_allow_html=True)
 
 with col_w_right:
+    target_dist = selected_district if selected_district != "All" else "Guntur"
+    live_w = get_live_weather(district=target_dist)
     st.markdown('<div class="saas-card">', unsafe_allow_html=True)
-    st.markdown("<h4 style='margin-top:0; color:#0f172a; font-weight:700;'>🌦️ 5-Day Numerical Forecast</h4>", unsafe_allow_html=True)
+    st.markdown(f"<h4 style='margin-top:0; color:#0f172a; font-weight:700;'>🌦️ Real-Time Telemetry & Forecast ({target_dist})</h4>", unsafe_allow_html=True)
     render_weather_widget(
-        district=selected_district if selected_district != "All" else "Guntur",
-        temp_c=float(filtered_df["temp_mean_c"].mean()) if not filtered_df.empty else 32.0,
-        condition="Partly Cloudy",
-        humidity=avg_hum,
-        wind=14.0,
+        district=target_dist,
+        temp_c=live_w["temp_c"],
+        condition=live_w["condition"],
+        humidity=live_w["humidity"],
+        wind=live_w["wind_speed"],
+        icon=live_w["icon"],
+        forecast=live_w["forecast"],
+        is_live=live_w.get("is_live", True),
+        feels_like=live_w.get("feels_like_c"),
     )
     st.markdown('</div>', unsafe_allow_html=True)
 

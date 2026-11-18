@@ -6,11 +6,13 @@ Serves agricultural statistical datasets: Crop Production, Mandi Prices, Weather
 from typing import List, Optional
 from fastapi import APIRouter, Query
 from backend.services.analytics_service import analytics_service
+from backend.services.weather_live_service import live_weather_service
 from backend.schemas.analytics import (
     DashboardSummary,
     CropProductionRecord,
     MandiPriceRecord,
     WeatherRecord,
+    LiveWeatherResponse,
     SoilRecord,
 )
 
@@ -53,6 +55,14 @@ async def get_mandi_prices(
         market=market,
         commodity=commodity,
     )
+
+
+@router.get("/weather/live", response_model=LiveWeatherResponse)
+async def get_live_weather(
+    district: Optional[str] = Query("Guntur", description="District name in Andhra Pradesh"),
+):
+    """Retrieve real-time live meteorological telemetry and 6-day numerical forecast via Open-Meteo."""
+    return live_weather_service.fetch_live_weather(district=district)
 
 
 @router.get("/weather", response_model=List[WeatherRecord])

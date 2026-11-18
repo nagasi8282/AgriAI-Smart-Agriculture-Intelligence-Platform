@@ -25,6 +25,7 @@ from app.components.cards import (
 )
 from app.components.header import render_disclaimer
 from app.utils.api_client import api_client
+from app.utils.live_weather import get_live_weather
 
 # Page configuration
 st.set_page_config(
@@ -40,25 +41,30 @@ apply_saas_theme(dark_mode=False)
 # Render customized forest-green sidebar
 render_sidebar()
 
+# Determine active district from session state
+active_district = st.session_state.get("auth_user", {}).get("district", "Guntur")
+
 # Fetch live backend summaries
 summary = api_client.get_dashboard_summary()
 crop_records = api_client.get_crop_production()
 mandi_records = api_client.get_mandi_prices()
-weather_records = api_client.get_weather(district="Guntur")
+
+# Fetch genuine real-time meteorological observations (Open-Meteo)
+live_weather = get_live_weather(district=active_district)
 
 df_crop = pd.DataFrame(crop_records) if crop_records else pd.DataFrame()
 df_mandi = pd.DataFrame(mandi_records) if mandi_records else pd.DataFrame()
-df_weather = pd.DataFrame(weather_records) if weather_records else pd.DataFrame()
 
 # Dynamic KPI values
 total_prod_val = f"{df_crop['production_tonnes'].sum() / 1000000:.1f}M T" if not df_crop.empty else "342.5 MT"
 total_area_val = f"{df_crop['area_hectares'].sum() / 1000000:.1f}M Ha" if not df_crop.empty else "2.8M Ha"
 avg_mandi_val = f"₹{df_mandi['modal_price_inr'].mean():,.0f} /Qtl" if not df_mandi.empty else "₹2,450 /Quintal"
-current_temp_val = f"{df_weather['temp_mean_c'].iloc[0]:.0f}°C" if not df_weather.empty else "32°C"
-weather_cond_val = str(df_weather['condition'].iloc[0]) if not df_weather.empty and 'condition' in df_weather.columns else "Partly Cloudy"
+current_temp_val = f"{live_weather['temp_c']:.0f}°C"
+weather_cond_val = live_weather["condition"]
+weather_icon_val = live_weather.get("icon", "🌤️")
 
 # 1. Top App Bar
-render_top_bar(current_district="Guntur")
+render_top_bar(current_district=active_district)
 
 # 2. Panoramic Hero Banner
 render_hero_banner(
@@ -67,7 +73,7 @@ render_hero_banner(
     district="Andhra Pradesh, India",
 )
 
-# 3. Row of 4 KPI Metric Cards
+# 3. Row of 4 KPI Metric Cards (Real-Time Weather Synchronized)
 render_kpi_row(
     total_production=total_prod_val,
     production_delta="↑ 12.5%",
@@ -77,6 +83,7 @@ render_kpi_row(
     price_delta="↑ 6.1%",
     current_weather=current_temp_val,
     weather_cond=weather_cond_val,
+    weather_icon=weather_icon_val,
 )
 
 # 4. Main Content Grid - Row 1
@@ -145,11 +152,15 @@ with col_row1_right:
         unsafe_allow_html=True,
     )
     render_weather_widget(
-        district="Guntur",
-        temp_c=32.0,
-        condition="Partly Cloudy",
-        humidity=68.0,
-        wind=12.0,
+        district=active_district,
+        temp_c=live_weather["temp_c"],
+        condition=live_weather["condition"],
+        humidity=live_weather["humidity"],
+        wind=live_weather["wind_speed"],
+        icon=live_weather["icon"],
+        forecast=live_weather["forecast"],
+        is_live=live_weather.get("is_live", True),
+        feels_like=live_weather.get("feels_like_c"),
     )
 
 st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)

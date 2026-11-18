@@ -4,6 +4,7 @@ Provides styled KPI cards, weather widgets, quick tool launchpad, and page banne
 """
 
 import streamlit as st
+from typing import Optional, List, Dict, Any
 
 
 def render_kpi_row(
@@ -15,6 +16,7 @@ def render_kpi_row(
     price_delta: str = "↑ 6.1%",
     current_weather: str = "32°C",
     weather_cond: str = "Partly Cloudy",
+    weather_icon: str = "🌤️",
 ):
     """Render the 4-across top KPI metric cards with icons and trend badges."""
     st.markdown(
@@ -45,7 +47,7 @@ def render_kpi_row(
                 </div>
             </div>
             <div class="kpi-card">
-                <div class="kpi-icon-circle kpi-icon-sky">🌤️</div>
+                <div class="kpi-icon-circle kpi-icon-sky">{weather_icon}</div>
                 <div class="kpi-content">
                     <span class="kpi-label">Current Weather</span>
                     <span class="kpi-value">{current_weather}</span>
@@ -60,52 +62,74 @@ def render_kpi_row(
 
 def render_weather_widget(
     district: str = "Guntur",
-    temp_c: float = 32.0,
+    temp_c: float = 30.0,
     condition: str = "Partly Cloudy",
-    humidity: float = 68.0,
-    wind: float = 12.0,
+    humidity: float = 60.0,
+    wind: float = 10.0,
+    icon: str = "🌤️",
+    forecast: Optional[List[Dict[str, Any]]] = None,
+    is_live: bool = True,
+    feels_like: Optional[float] = None,
 ):
-    """Render the interactive weather card with 5-day forecast strip."""
+    """Render the interactive live weather card with dynamic 5-day forecast strip."""
+    live_badge = ""
+    if is_live:
+        live_badge = """
+        <span style="display: inline-flex; align-items: center; gap: 5px; font-size: 0.70rem; font-weight: 700; color: #059669; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 9999px; padding: 2px 8px; letter-spacing: 0.5px;">
+            <span style="width: 6px; height: 6px; border-radius: 50%; background: #10b981; display: inline-block;"></span>
+            LIVE METEOROLOGY
+        </span>
+        """
+
+    # Generate dynamic 5-day forecast blocks
+    forecast_html = ""
+    if forecast and len(forecast) > 0:
+        forecast_items = forecast[1:6] if len(forecast) >= 6 else forecast[:5]
+        for item in forecast_items:
+            day_name = item.get("day", "Day")
+            day_icon = item.get("icon", "🌤️")
+            day_max = item.get("temp_max", 32.0)
+            forecast_html += f"""
+            <div class="forecast-day">
+                <span class="forecast-day-name">{day_name}</span>
+                <span class="forecast-icon">{day_icon}</span>
+                <span class="forecast-temp">{day_max:.0f}°C</span>
+            </div>
+            """
+    else:
+        default_days = [("Thu", "⛅", 32), ("Fri", "☀️", 33), ("Sat", "☁️", 31), ("Sun", "🌦️", 30), ("Mon", "🌤️", 32)]
+        for d_name, d_icon, d_temp in default_days:
+            forecast_html += f"""
+            <div class="forecast-day">
+                <span class="forecast-day-name">{d_name}</span>
+                <span class="forecast-icon">{d_icon}</span>
+                <span class="forecast-temp">{d_temp}°C</span>
+            </div>
+            """
+
+    feels_like_str = f"&nbsp;|&nbsp; 🌡️ Feels: <b>{feels_like:.0f}°C</b>" if feels_like is not None else ""
+
     st.markdown(
         f"""
         <div class="weather-saas-card">
-            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
-                <div>
-                    <div style="font-size: 0.82rem; font-weight: 700; color: #64748b; text-transform: uppercase;">📍 {district}, Andhra Pradesh</div>
-                    <div style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin: 4px 0;">{temp_c:.0f}°C</div>
-                    <div style="font-size: 0.95rem; font-weight: 600; color: #3b82f6;">{condition}</div>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <div style="font-size: 0.80rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">
+                    📍 {district}, Andhra Pradesh
                 </div>
-                <div style="font-size: 44px;">🌤️</div>
+                {live_badge}
             </div>
-            <div style="font-size: 0.82rem; color: #64748b; margin-bottom: 10px;">
-                💧 Humidity: <b>{humidity:.0f}%</b> &nbsp;|&nbsp; 💨 Wind: <b>{wind:.0f} km/h</b>
+            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
+                <div>
+                    <div style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin: 2px 0; line-height: 1.1;">{temp_c:.0f}°C</div>
+                    <div style="font-size: 0.95rem; font-weight: 600; color: #0284c7;">{condition}</div>
+                </div>
+                <div style="font-size: 46px; line-height: 1;">{icon}</div>
+            </div>
+            <div style="font-size: 0.82rem; color: #64748b; margin-bottom: 12px; background: #f8fafc; padding: 6px 10px; border-radius: 8px;">
+                💧 Humidity: <b>{humidity:.0f}%</b> &nbsp;|&nbsp; 💨 Wind: <b>{wind:.0f} km/h</b>{feels_like_str}
             </div>
             <div class="weather-forecast-strip">
-                <div class="forecast-day">
-                    <span class="forecast-day-name">Tue</span>
-                    <span class="forecast-icon">☀️</span>
-                    <span class="forecast-temp">34°C</span>
-                </div>
-                <div class="forecast-day">
-                    <span class="forecast-day-name">Wed</span>
-                    <span class="forecast-icon">⛅</span>
-                    <span class="forecast-temp">33°C</span>
-                </div>
-                <div class="forecast-day">
-                    <span class="forecast-day-name">Thu</span>
-                    <span class="forecast-icon">🌤️</span>
-                    <span class="forecast-temp">32°C</span>
-                </div>
-                <div class="forecast-day">
-                    <span class="forecast-day-name">Fri</span>
-                    <span class="forecast-icon">🌧️</span>
-                    <span class="forecast-temp">31°C</span>
-                </div>
-                <div class="forecast-day">
-                    <span class="forecast-day-name">Sat</span>
-                    <span class="forecast-icon">☀️</span>
-                    <span class="forecast-temp">30°C</span>
-                </div>
+                {forecast_html}
             </div>
         </div>
         """,

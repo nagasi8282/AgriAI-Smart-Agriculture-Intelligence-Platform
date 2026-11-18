@@ -49,6 +49,32 @@ class WeatherRecord(BaseModel):
     condition: Optional[str] = "Normal"
 
 
+class WeatherForecastDay(BaseModel):
+    date: str
+    day: str
+    temp_max: float
+    temp_min: float
+    condition: str
+    icon: str
+    precipitation_mm: float = 0.0
+
+
+class LiveWeatherResponse(BaseModel):
+    district: str
+    latitude: float
+    longitude: float
+    temp_c: float
+    feels_like_c: float
+    condition: str
+    icon: str
+    humidity: float
+    wind_speed: float
+    precipitation_mm: float = 0.0
+    is_live: bool = True
+    forecast: List[WeatherForecastDay]
+    updated_at: str
+
+
 class SoilRecord(BaseModel):
     district: str
     soil_type: str
