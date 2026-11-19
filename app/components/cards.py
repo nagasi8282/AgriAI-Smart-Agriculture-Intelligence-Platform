@@ -19,45 +19,43 @@ def render_kpi_row(
     weather_icon: str = "🌤️",
 ):
     """Render the 4-across top KPI metric cards with icons and trend badges."""
-    st.markdown(
-        f"""
-        <div class="kpi-grid">
-            <div class="kpi-card">
-                <div class="kpi-icon-circle kpi-icon-green">🍃</div>
-                <div class="kpi-content">
-                    <span class="kpi-label">Total Crop Production</span>
-                    <span class="kpi-value">{total_production}</span>
-                    <span class="kpi-trend-green">{production_delta}</span>
-                </div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-icon-circle kpi-icon-emerald">🚜</div>
-                <div class="kpi-content">
-                    <span class="kpi-label">Gross Cultivated Area</span>
-                    <span class="kpi-value">{active_area}</span>
-                    <span class="kpi-trend-green">{area_delta}</span>
-                </div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-icon-circle kpi-icon-gold">₹</div>
-                <div class="kpi-content">
-                    <span class="kpi-label">Avg Mandi Price</span>
-                    <span class="kpi-value">{avg_mandi_price}</span>
-                    <span class="kpi-trend-green">{price_delta}</span>
-                </div>
-            </div>
-            <div class="kpi-card">
-                <div class="kpi-icon-circle kpi-icon-sky">{weather_icon}</div>
-                <div class="kpi-content">
-                    <span class="kpi-label">Current Weather</span>
-                    <span class="kpi-value">{current_weather}</span>
-                    <span style="font-size: 0.78rem; color: #0284c7; font-weight: 600; margin-top: 4px;">{weather_cond}</span>
-                </div>
-            </div>
-        </div>
-        """,
-        unsafe_allow_html=True,
+    kpi_html = (
+        f'<div class="kpi-grid">'
+        f'<div class="kpi-card">'
+        f'<div class="kpi-icon-circle kpi-icon-green">🍃</div>'
+        f'<div class="kpi-content">'
+        f'<span class="kpi-label">Total Crop Production</span>'
+        f'<span class="kpi-value">{total_production}</span>'
+        f'<span class="kpi-trend-green">{production_delta}</span>'
+        f'</div>'
+        f'</div>'
+        f'<div class="kpi-card">'
+        f'<div class="kpi-icon-circle kpi-icon-emerald">🚜</div>'
+        f'<div class="kpi-content">'
+        f'<span class="kpi-label">Gross Cultivated Area</span>'
+        f'<span class="kpi-value">{active_area}</span>'
+        f'<span class="kpi-trend-green">{area_delta}</span>'
+        f'</div>'
+        f'</div>'
+        f'<div class="kpi-card">'
+        f'<div class="kpi-icon-circle kpi-icon-gold">₹</div>'
+        f'<div class="kpi-content">'
+        f'<span class="kpi-label">Avg Mandi Price</span>'
+        f'<span class="kpi-value">{avg_mandi_price}</span>'
+        f'<span class="kpi-trend-green">{price_delta}</span>'
+        f'</div>'
+        f'</div>'
+        f'<div class="kpi-card">'
+        f'<div class="kpi-icon-circle kpi-icon-sky">{weather_icon}</div>'
+        f'<div class="kpi-content">'
+        f'<span class="kpi-label">Current Weather</span>'
+        f'<span class="kpi-value">{current_weather}</span>'
+        f'<span style="font-size:0.78rem;color:#0284c7;font-weight:600;margin-top:4px;">{weather_cond}</span>'
+        f'</div>'
+        f'</div>'
+        f'</div>'
     )
+    st.markdown(kpi_html, unsafe_allow_html=True)
 
 
 def render_weather_widget(
@@ -72,69 +70,62 @@ def render_weather_widget(
     feels_like: Optional[float] = None,
 ):
     """Render the interactive live weather card with dynamic 5-day forecast strip."""
-    live_badge = ""
-    if is_live:
-        live_badge = """
-        <span style="display: inline-flex; align-items: center; gap: 5px; font-size: 0.70rem; font-weight: 700; color: #059669; background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 9999px; padding: 2px 8px; letter-spacing: 0.5px;">
-            <span style="width: 6px; height: 6px; border-radius: 50%; background: #10b981; display: inline-block;"></span>
-            LIVE METEOROLOGY
-        </span>
-        """
+    live_badge = (
+        '<span style="display:inline-flex;align-items:center;gap:5px;font-size:0.70rem;font-weight:700;'
+        'color:#059669;background:#ecfdf5;border:1px solid #a7f3d0;border-radius:9999px;padding:2px 8px;letter-spacing:0.5px;">'
+        '<span style="width:6px;height:6px;border-radius:50%;background:#10b981;display:inline-block;"></span>'
+        'LIVE METEOROLOGY</span>'
+    ) if is_live else ""
 
-    # Generate dynamic 5-day forecast blocks
-    forecast_html = ""
+    forecast_items_html = []
     if forecast and len(forecast) > 0:
-        forecast_items = forecast[1:6] if len(forecast) >= 6 else forecast[:5]
-        for item in forecast_items:
-            day_name = item.get("day", "Day")
-            day_icon = item.get("icon", "🌤️")
-            day_max = item.get("temp_max", 32.0)
-            forecast_html += f"""
-            <div class="forecast-day">
-                <span class="forecast-day-name">{day_name}</span>
-                <span class="forecast-icon">{day_icon}</span>
-                <span class="forecast-temp">{day_max:.0f}°C</span>
-            </div>
-            """
+        items = forecast[1:6] if len(forecast) >= 6 else forecast[:5]
+        for item in items:
+            d_name = item.get("day", "Day")
+            d_icon = item.get("icon", "🌤️")
+            d_max = item.get("temp_max", 32.0)
+            forecast_items_html.append(
+                f'<div class="forecast-day">'
+                f'<span class="forecast-day-name">{d_name}</span>'
+                f'<span class="forecast-icon">{d_icon}</span>'
+                f'<span class="forecast-temp">{d_max:.0f}°C</span>'
+                f'</div>'
+            )
     else:
         default_days = [("Thu", "⛅", 32), ("Fri", "☀️", 33), ("Sat", "☁️", 31), ("Sun", "🌦️", 30), ("Mon", "🌤️", 32)]
         for d_name, d_icon, d_temp in default_days:
-            forecast_html += f"""
-            <div class="forecast-day">
-                <span class="forecast-day-name">{d_name}</span>
-                <span class="forecast-icon">{d_icon}</span>
-                <span class="forecast-temp">{d_temp}°C</span>
-            </div>
-            """
+            forecast_items_html.append(
+                f'<div class="forecast-day">'
+                f'<span class="forecast-day-name">{d_name}</span>'
+                f'<span class="forecast-icon">{d_icon}</span>'
+                f'<span class="forecast-temp">{d_temp}°C</span>'
+                f'</div>'
+            )
 
-    feels_like_str = f"&nbsp;|&nbsp; 🌡️ Feels: <b>{feels_like:.0f}°C</b>" if feels_like is not None else ""
+    forecast_strip = "".join(forecast_items_html)
+    feels_str = f"&nbsp;|&nbsp; 🌡️ Feels: <b>{feels_like:.0f}°C</b>" if feels_like is not None else ""
 
-    st.markdown(
-        f"""
-        <div class="weather-saas-card">
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                <div style="font-size: 0.80rem; font-weight: 700; color: #64748b; text-transform: uppercase; letter-spacing: 0.5px;">
-                    📍 {district}, Andhra Pradesh
-                </div>
-                {live_badge}
-            </div>
-            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px;">
-                <div>
-                    <div style="font-size: 2.2rem; font-weight: 800; color: #0f172a; margin: 2px 0; line-height: 1.1;">{temp_c:.0f}°C</div>
-                    <div style="font-size: 0.95rem; font-weight: 600; color: #0284c7;">{condition}</div>
-                </div>
-                <div style="font-size: 46px; line-height: 1;">{icon}</div>
-            </div>
-            <div style="font-size: 0.82rem; color: #64748b; margin-bottom: 12px; background: #f8fafc; padding: 6px 10px; border-radius: 8px;">
-                💧 Humidity: <b>{humidity:.0f}%</b> &nbsp;|&nbsp; 💨 Wind: <b>{wind:.0f} km/h</b>{feels_like_str}
-            </div>
-            <div class="weather-forecast-strip">
-                {forecast_html}
-            </div>
-        </div>
-        """,
-        unsafe_allow_html=True,
+    card_html = (
+        f'<div class="weather-saas-card">'
+        f'<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">'
+        f'<div style="font-size:0.80rem;font-weight:700;color:#64748b;text-transform:uppercase;letter-spacing:0.5px;">📍 {district}, Andhra Pradesh</div>'
+        f'{live_badge}'
+        f'</div>'
+        f'<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px;">'
+        f'<div>'
+        f'<div style="font-size:2.2rem;font-weight:800;color:#0f172a;margin:2px 0;line-height:1.1;">{temp_c:.0f}°C</div>'
+        f'<div style="font-size:0.95rem;font-weight:600;color:#0284c7;">{condition}</div>'
+        f'</div>'
+        f'<div style="font-size:46px;line-height:1;">{icon}</div>'
+        f'</div>'
+        f'<div style="font-size:0.82rem;color:#64748b;margin-bottom:12px;background:#f8fafc;padding:6px 10px;border-radius:8px;">'
+        f'💧 Humidity: <b>{humidity:.0f}%</b> &nbsp;|&nbsp; 💨 Wind: <b>{wind:.0f} km/h</b>{feels_str}'
+        f'</div>'
+        f'<div class="weather-forecast-strip">{forecast_strip}</div>'
+        f'</div>'
     )
+
+    st.markdown(card_html, unsafe_allow_html=True)
 
 
 def render_quick_tools():
