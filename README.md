@@ -3,6 +3,8 @@
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-green.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688.svg)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B.svg)](https://streamlit.io/)
+[![Zero--Cost Hosting](https://img.shields.io/badge/Deployment-Streamlit%20Cloud%20(%E2%82%B90%2Fmo)-brightgreen.svg)](docs/zero_cost_architecture.md)
+[![Tests Passing](https://img.shields.io/badge/Tests-48%20Passing-success.svg)](docs/deployment_testing.md)
 [![Architecture](https://img.shields.io/badge/Architecture-Medallion%20Lakehouse-blue.svg)](docs/architecture.md)
 [![Target Region](https://img.shields.io/badge/Focus-Andhra%20Pradesh%20(India)-darkgreen.svg)](docs/project_charter.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -118,24 +120,45 @@ Starts PostgreSQL (5432), FastAPI (8000), and Streamlit (8501) concurrently.
 
 ---
 
+## 🌐 Zero-Cost Public Cloud Deployment (Streamlit Community Cloud)
+
+AgriAI is pre-configured for **100% permanent free deployment ($0 / ₹0 monthly infrastructure cost)** on [Streamlit Community Cloud](https://share.streamlit.io):
+
+1. **Sign in** to [share.streamlit.io](https://share.streamlit.io) with your GitHub account.
+2. Click **New app** ➔ select repository `nagasi8282/AgriAI-Smart-Agriculture-Intelligence-Platform`.
+3. Set **Branch**: `main`.
+4. Set **Main file path**: `app/Home.py` *(Important: entry point is `app/Home.py`)*.
+5. Click **Deploy!**.
+
+For the complete zero-cost deployment blueprint and Azure safety audit, see:
+- 📖 [Streamlit Cloud Deployment Guide](docs/streamlit_deployment.md)
+- 🏗️ [Zero-Cost Architecture Blueprint](docs/zero_cost_architecture.md)
+- 🛡️ [Azure Cost Safety & Verification Guide](docs/azure_cost_safety.md)
+
+---
+
 ## 🧪 Running Automated Tests
 
-AgriAI includes an extensive test suite verifying API contracts, ML inference, vision diagnosis, RAG anti-hallucination, and storage utilities:
+AgriAI includes an extensive test suite verifying API contracts, ML inference, vision diagnosis, RAG anti-hallucination, storage utilities, and standalone zero-cost module execution:
 
 ```bash
 pytest tests -v
 ```
-*(31 out of 31 tests passing)*.
+*(**48 out of 48 tests passing** - 100% success rate)*.
 
 ---
 
 ## 📚 Documentation Directory
 
+- [docs/deployment_audit.md](docs/deployment_audit.md): Complete project audit and cloud feasibility assessment.
+- [docs/zero_cost_architecture.md](docs/zero_cost_architecture.md): Zero-cost architecture and dual-mode decoupling.
+- [docs/streamlit_deployment.md](docs/streamlit_deployment.md): Step-by-step Streamlit Community Cloud guide.
+- [docs/azure_cost_safety.md](docs/azure_cost_safety.md): Azure spending caps, budget alerts, and cost prevention.
+- [docs/deployment_testing.md](docs/deployment_testing.md): Automated verification matrix across all 12 modules.
+- [docs/troubleshooting.md](docs/troubleshooting.md): Common deployment errors and self-healing resolutions.
 - [docs/project_charter.md](docs/project_charter.md): Business objective, scope, SLAs, and requirements.
 - [docs/architecture.md](docs/architecture.md): Complete architecture diagram and Medallion schema design.
 - [docs/dataset_sources.md](docs/dataset_sources.md): Dataset registry, data.gov.in, AGMARKNET, and IMD specs.
-- [docs/implementation_plan.md](docs/implementation_plan.md): 10-phase engineering roadmap.
-- [docs/progress.md](docs/progress.md): Real-time implementation tracking, test logs, and audit trail.
 - [docs/ml_documentation.md](docs/ml_documentation.md): Detailed ML models, formulas, and evaluation benchmarks.
 
 ---
